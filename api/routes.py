@@ -5,6 +5,11 @@ from flask import Blueprint, jsonify
 api_bp = Blueprint("api", __name__)
 
 
+@api_bp.route('/', methods=['GET'])
+def home_page():
+    return "API kanji"
+
+
 @api_bp.route('/jplt/4', methods=['GET'])
 def get_old_jpl4_kanji():
     # Read the JSON file
