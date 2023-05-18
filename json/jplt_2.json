@@ -5,9 +5,6 @@
         "freq": 640,
         "jlpt": 2,
         "meanings": [
-            "Love",
-            "Affection",
-            "Favourite",
             "Amour",
             "Affection",
             "Favori"
@@ -29,11 +26,6 @@
         "freq": 718,
         "jlpt": 2,
         "meanings": [
-            "Pressure",
-            "Push",
-            "Overwhelm",
-            "Oppress",
-            "Dominate",
             "Pression",
             "Pousser",
             "Submerger",
@@ -60,17 +52,6 @@
         "meanings": [
             "Plan",
             "Suggestion",
-            "Draft",
-            "Ponder",
-            "Fear",
-            "Proposition",
-            "Idea",
-            "Expectation",
-            "Worry",
-            "Table",
-            "Bench",
-            "Plan",
-            "Suggestion",
             "Projet (loi)",
             "Réflexion",
             "Peur",
@@ -91,12 +72,6 @@
         "freq": 276,
         "jlpt": 2,
         "meanings": [
-            "Rank",
-            "Grade",
-            "Throne",
-            "Crown",
-            "About",
-            "Some",
             "Rang",
             "Position",
             "Grade",
@@ -118,11 +93,6 @@
         "freq": 906,
         "jlpt": 2,
         "meanings": [
-            "Reliant",
-            "Depend On",
-            "Consequently",
-            "Therefore",
-            "Due To",
             "Dépendant",
             "Par Conséquent",
             "Donc",
@@ -143,12 +113,6 @@
         "jlpt": 2,
         "meanings": [
             "Admirable",
-            "Greatness",
-            "Remarkable",
-            "Conceited",
-            "Famous",
-            "Excellent",
-            "Admirable",
             "Grandeur",
             "Remarquable",
             "Vaniteux",
@@ -168,14 +132,6 @@
         "freq": 771,
         "jlpt": 2,
         "meanings": [
-            "Surround",
-            "Besiege",
-            "Store",
-            "Paling",
-            "Enclosure",
-            "Encircle",
-            "Preserve",
-            "Keep",
             "Entourer",
             "Assiéger",
             "Enceinte",
@@ -199,11 +155,6 @@
         "freq": 187,
         "jlpt": 2,
         "meanings": [
-            "Committee",
-            "Entrust To",
-            "Leave To",
-            "Devote",
-            "Discard",
             "Comité",
             "Confier À",
             "Laisser À",
@@ -223,11 +174,6 @@
         "freq": 571,
         "jlpt": 2,
         "meanings": [
-            "Easy",
-            "Ready To",
-            "Simple",
-            "Fortune-telling",
-            "Divination",
             "Facile",
             "Prêt-à-...",
             "Simple",
@@ -250,13 +196,6 @@
         "freq": 631,
         "jlpt": 2,
         "meanings": [
-            "Uncommon",
-            "Different",
-            "Queerness",
-            "Strangeness",
-            "Wonderful",
-            "Curious",
-            "Unusual",
             "Inhabituel",
             "Bizarrerie",
             "Étrangeté",
@@ -279,12 +218,6 @@
         "freq": 448,
         "jlpt": 2,
         "meanings": [
-            "Shift",
-            "Move",
-            "Change",
-            "Drift",
-            "Catch (cold, Fire)",
-            "Pass Into",
             "Déplacer",
             "Transporter",
             "Déménager",
@@ -307,10 +240,6 @@
         "freq": 1647,
         "jlpt": 2,
         "meanings": [
-            "Stomach",
-            "Paunch",
-            "Crop",
-            "Craw",
             "Estomac",
             "Ventre",
             "Jabot"
@@ -326,9 +255,6 @@
         "freq": 1214,
         "jlpt": 2,
         "meanings": [
-            "Garment",
-            "Clothes",
-            "Dressing",
             "Vêtement",
             "Habillement"
         ],
@@ -348,8 +274,6 @@
         "freq": 344,
         "jlpt": 2,
         "meanings": [
-            "Difference",
-            "Differ",
             "Différence",
             "Différer"
         ],
@@ -371,11 +295,6 @@
         "freq": 396,
         "jlpt": 2,
         "meanings": [
-            "Range",
-            "Region",
-            "Limits",
-            "Stage",
-            "Level",
             "Zone",
             "Champ",
             "Région",
@@ -394,10 +313,6 @@
         "freq": 369,
         "jlpt": 2,
         "meanings": [
-            "Bring Up",
-            "Grow Up",
-            "Raise",
-            "Rear",
             "Élever",
             "Grandir"
         ],
@@ -417,16 +332,6 @@
         "freq": 682,
         "jlpt": 2,
         "meanings": [
-            "Stamp",
-            "Seal",
-            "Mark",
-            "Imprint",
-            "Symbol",
-            "Emblem",
-            "Trademark",
-            "Evidence",
-            "Souvenir",
-            "India",
             "Tampon",
             "Sceau",
             "Impression",
@@ -454,11 +359,6 @@
         "jlpt": 2,
         "meanings": [
             "Cause",
-            "Factor",
-            "Be Associated With",
-            "Depend On",
-            "Be Limited To",
-            "Cause",
             "Facteur",
             "Associé À",
             "Dépendre De",
@@ -478,10 +378,6 @@
         "freq": 883,
         "jlpt": 2,
         "meanings": [
-            "Eaves",
-            "Roof",
-            "House",
-            "Heaven",
             "Firmament",
             "Cieux",
             "Auvent",
@@ -499,8 +395,6 @@
         "freq": 748,
         "jlpt": 2,
         "meanings": [
-            "Feathers",
-            "Counter For Birds, Rabbits",
             "Plume",
             "Compteur D'oiseaux, Lapins"
         ],
@@ -519,7 +413,6 @@
         "freq": 1256,
         "jlpt": 2,
         "meanings": [
-            "Cloud",
             "Nuage"
         ],
         "readings_on": [
@@ -536,11 +429,6 @@
         "freq": 303,
         "jlpt": 2,
         "meanings": [
-            "Occupation",
-            "Camp",
-            "Perform",
-            "Build",
-            "Conduct (business)",
             "Travail",
             "Camp",
             "Exécuter",
@@ -561,11 +449,6 @@
         "freq": 920,
         "jlpt": 2,
         "meanings": [
-            "Flourish",
-            "Prosperity",
-            "Honor",
-            "Glory",
-            "Splendor",
             "Florissant",
             "Prospérité",
             "Honneur",
@@ -590,9 +473,6 @@
         "freq": 846,
         "jlpt": 2,
         "meanings": [
-            "Eternity",
-            "Long",
-            "Lengthy",
             "Éternité",
             "Long",
             "Permanent"
@@ -610,7 +490,6 @@
         "freq": 1223,
         "jlpt": 2,
         "meanings": [
-            "Swim",
             "Nager"
         ],
         "readings_on": [
@@ -626,12 +505,6 @@
         "freq": 1395,
         "jlpt": 2,
         "meanings": [
-            "Pointed",
-            "Sharpness",
-            "Edge",
-            "Weapon",
-            "Sharp",
-            "Violent",
             "Pointu",
             "Aigu",
             "Tranchant",
@@ -652,11 +525,6 @@
         "freq": 1210,
         "jlpt": 2,
         "meanings": [
-            "Fluid",
-            "Liquid",
-            "Juice",
-            "Sap",
-            "Secretion",
             "Liquide",
             "Jus",
             "Fluide",
@@ -674,11 +542,6 @@
         "freq": 897,
         "jlpt": 2,
         "meanings": [
-            "Surpass",
-            "Cross Over",
-            "Move To",
-            "Exceed",
-            "Vietnam",
             "Doubler",
             "Traverser",
             "Muter",
@@ -703,10 +566,6 @@
         "freq": 628,
         "jlpt": 2,
         "meanings": [
-            "Park",
-            "Garden",
-            "Yard",
-            "Farm",
             "Parc",
             "Jardin",
             "Ferme"
@@ -724,8 +583,6 @@
         "freq": 747,
         "jlpt": 2,
         "meanings": [
-            "Prolong",
-            "Stretching",
             "Prolonger",
             "Allonger",
             "Étendre"
@@ -746,11 +603,6 @@
         "freq": 267,
         "jlpt": 2,
         "meanings": [
-            "Performance",
-            "Act",
-            "Play",
-            "Render",
-            "Stage",
             "Interpréter",
             "Représentation",
             "Jouer",
@@ -769,7 +621,6 @@
         "freq": 1290,
         "jlpt": 2,
         "meanings": [
-            "Smoke",
             "Fumée"
         ],
         "readings_on": [
@@ -787,7 +638,6 @@
         "freq": 1148,
         "jlpt": 2,
         "meanings": [
-            "Salt",
             "Sel"
         ],
         "readings_on": [
@@ -803,11 +653,6 @@
         "freq": 908,
         "jlpt": 2,
         "meanings": [
-            "Dirty",
-            "Pollute",
-            "Disgrace",
-            "Rape",
-            "Defile",
             "Sale",
             "Polluer",
             "Disgrâce",
@@ -832,8 +677,6 @@
         "freq": 582,
         "jlpt": 2,
         "meanings": [
-            "Center",
-            "Middle",
             "Centre",
             "Milieu"
         ],
@@ -848,8 +691,6 @@
         "freq": 1018,
         "jlpt": 2,
         "meanings": [
-            "Heart",
-            "Interior",
             "Intérieur",
             "Coeur",
             "Fond",
@@ -870,12 +711,6 @@
         "freq": 266,
         "jlpt": 2,
         "meanings": [
-            "Apply",
-            "Answer",
-            "Yes",
-            "Ok",
-            "Reply",
-            "Accept",
             "Postuler",
             "Oui",
             "Ok",
@@ -900,17 +735,6 @@
         "freq": 789,
         "jlpt": 2,
         "meanings": [
-            "Push",
-            "Stop",
-            "Check",
-            "Subdue",
-            "Attach",
-            "Seize",
-            "Weight",
-            "Shove",
-            "Press",
-            "Seal",
-            "Do In Spite Of",
             "Appuyer",
             "Pousser",
             "Arrêter",
@@ -940,13 +764,6 @@
         "freq": 480,
         "jlpt": 2,
         "meanings": [
-            "Sideways",
-            "Side",
-            "Horizontal",
-            "Width",
-            "Woof",
-            "Unreasonable",
-            "Perverse",
             "Latéral",
             "Côté",
             "Horizontal",
@@ -966,7 +783,6 @@
         "freq": 421,
         "jlpt": 2,
         "meanings": [
-            "Europe",
             "Europe"
         ],
         "readings_on": [
@@ -983,9 +799,6 @@
         "freq": 684,
         "jlpt": 2,
         "meanings": [
-            "King",
-            "Rule",
-            "Magnate",
             "Roi",
             "Régner",
             "Magnat"
@@ -1002,7 +815,6 @@
         "freq": 1240,
         "jlpt": 2,
         "meanings": [
-            "Yellow",
             "Jaune"
         ],
         "readings_on": [
@@ -1020,8 +832,6 @@
         "freq": 716,
         "jlpt": 2,
         "meanings": [
-            "Hundred Million",
-            "10**8",
             "Cent Millions",
             "10**8"
         ],
@@ -1036,7 +846,6 @@
         "freq": 838,
         "jlpt": 2,
         "meanings": [
-            "Warm",
             "Chaud"
         ],
         "readings_on": [
@@ -1056,12 +865,6 @@
         "freq": 89,
         "jlpt": 2,
         "meanings": [
-            "Change",
-            "Take The Form Of",
-            "Influence",
-            "Enchant",
-            "Delude",
-            "-ization",
             "Transformation",
             "Prendre La Forme De",
             "Maquillage",
@@ -1089,11 +892,6 @@
         "freq": 1039,
         "jlpt": 2,
         "meanings": [
-            "Sham",
-            "Temporary",
-            "Interim",
-            "Assumed (name)",
-            "Informal",
             "Factice",
             "Intérim",
             "Temporaire",
@@ -1116,8 +914,6 @@
         "freq": 250,
         "jlpt": 2,
         "meanings": [
-            "Value",
-            "Price",
             "Prix",
             "Valeur"
         ],
@@ -1135,12 +931,6 @@
         "freq": 130,
         "jlpt": 2,
         "meanings": [
-            "Add",
-            "Addition",
-            "Increase",
-            "Join",
-            "Include",
-            "Canada",
             "Ajouter",
             "Addition",
             "Augmentation",
@@ -1162,11 +952,6 @@
         "freq": 314,
         "jlpt": 2,
         "meanings": [
-            "Can",
-            "Passable",
-            "Mustn't",
-            "Should Not",
-            "Do Not",
             "Possible",
             "Acceptable",
             "Ne Doit Pas",
@@ -1187,9 +972,6 @@
         "freq": 531,
         "jlpt": 2,
         "meanings": [
-            "Department",
-            "Course",
-            "Section",
             "Département",
             "Section",
             "Cours",
@@ -1206,14 +988,6 @@
         "freq": 258,
         "jlpt": 2,
         "meanings": [
-            "Fruit",
-            "Reward",
-            "Carry Out",
-            "Achieve",
-            "Complete",
-            "End",
-            "Finish",
-            "Succeed",
             "Fruit",
             "Récompense",
             "Remplir (tâche)",
@@ -1241,7 +1015,6 @@
         "freq": 663,
         "jlpt": 2,
         "meanings": [
-            "River",
             "Rivière",
             "Fleuve"
         ],
@@ -1258,13 +1031,6 @@
         "freq": 1230,
         "jlpt": 2,
         "meanings": [
-            "Baggage",
-            "Shoulder-pole Load",
-            "Bear (a Burden)",
-            "Shoulder (a Gun)",
-            "Load",
-            "Cargo",
-            "Freight",
             "Bagages",
             "Balancier",
             "Porter (un Fardeau)",
@@ -1286,9 +1052,6 @@
         "freq": 1719,
         "jlpt": 2,
         "meanings": [
-            "Candy",
-            "Cakes",
-            "Fruit",
             "Friandise",
             "Gâteau",
             "Fruit"
@@ -1304,12 +1067,6 @@
         "freq": 455,
         "jlpt": 2,
         "meanings": [
-            "Chapter",
-            "Lesson",
-            "Section",
-            "Department",
-            "Division",
-            "Counter For Chapters (of A Book)",
             "Leçon",
             "Chapitre",
             "Section",
@@ -1328,9 +1085,6 @@
         "freq": 822,
         "jlpt": 2,
         "meanings": [
-            "Freight",
-            "Goods",
-            "Property",
             "Fret",
             "Biens"
         ],
@@ -1347,10 +1101,6 @@
         "freq": 285,
         "jlpt": 2,
         "meanings": [
-            "Overdo",
-            "Exceed",
-            "Go Beyond",
-            "Error",
             "Passer",
             "Dépasser",
             "Excéder",
@@ -1374,10 +1124,6 @@
         "freq": 617,
         "jlpt": 2,
         "meanings": [
-            "Jammed In",
-            "Shellfish",
-            "Mediate",
-            "Concern Oneself With",
             "Immixtion",
             "Coquillage",
             "Intervention",
@@ -1395,19 +1141,6 @@
         "freq": 176,
         "jlpt": 2,
         "meanings": [
-            "Unravel",
-            "Notes",
-            "Key",
-            "Explanation",
-            "Understanding",
-            "Untie",
-            "Undo",
-            "Solve",
-            "Answer",
-            "Cancel",
-            "Absolve",
-            "Explain",
-            "Minute",
             "Délier",
             "Notes",
             "Clé",
@@ -1441,10 +1174,6 @@
         "freq": 1074,
         "jlpt": 2,
         "meanings": [
-            "Cheerful",
-            "Pleasant",
-            "Agreeable",
-            "Comfortable",
             "Agréable",
             "Gai",
             "Plaisant",
@@ -1463,14 +1192,6 @@
         "freq": 147,
         "jlpt": 2,
         "meanings": [
-            "Reformation",
-            "Change",
-            "Modify",
-            "Mend",
-            "Renew",
-            "Examine",
-            "Inspect",
-            "Search",
             "Réforme",
             "Changer",
             "Modifier",
@@ -1494,10 +1215,6 @@
         "freq": 1321,
         "jlpt": 2,
         "meanings": [
-            "Contraption",
-            "Fetter",
-            "Machine",
-            "Instrument",
             "Instrument",
             "Machine",
             "Entrave"
@@ -1515,9 +1232,6 @@
         "freq": 1717,
         "jlpt": 2,
         "meanings": [
-            "Ashes",
-            "Puckery Juice",
-            "Cremate",
             "Cendre",
             "Lessive",
             "Incinéré"
@@ -1535,8 +1249,6 @@
         "freq": 1267,
         "jlpt": 2,
         "meanings": [
-            "All",
-            "Everything",
             "Tout",
             "Tous"
         ],
@@ -1554,10 +1266,6 @@
         "freq": 895,
         "jlpt": 2,
         "meanings": [
-            "Picture",
-            "Drawing",
-            "Painting",
-            "Sketch",
             "Image",
             "Dessin",
             "Peinture",
@@ -1575,9 +1283,6 @@
         "freq": 513,
         "jlpt": 2,
         "meanings": [
-            "Storey",
-            "Stair",
-            "Counter For Storeys Of A Building",
             "Étage",
             "Niveau",
             "Compteur D'étages"
@@ -1595,7 +1300,6 @@
         "freq": 1787,
         "jlpt": 2,
         "meanings": [
-            "Shellfish",
             "Coquillage"
         ],
         "readings_on": [
@@ -1611,8 +1315,6 @@
         "freq": 358,
         "jlpt": 2,
         "meanings": [
-            "Harm",
-            "Injury",
             "Tort",
             "Mal",
             "Blessure"
@@ -1628,9 +1330,6 @@
         "freq": 243,
         "jlpt": 2,
         "meanings": [
-            "Each",
-            "Every",
-            "Either",
             "Chacun",
             "Chaque"
         ],
@@ -1647,10 +1346,6 @@
         "freq": 611,
         "jlpt": 2,
         "meanings": [
-            "Broaden",
-            "Extend",
-            "Expand",
-            "Enlarge",
             "Élargir",
             "Étendre",
             "Développer",
@@ -1672,11 +1367,6 @@
         "freq": 281,
         "jlpt": 2,
         "meanings": [
-            "Status",
-            "Rank",
-            "Capacity",
-            "Character",
-            "Case (law, Grammar)",
             "Rang",
             "Statut",
             "Capacité",
@@ -1697,14 +1387,6 @@
         "freq": 252,
         "jlpt": 2,
         "meanings": [
-            "Assurance",
-            "Firm",
-            "Tight",
-            "Hard",
-            "Solid",
-            "Confirm",
-            "Clear",
-            "Evident",
             "Certitude",
             "Confirmation",
             "Sûr",
@@ -1727,11 +1409,6 @@
         "freq": 710,
         "jlpt": 2,
         "meanings": [
-            "Memorize",
-            "Learn",
-            "Remember",
-            "Awake",
-            "Sober Up",
             "Mémoriser",
             "Se Rappeler",
             "Perception",
@@ -1756,11 +1433,6 @@
         "jlpt": 2,
         "meanings": [
             "Angle",
-            "Corner",
-            "Square",
-            "Horn",
-            "Antlers",
-            "Angle",
             "Coin",
             "Carré",
             "Corne",
@@ -1780,8 +1452,6 @@
         "freq": 1172,
         "jlpt": 2,
         "meanings": [
-            "Contrast",
-            "Compare",
             "Contraste",
             "Comparer"
         ],
@@ -1799,10 +1469,6 @@
         "freq": 249,
         "jlpt": 2,
         "meanings": [
-            "Leather",
-            "Skin",
-            "Reform",
-            "Become Serious",
             "Cuir",
             "Peau",
             "Fourrure",
@@ -1823,13 +1489,6 @@
         "freq": 407,
         "jlpt": 2,
         "meanings": [
-            "Forehead",
-            "Tablet",
-            "Plaque",
-            "Framed Picture",
-            "Sum",
-            "Amount",
-            "Volume",
             "Front",
             "Tablette",
             "Plaque",
@@ -1851,12 +1510,6 @@
         "freq": 318,
         "jlpt": 2,
         "meanings": [
-            "Proportion",
-            "Comparatively",
-            "Divide",
-            "Cut",
-            "Separate",
-            "Split",
             "Briser",
             "Diviser",
             "Couper",
@@ -1881,10 +1534,6 @@
         "freq": 171,
         "jlpt": 2,
         "meanings": [
-            "Lively",
-            "Resuscitation",
-            "Being Helped",
-            "Living",
             "Vivant",
             "Animé",
             "Résurrection",
@@ -1905,12 +1554,6 @@
         "freq": 1453,
         "jlpt": 2,
         "meanings": [
-            "Drought",
-            "Dry",
-            "Dessicate",
-            "Drink Up",
-            "Heaven",
-            "Emperor",
             "Sécheresse",
             "Sécher",
             "Dessécher",
@@ -1936,9 +1579,6 @@
         "freq": 855,
         "jlpt": 2,
         "meanings": [
-            "Publish",
-            "Carve",
-            "Engrave",
             "Publier",
             "Ciseler",
             "Graver"
@@ -1954,15 +1594,6 @@
         "freq": 944,
         "jlpt": 2,
         "meanings": [
-            "Scroll",
-            "Volume",
-            "Book",
-            "Part",
-            "Roll Up",
-            "Wind Up",
-            "Tie",
-            "Coil",
-            "Counter For Texts (or Book Scrolls)",
             "Rouleau",
             "Livre",
             "Tome",
@@ -1988,9 +1619,6 @@
         "freq": 595,
         "jlpt": 2,
         "meanings": [
-            "Perfect",
-            "Completion",
-            "End",
             "Parfait",
             "Achèvement",
             "Accompli"
@@ -2006,9 +1634,6 @@
         "freq": 230,
         "jlpt": 2,
         "meanings": [
-            "Bureaucrat",
-            "The Government",
-            "Organ",
             "Fonctionnaire",
             "Gouvernemental"
         ],
@@ -2023,12 +1648,6 @@
         "freq": 1349,
         "jlpt": 2,
         "meanings": [
-            "Dry",
-            "Parch",
-            "Ebb",
-            "Recede",
-            "Interfere",
-            "Intercede",
             "Sec",
             "Dessécher"
         ],
@@ -2048,9 +1667,6 @@
         "freq": 233,
         "jlpt": 2,
         "meanings": [
-            "Emotion",
-            "Feeling",
-            "Sensation",
             "Sentiment",
             "Émotion",
             "Sensation"
@@ -2066,9 +1682,6 @@
         "freq": 1177,
         "jlpt": 2,
         "meanings": [
-            "Accustomed",
-            "Get Used To",
-            "Become Experienced",
             "Avoir L'habitude",
             "S'accoutumer",
             "Coutumes",
@@ -2088,12 +1701,6 @@
         "freq": 687,
         "jlpt": 2,
         "meanings": [
-            "Interchange",
-            "Period",
-            "Change",
-            "Convert",
-            "Replace",
-            "Renew",
             "Échanger",
             "Remplacer",
             "Convertir",
@@ -2114,8 +1721,6 @@
         "freq": 1502,
         "jlpt": 2,
         "meanings": [
-            "Sweat",
-            "Perspire",
             "Sueur",
             "Transpirer"
         ],
@@ -2132,10 +1737,6 @@
         "freq": 409,
         "jlpt": 2,
         "meanings": [
-            "Ring",
-            "Circle",
-            "Link",
-            "Wheel",
             "Anneau",
             "Cercle",
             "Roue",
@@ -2154,11 +1755,6 @@
         "freq": 1248,
         "jlpt": 2,
         "meanings": [
-            "Sweet",
-            "Coax",
-            "Pamper",
-            "Be Content",
-            "Sugary",
             "Doux",
             "Enjôler",
             "Dorloter",
@@ -2181,8 +1777,6 @@
         "freq": 1060,
         "jlpt": 2,
         "meanings": [
-            "Watch Over",
-            "See",
             "Regarder Attentivement",
             "Veiller Sur"
         ],
@@ -2199,12 +1793,6 @@
         "freq": 517,
         "jlpt": 2,
         "meanings": [
-            "Pipe",
-            "Tube",
-            "Wind Instrument",
-            "Drunken Talk",
-            "Control",
-            "Jurisdiction",
             "Tuyau",
             "Tube",
             "Instrument À Vent",
@@ -2224,8 +1812,6 @@
         "freq": 983,
         "jlpt": 2,
         "meanings": [
-            "Simplicity",
-            "Brevity",
             "Simplicité",
             "Brièveté"
         ],
@@ -2244,11 +1830,6 @@
         "freq": 476,
         "jlpt": 2,
         "meanings": [
-            "Outlook",
-            "Look",
-            "Appearance",
-            "Condition",
-            "View",
             "Perspective",
             "Vue",
             "Aspect",
@@ -2269,11 +1850,6 @@
         "freq": 70,
         "jlpt": 2,
         "meanings": [
-            "Connection",
-            "Barrier",
-            "Gateway",
-            "Involve",
-            "Concerning",
             "Relation",
             "Barrière",
             "Lien",
@@ -2297,16 +1873,6 @@
         "freq": 542,
         "jlpt": 2,
         "meanings": [
-            "Round",
-            "Full (month)",
-            "Perfection",
-            "-ship",
-            "Pills",
-            "Make Round",
-            "Roll Up",
-            "Curl Up",
-            "Seduce",
-            "Explain Away",
             "Rond",
             "Arrondir",
             "Entier (mois)",
@@ -2333,12 +1899,6 @@
         "freq": 466,
         "jlpt": 2,
         "meanings": [
-            "Contain",
-            "Include",
-            "Hold In The Mouth",
-            "Bear In Mind",
-            "Understand",
-            "Cherish",
             "Inclure",
             "Retenir",
             "Comprendre",
@@ -2358,7 +1918,6 @@
         "freq": 556,
         "jlpt": 2,
         "meanings": [
-            "Beach",
             "Côte",
             "Rive",
             "Plage"
@@ -2376,9 +1935,6 @@
         "freq": 787,
         "jlpt": 2,
         "meanings": [
-            "Boulder",
-            "Rock",
-            "Cliff",
             "Rocher",
             "Roc",
             "Falaise"
@@ -2396,11 +1952,6 @@
         "freq": 894,
         "jlpt": 2,
         "meanings": [
-            "Petition",
-            "Request",
-            "Vow",
-            "Wish",
-            "Hope",
             "Demande",
             "Prière",
             "Souhait",
@@ -2421,9 +1972,6 @@
         "freq": 606,
         "jlpt": 2,
         "meanings": [
-            "Dangerous",
-            "Fear",
-            "Uneasy",
             "Dangereux",
             "Crainte",
             "Gêne"
@@ -2443,8 +1991,6 @@
         "freq": 769,
         "jlpt": 2,
         "meanings": [
-            "Rejoice",
-            "Take Pleasure In",
             "Se Réjouir",
             "Prendre Plaisir À"
         ],
@@ -2462,15 +2008,6 @@
         "freq": 525,
         "jlpt": 2,
         "meanings": [
-            "Utensil",
-            "Vessel",
-            "Receptacle",
-            "Implement",
-            "Instrument",
-            "Ability",
-            "Container",
-            "Tool",
-            "Set",
             "Ustensile",
             "Récipient",
             "Instrument",
@@ -2492,10 +2029,6 @@
         "freq": 241,
         "jlpt": 2,
         "meanings": [
-            "Fundamentals",
-            "Radical (chem)",
-            "Counter For Machines",
-            "Foundation",
             "Fondements",
             "Radical (chimie)",
             "Compteur De Machines",
@@ -2515,13 +2048,6 @@
         "freq": 673,
         "jlpt": 2,
         "meanings": [
-            "Draw Near",
-            "Stop In",
-            "Bring Near",
-            "Gather",
-            "Collect",
-            "Send",
-            "Forward",
             "Approcher",
             "S'approcher",
             "Faire Une Visite",
@@ -2545,16 +2071,6 @@
         "freq": 896,
         "jlpt": 2,
         "meanings": [
-            "Hope",
-            "Beg",
-            "Request",
-            "Pray",
-            "Beseech",
-            "Greece",
-            "Dilute (acid)",
-            "Rare",
-            "Few",
-            "Phenomenal",
             "Espoir",
             "Demander",
             "Prier",
@@ -2580,8 +2096,6 @@
         "freq": 1671,
         "jlpt": 2,
         "meanings": [
-            "Desk",
-            "Table",
             "Bureau",
             "Table"
         ],
@@ -2598,10 +2112,6 @@
         "freq": 117,
         "jlpt": 2,
         "meanings": [
-            "Period",
-            "Time",
-            "Date",
-            "Term",
             "Période",
             "Temps",
             "Date",
@@ -2619,14 +2129,6 @@
         "freq": 127,
         "jlpt": 2,
         "meanings": [
-            "Loom",
-            "Mechanism",
-            "Machine",
-            "Airplane",
-            "Opportunity",
-            "Potency",
-            "Efficacy",
-            "Occasion",
             "Métier À Tisser",
             "Mécanique",
             "Opportunité",
@@ -2647,8 +2149,6 @@
         "freq": 1462,
         "jlpt": 2,
         "meanings": [
-            "Pray",
-            "Wish",
             "Prier",
             "Voeu"
         ],
@@ -2665,7 +2165,6 @@
         "freq": 842,
         "jlpt": 2,
         "meanings": [
-            "Seasons",
             "Saison"
         ],
         "readings_on": [
@@ -2679,8 +2178,6 @@
         "freq": 349,
         "jlpt": 2,
         "meanings": [
-            "Standard",
-            "Measure",
             "Norme",
             "Mesure"
         ],
@@ -2695,9 +2192,6 @@
         "freq": 149,
         "jlpt": 2,
         "meanings": [
-            "Scribe",
-            "Account",
-            "Narrative",
             "Inscrire",
             "Compte-rendu",
             "Narration"
@@ -2715,14 +2209,6 @@
         "freq": 434,
         "jlpt": 2,
         "meanings": [
-            "Skill",
-            "Art",
-            "Craft",
-            "Ability",
-            "Feat",
-            "Performance",
-            "Vocation",
-            "Arts",
             "Habileté",
             "Art",
             "Technique",
@@ -2745,10 +2231,6 @@
         "freq": 283,
         "jlpt": 2,
         "meanings": [
-            "Doubt",
-            "Distrust",
-            "Be Suspicious",
-            "Question",
             "Douter",
             "Méfiance",
             "Soupçon",
@@ -2767,10 +2249,6 @@
         "freq": 25,
         "jlpt": 2,
         "meanings": [
-            "Deliberation",
-            "Consultation",
-            "Debate",
-            "Consideration",
             "Délibération",
             "Entretien",
             "Débat",
@@ -2787,11 +2265,6 @@
         "freq": 1347,
         "jlpt": 2,
         "meanings": [
-            "Consume",
-            "Eat",
-            "Drink",
-            "Smoke",
-            "Receive (a Blow)",
             "Consommer",
             "Manger",
             "Boire",
@@ -2811,12 +2284,6 @@
         "freq": 1020,
         "jlpt": 2,
         "meanings": [
-            "Packed",
-            "Close",
-            "Pressed",
-            "Reprove",
-            "Rebuke",
-            "Blame",
             "Hermétiquement Clos",
             "Conserve",
             "Coincé",
@@ -2841,10 +2308,6 @@
         "freq": 557,
         "jlpt": 2,
         "meanings": [
-            "Guest",
-            "Visitor",
-            "Customer",
-            "Client",
             "Hôte",
             "Client",
             "Visiteur"
@@ -2861,10 +2324,6 @@
         "freq": 683,
         "jlpt": 2,
         "meanings": [
-            "Inverted",
-            "Reverse",
-            "Opposite",
-            "Wicked",
             "Inverse",
             "Contraire",
             "Opposé",
@@ -2886,8 +2345,6 @@
         "freq": 688,
         "jlpt": 2,
         "meanings": [
-            "Long Time",
-            "Old Story",
             "Longtemps",
             "Vieille Histoire"
         ],
@@ -2905,10 +2362,6 @@
         "freq": 1054,
         "jlpt": 2,
         "meanings": [
-            "Suck",
-            "Imbibe",
-            "Inhale",
-            "Sip",
             "Aspirer",
             "Absorber",
             "Inhaler",
@@ -2927,11 +2380,6 @@
         "freq": 799,
         "jlpt": 2,
         "meanings": [
-            "Salvation",
-            "Save",
-            "Help",
-            "Rescue",
-            "Reclaim",
             "Sauvetage",
             "Sauver",
             "Aider",
@@ -2951,11 +2399,6 @@
         "freq": 220,
         "jlpt": 2,
         "meanings": [
-            "Request",
-            "Want",
-            "Wish For",
-            "Require",
-            "Demand",
             "Réclamer",
             "Demander",
             "Vouloir",
@@ -2975,9 +2418,6 @@
         "freq": 1380,
         "jlpt": 2,
         "meanings": [
-            "Cry",
-            "Weep",
-            "Moan",
             "Pleurer",
             "Gémir"
         ],
@@ -2994,8 +2434,6 @@
         "freq": 302,
         "jlpt": 2,
         "meanings": [
-            "Ball",
-            "Sphere",
             "Balle",
             "Sphère"
         ],
@@ -3012,9 +2450,6 @@
         "freq": 785,
         "jlpt": 2,
         "meanings": [
-            "Class",
-            "Rank",
-            "Grade",
             "Classe",
             "Rang",
             "Grade",
@@ -3031,12 +2466,6 @@
         "freq": 615,
         "jlpt": 2,
         "meanings": [
-            "Salary",
-            "Wage",
-            "Gift",
-            "Allow",
-            "Grant",
-            "Bestow On",
             "Salaire",
             "Paye",
             "Cadeau",
@@ -3060,11 +2489,6 @@
         "freq": 549,
         "jlpt": 2,
         "meanings": [
-            "Old Times",
-            "Old Things",
-            "Old Friend",
-            "Former",
-            "Ex-",
             "Ancien Temps",
             "Anciennes Choses",
             "Ancien Ami",
@@ -3085,10 +2509,6 @@
         "freq": 836,
         "jlpt": 2,
         "meanings": [
-            "Reside",
-            "To Be",
-            "Exist",
-            "Live With",
             "Se Trouver",
             "Résider",
             "Être",
@@ -3111,10 +2531,6 @@
         "freq": 892,
         "jlpt": 2,
         "meanings": [
-            "Gigantic",
-            "Big",
-            "Large",
-            "Great",
             "Gigantesque",
             "Grand",
             "Gros"
@@ -3130,8 +2546,6 @@
         "freq": 720,
         "jlpt": 2,
         "meanings": [
-            "Permit",
-            "Approve",
             "Autorisation",
             "Permettre",
             "Seulement"
@@ -3150,8 +2564,6 @@
         "freq": 1094,
         "jlpt": 2,
         "meanings": [
-            "Fishing",
-            "Fishery",
             "Pêcher (en Masse)",
             "Pêcherie"
         ],
@@ -3169,11 +2581,6 @@
         "freq": 313,
         "jlpt": 2,
         "meanings": [
-            "Submit",
-            "Offer",
-            "Present",
-            "Serve (meal)",
-            "Accompany",
             "Présenter",
             "Offrir",
             "Soumettre",
@@ -3200,13 +2607,6 @@
         "freq": 610,
         "jlpt": 2,
         "meanings": [
-            "Emulate",
-            "Compete With",
-            "Bid",
-            "Sell At Auction",
-            "Bout",
-            "Contest",
-            "Race",
             "Compétition",
             "Rivaliser",
             "Enchère",
@@ -3231,13 +2631,6 @@
         "freq": 174,
         "jlpt": 2,
         "meanings": [
-            "Together",
-            "Both",
-            "Neither",
-            "All",
-            "And",
-            "Alike",
-            "With",
             "Ensemble",
             "Les Deux",
             "Ni L'un Ni L'autre",
@@ -3261,8 +2654,6 @@
         "freq": 121,
         "jlpt": 2,
         "meanings": [
-            "Co-",
-            "Cooperation",
             "Coopération",
             "Co-"
         ],
@@ -3277,9 +2668,6 @@
         "freq": 1426,
         "jlpt": 2,
         "meanings": [
-            "Shout",
-            "Exclaim",
-            "Yell",
             "Crier",
             "Hurler",
             "S'exclamer"
@@ -3297,9 +2685,6 @@
         "freq": 346,
         "jlpt": 2,
         "meanings": [
-            "Boundary",
-            "Border",
-            "Region",
             "Frontière",
             "Région",
             "Environnement"
@@ -3318,9 +2703,6 @@
         "freq": 878,
         "jlpt": 2,
         "meanings": [
-            "Fear",
-            "Dread",
-            "Awe",
             "Peur",
             "Épouvante",
             "Crainte"
@@ -3342,8 +2724,6 @@
         "freq": 1870,
         "jlpt": 2,
         "meanings": [
-            "Pinch",
-            "Between",
             "Pincer",
             "Entre Deux"
         ],
@@ -3364,7 +2744,6 @@
         "freq": 553,
         "jlpt": 2,
         "meanings": [
-            "Bridge",
             "Pont"
         ],
         "readings_on": [
@@ -3380,8 +2759,6 @@
         "freq": 490,
         "jlpt": 2,
         "meanings": [
-            "Condition",
-            "Situation",
             "Situation",
             "Condition",
             "Encore Moins",
@@ -3403,10 +2780,6 @@
         "freq": 1346,
         "jlpt": 2,
         "meanings": [
-            "Cramped",
-            "Narrow",
-            "Contract",
-            "Tight",
             "Étroit",
             "Exigu",
             "Serré",
@@ -3429,11 +2802,6 @@
         "freq": 1144,
         "jlpt": 2,
         "meanings": [
-            "Bosom",
-            "Breast",
-            "Chest",
-            "Heart",
-            "Feelings",
             "Poitrine",
             "Seins",
             "Coeur",
@@ -3453,14 +2821,6 @@
         "freq": 286,
         "jlpt": 2,
         "meanings": [
-            "Bureau",
-            "Board",
-            "Office",
-            "Affair",
-            "Conclusion",
-            "Court Lady",
-            "Lady-in-waiting",
-            "Her Apartment",
             "Local",
             "Pièce",
             "Bureau",
@@ -3483,17 +2843,6 @@
         "freq": 810,
         "jlpt": 2,
         "meanings": [
-            "Bend",
-            "Music",
-            "Melody",
-            "Composition",
-            "Pleasure",
-            "Injustice",
-            "Fault",
-            "Curve",
-            "Crooked",
-            "Perverse",
-            "Lean",
             "Courber",
             "Musique",
             "Mélodie",
@@ -3520,17 +2869,6 @@
         "freq": 460,
         "jlpt": 2,
         "meanings": [
-            "Poles",
-            "Settlement",
-            "Conclusion",
-            "End",
-            "Highest Rank",
-            "Electric Poles",
-            "Very",
-            "Extremely",
-            "Most",
-            "Highly",
-            "10**48",
             "Extrêmes",
             "Pôles (n Et S)",
             "Décision",
@@ -3564,8 +2902,6 @@
         "freq": 737,
         "jlpt": 2,
         "meanings": [
-            "Jewel",
-            "Ball",
             "Bijoux",
             "Balle",
             "Boule"
@@ -3585,9 +2921,6 @@
         "freq": 830,
         "jlpt": 2,
         "meanings": [
-            "Diligence",
-            "Become Employed",
-            "Serve",
             "Assiduité",
             "Application",
             "Travailler",
@@ -3610,8 +2943,6 @@
         "freq": 715,
         "jlpt": 2,
         "meanings": [
-            "Level",
-            "Average",
             "Nivelé",
             "Égalisé",
             "Moyenne"
@@ -3629,9 +2960,6 @@
         "freq": 681,
         "jlpt": 2,
         "meanings": [
-            "Prohibition",
-            "Ban",
-            "Forbid",
             "Interdiction",
             "Défense De"
         ],
@@ -3646,12 +2974,6 @@
         "freq": 623,
         "jlpt": 2,
         "meanings": [
-            "Suffering",
-            "Trial",
-            "Worry",
-            "Hardship",
-            "Feel Bitter",
-            "Scowl",
             "Souffrir",
             "Peine",
             "Affliction",
@@ -3677,12 +2999,6 @@
         "freq": 629,
         "jlpt": 2,
         "meanings": [
-            "Tool",
-            "Utensil",
-            "Means",
-            "Possess",
-            "Ingredients",
-            "Counter For Armor, Suits, Sets Of Furniture",
             "Outils",
             "Ustensiles",
             "Moyens",
@@ -3705,11 +3021,6 @@
         "freq": 1602,
         "jlpt": 2,
         "meanings": [
-            "Accidentally",
-            "Even Number",
-            "Couple",
-            "Man & Wife",
-            "Same Kind",
             "Par Hasard",
             "Nombre Pair",
             "Couple",
@@ -3729,8 +3040,6 @@
         "freq": 1601,
         "jlpt": 2,
         "meanings": [
-            "Corner",
-            "Nook",
             "Coin",
             "Recoin"
         ],
@@ -3747,9 +3056,6 @@
         "freq": 1257,
         "jlpt": 2,
         "meanings": [
-            "Dig",
-            "Delve",
-            "Excavate",
             "Creuser",
             "Fouiller",
             "Déterrer"
@@ -3767,7 +3073,6 @@
         "freq": 1561,
         "jlpt": 2,
         "meanings": [
-            "Shoes",
             "Chaussure"
         ],
         "readings_on": [
@@ -3783,10 +3088,6 @@
         "freq": 947,
         "jlpt": 2,
         "meanings": [
-            "Mister",
-            "You",
-            "Ruler",
-            "Male Name Suffix",
             "Jeune Homme",
             "Tu",
             "Suffixe De Nom (-kun)"
@@ -3805,10 +3106,6 @@
         "freq": 1134,
         "jlpt": 2,
         "meanings": [
-            "Instruction",
-            "Japanese Character Reading",
-            "Explanation",
-            "Read",
             "Instructions",
             "Lecture Japonaise",
             "Explication",
@@ -3830,12 +3127,6 @@
         "freq": 1012,
         "jlpt": 2,
         "meanings": [
-            "Flock",
-            "Group",
-            "Crowd",
-            "Herd",
-            "Swarm",
-            "Cluster",
             "Troupeau",
             "Groupe",
             "Foule",
@@ -3857,11 +3148,6 @@
         "freq": 189,
         "jlpt": 2,
         "meanings": [
-            "Army",
-            "Force",
-            "Troops",
-            "War",
-            "Battle",
             "Armée",
             "Forces",
             "Troupes",
@@ -3881,10 +3167,6 @@
         "freq": 232,
         "jlpt": 2,
         "meanings": [
-            "Person In Charge",
-            "Connection",
-            "Duty",
-            "Concern Oneself",
             "Chargé De",
             "Liaison",
             "Devoir",
@@ -3906,14 +3188,6 @@
         "freq": 938,
         "jlpt": 2,
         "meanings": [
-            "Lean",
-            "Incline",
-            "Tilt",
-            "Trend",
-            "Wane",
-            "Sink",
-            "Ruin",
-            "Bias",
             "Incliner",
             "Pencher",
             "Tendance",
@@ -3939,9 +3213,6 @@
         "freq": 482,
         "jlpt": 2,
         "meanings": [
-            "Mould",
-            "Type",
-            "Model",
             "Moule",
             "Modèle",
             "Type"
@@ -3960,9 +3231,6 @@
         "freq": 418,
         "jlpt": 2,
         "meanings": [
-            "Shape",
-            "Form",
-            "Style",
             "Forme",
             "Style"
         ],
@@ -3983,10 +3251,6 @@
         "freq": 925,
         "jlpt": 2,
         "meanings": [
-            "Favor",
-            "Blessing",
-            "Grace",
-            "Kindness",
             "Bénéficier De",
             "Faveur Divine",
             "Grâce",
@@ -4007,10 +3271,6 @@
         "freq": 1078,
         "jlpt": 2,
         "meanings": [
-            "Awe",
-            "Respect",
-            "Honor",
-            "Revere",
             "Respect",
             "Déférence",
             "Honorer",
@@ -4030,8 +3290,6 @@
         "freq": 419,
         "jlpt": 2,
         "meanings": [
-            "Scenery",
-            "View",
             "Paysage",
             "Vue"
         ],
@@ -4046,11 +3304,6 @@
         "freq": 79,
         "jlpt": 2,
         "meanings": [
-            "Sutra",
-            "Longitude",
-            "Pass Thru",
-            "Expire",
-            "Warp",
             "Sûtra",
             "Longitude",
             "Passer (temps)",
@@ -4077,8 +3330,6 @@
         "freq": 366,
         "jlpt": 2,
         "meanings": [
-            "Admonish",
-            "Commandment",
             "Réprimander",
             "Avertissement",
             "Commandement"
@@ -4096,13 +3347,6 @@
         "freq": 719,
         "jlpt": 2,
         "meanings": [
-            "Technique",
-            "Art",
-            "Craft",
-            "Performance",
-            "Acting",
-            "Trick",
-            "Stunt",
             "Art",
             "Technique",
             "Métier",
@@ -4126,9 +3370,6 @@
         "freq": 625,
         "jlpt": 2,
         "meanings": [
-            "Welcome",
-            "Meet",
-            "Greet",
             "Accueil",
             "Rencontrer",
             "Saluer"
@@ -4146,8 +3387,6 @@
         "freq": 662,
         "jlpt": 2,
         "meanings": [
-            "Drama",
-            "Play",
             "Théâtre",
             "Pièce (théâtre)"
         ],
@@ -4162,10 +3401,6 @@
         "freq": 860,
         "jlpt": 2,
         "meanings": [
-            "Lack",
-            "Gap",
-            "Fail",
-            "Yawning Radical (no. 76)",
             "Manquer",
             "Lacune",
             "Rater",
@@ -4186,10 +3421,6 @@
         "freq": 71,
         "jlpt": 2,
         "meanings": [
-            "Decide",
-            "Fix",
-            "Agree Upon",
-            "Appoint",
             "Décider",
             "Fixer",
             "Se Mettre D'accord",
@@ -4211,13 +3442,6 @@
         "freq": 162,
         "jlpt": 2,
         "meanings": [
-            "Tie",
-            "Bind",
-            "Contract",
-            "Join",
-            "Organize",
-            "Do Up Hair",
-            "Fasten",
             "Nouer",
             "Lier",
             "Joindre",
@@ -4242,7 +3466,6 @@
         "freq": 832,
         "jlpt": 2,
         "meanings": [
-            "Blood",
             "Sang"
         ],
         "readings_on": [
@@ -4258,10 +3481,6 @@
         "freq": 212,
         "jlpt": 2,
         "meanings": [
-            "Affair",
-            "Case",
-            "Matter",
-            "Item",
             "Affaire",
             "Cas",
             "Matière",
@@ -4280,10 +3499,6 @@
         "freq": 572,
         "jlpt": 2,
         "meanings": [
-            "Healthy",
-            "Health",
-            "Strength",
-            "Persistence",
             "Santé",
             "Sain",
             "Bien Portant",
@@ -4304,7 +3519,6 @@
         "jlpt": 2,
         "meanings": [
             "Ticket",
-            "Ticket",
             "Coupon"
         ],
         "readings_on": [
@@ -4318,8 +3532,6 @@
         "freq": 290,
         "jlpt": 2,
         "meanings": [
-            "Examination",
-            "Investigate",
             "Examen",
             "Inspection"
         ],
@@ -4336,9 +3548,6 @@
         "freq": 156,
         "jlpt": 2,
         "meanings": [
-            "Authority",
-            "Power",
-            "Rights",
             "Pouvoir",
             "Autorité",
             "Droits"
@@ -4359,7 +3568,6 @@
         "freq": 1215,
         "jlpt": 2,
         "meanings": [
-            "Shoulder",
             "Épaule"
         ],
         "readings_on": [
@@ -4375,10 +3583,6 @@
         "freq": 1159,
         "jlpt": 2,
         "meanings": [
-            "Intelligent",
-            "Wise",
-            "Wisdom",
-            "Cleverness",
             "Intelligent",
             "Sage",
             "Sagesse"
@@ -4396,9 +3600,6 @@
         "freq": 1416,
         "jlpt": 2,
         "meanings": [
-            "Flats",
-            "Counter For Houses",
-            "Eaves",
             "Gouttière",
             "Auvent",
             "Compteur De Maisons"
@@ -4416,11 +3617,6 @@
         "freq": 707,
         "jlpt": 2,
         "meanings": [
-            "Precipitous",
-            "Inaccessible Place",
-            "Impregnable Position",
-            "Steep Place",
-            "Sharp Eyes",
             "À Pic",
             "Escarpé",
             "Raide",
@@ -4441,14 +3637,6 @@
         "freq": 172,
         "jlpt": 2,
         "meanings": [
-            "Meadow",
-            "Original",
-            "Primitive",
-            "Field",
-            "Plain",
-            "Prairie",
-            "Tundra",
-            "Wilderness",
             "Pré",
             "Prairie",
             "Champ",
@@ -4470,12 +3658,6 @@
         "freq": 261,
         "jlpt": 2,
         "meanings": [
-            "Dwindle",
-            "Decrease",
-            "Reduce",
-            "Decline",
-            "Curtail",
-            "Get Hungry",
             "Diminuer",
             "Réduire",
             "Décliner",
@@ -4496,9 +3678,6 @@
         "freq": 85,
         "jlpt": 2,
         "meanings": [
-            "Present",
-            "Existing",
-            "Actual",
             "Le Présent",
             "Existant",
             "Actuel",
@@ -4520,9 +3699,6 @@
         "freq": 405,
         "jlpt": 2,
         "meanings": [
-            "Limit",
-            "Restrict",
-            "To Best Of Ability",
             "Limite",
             "Limiter",
             "Restreindre",
@@ -4543,8 +3719,6 @@
         "freq": 451,
         "jlpt": 2,
         "meanings": [
-            "Individual",
-            "Counter For Articles",
             "Individuel",
             "Privé",
             "Compteur D'articles",
@@ -4562,9 +3736,6 @@
         "freq": 498,
         "jlpt": 2,
         "meanings": [
-            "Call",
-            "Call Out To",
-            "Invite",
             "Appeler",
             "Inviter"
         ],
@@ -4581,10 +3752,6 @@
         "freq": 750,
         "jlpt": 2,
         "meanings": [
-            "Harden",
-            "Set",
-            "Clot",
-            "Curdle",
             "Solide",
             "Durcir",
             "Résolu",
@@ -4607,8 +3774,6 @@
         "freq": 852,
         "jlpt": 2,
         "meanings": [
-            "Warehouse",
-            "Storehouse",
             "Entrepôt",
             "Stock",
             "Magasin"
@@ -4627,9 +3792,6 @@
         "freq": 575,
         "jlpt": 2,
         "meanings": [
-            "Door",
-            "Counter For Houses",
-            "Door Radical (no. 63)",
             "Porte",
             "Compteur De Maisons",
             "Radical Porte (no 63)"
@@ -4647,15 +3809,6 @@
         "freq": 612,
         "jlpt": 2,
         "meanings": [
-            "Happenstance",
-            "Especially",
-            "Intentionally",
-            "Reason",
-            "Cause",
-            "Circumstances",
-            "The Late",
-            "Therefore",
-            "Consequently",
             "Coïncidence",
             "Spécialement",
             "Intentionnellement",
@@ -4681,10 +3834,6 @@
         "freq": 1749,
         "jlpt": 2,
         "meanings": [
-            "Wither",
-            "Die",
-            "Dry Up",
-            "Be Seasoned",
             "Dépérir",
             "Mourir",
             "Se Faner",
@@ -4704,7 +3853,6 @@
         "freq": 1344,
         "jlpt": 2,
         "meanings": [
-            "Lake",
             "Lac"
         ],
         "readings_on": [
@@ -4720,8 +3868,6 @@
         "freq": 975,
         "jlpt": 2,
         "meanings": [
-            "Employ",
-            "Hire",
             "Employer",
             "Embaucher"
         ],
@@ -4738,9 +3884,6 @@
         "freq": 914,
         "jlpt": 2,
         "meanings": [
-            "Mutually",
-            "Reciprocally",
-            "Together",
             "Mutuel",
             "Réciproque",
             "Ensemble"
@@ -4759,9 +3902,6 @@
         "freq": 1087,
         "jlpt": 2,
         "meanings": [
-            "Honorable",
-            "Manipulate",
-            "Govern",
             "Honorable",
             "Diriger",
             "Contrôler"
@@ -4782,10 +3922,6 @@
         "freq": 1150,
         "jlpt": 2,
         "meanings": [
-            "Mistake",
-            "Err",
-            "Do Wrong",
-            "Mislead",
             "Erreur",
             "Faute",
             "Mal Faire",
@@ -4805,10 +3941,6 @@
         "freq": 178,
         "jlpt": 2,
         "meanings": [
-            "Mingle",
-            "Mixing",
-            "Association",
-            "Coming & Going",
             "Mélanger",
             "Échanges",
             "Association",
@@ -4837,11 +3969,6 @@
         "freq": 510,
         "jlpt": 2,
         "meanings": [
-            "Climate",
-            "Season",
-            "Weather",
-            "Wait For",
-            "Expect",
             "Climat",
             "Temps",
             "Saison"
@@ -4861,10 +3988,6 @@
         "meanings": [
             "Public",
             "Prince",
-            "Official",
-            "Governmental",
-            "Public",
-            "Prince",
             "Officiel",
             "Gouvernemental"
         ],
@@ -4882,10 +4005,6 @@
         "freq": 538,
         "jlpt": 2,
         "meanings": [
-            "Merit",
-            "Efficacy",
-            "Efficiency",
-            "Benefit",
             "Efficacité",
             "Bénéfique",
             "Mérite"
@@ -4905,13 +4024,6 @@
         "freq": 768,
         "jlpt": 2,
         "meanings": [
-            "Thick",
-            "Heavy",
-            "Rich",
-            "Kind",
-            "Cordial",
-            "Brazen",
-            "Shameless",
             "Épais",
             "Lourd",
             "Cordial",
@@ -4934,13 +4046,6 @@
         "freq": 182,
         "jlpt": 2,
         "meanings": [
-            "Yonder",
-            "Facing",
-            "Beyond",
-            "Confront",
-            "Defy",
-            "Tend Toward",
-            "Approach",
             "Se Diriger Vers",
             "Direction",
             "En Face",
@@ -4974,9 +4079,6 @@
         "freq": 786,
         "jlpt": 2,
         "meanings": [
-            "Happiness",
-            "Blessing",
-            "Fortune",
             "Joie",
             "Bénédiction",
             "Fortune"
@@ -4996,8 +4098,6 @@
         "freq": 760,
         "jlpt": 2,
         "meanings": [
-            "Ease",
-            "Peace",
             "Tranquille",
             "Paisible"
         ],
@@ -5012,15 +4112,6 @@
         "freq": 861,
         "jlpt": 2,
         "meanings": [
-            "Grow Late",
-            "Night Watch",
-            "Sit Up Late",
-            "Of Course",
-            "Renew",
-            "Renovate",
-            "Again",
-            "More And More",
-            "Further",
             "Se Faire Tard",
             "Veiller",
             "De Plus",
@@ -5042,9 +4133,6 @@
         "freq": 316,
         "jlpt": 2,
         "meanings": [
-            "Posture",
-            "Build",
-            "Pretend",
             "Structure",
             "Concerné",
             "Préoccupé",
@@ -5065,7 +4153,6 @@
         "freq": 495,
         "jlpt": 2,
         "meanings": [
-            "Harbor",
             "Port"
         ],
         "readings_on": [
@@ -5081,8 +4168,6 @@
         "freq": 1101,
         "jlpt": 2,
         "meanings": [
-            "Stiff",
-            "Hard",
             "Dur",
             "Raide"
         ],
@@ -5099,8 +4184,6 @@
         "freq": 1299,
         "jlpt": 2,
         "meanings": [
-            "Crimson",
-            "Deep Red",
             "Cramoisi",
             "Rouge Foncé"
         ],
@@ -5120,9 +4203,6 @@
         "freq": 1568,
         "jlpt": 2,
         "meanings": [
-            "Till",
-            "Plow",
-            "Cultivate",
             "Labourer",
             "Cultiver"
         ],
@@ -5139,9 +4219,6 @@
         "freq": 1813,
         "jlpt": 2,
         "meanings": [
-            "Agreement",
-            "Consent",
-            "Comply With",
             "Accord",
             "Consentement",
             "Se Conformer À",
@@ -5160,10 +4237,6 @@
         "freq": 665,
         "jlpt": 2,
         "meanings": [
-            "Navigate",
-            "Sail",
-            "Cruise",
-            "Fly",
             "Naviguer",
             "Faire Voile",
             "Croiser (voile)",
@@ -5180,10 +4253,6 @@
         "freq": 1099,
         "jlpt": 2,
         "meanings": [
-            "Laid Waste",
-            "Rough",
-            "Rude",
-            "Wild",
             "Brutalité",
             "Dévaster",
             "Rude",
@@ -5207,9 +4276,6 @@
         "freq": 653,
         "jlpt": 2,
         "meanings": [
-            "Lecture",
-            "Club",
-            "Association",
             "Cours Magistral",
             "Club",
             "Association"
@@ -5225,9 +4291,6 @@
         "freq": 1304,
         "jlpt": 2,
         "meanings": [
-            "Outskirts",
-            "Suburbs",
-            "Rural Area",
             "Périphérie",
             "Banlieue",
             "Zone Rurale"
@@ -5243,8 +4306,6 @@
         "freq": 1376,
         "jlpt": 2,
         "meanings": [
-            "Mineral",
-            "Ore",
             "Minéral",
             "Minerai"
         ],
@@ -5261,10 +4322,6 @@
         "freq": 596,
         "jlpt": 2,
         "meanings": [
-            "Descend",
-            "Precipitate",
-            "Fall",
-            "Surrender",
             "Descendre",
             "Pleuvoir",
             "Précipiter",
@@ -5290,9 +4347,6 @@
         "freq": 859,
         "jlpt": 2,
         "meanings": [
-            "Incense",
-            "Smell",
-            "Perfume",
             "Senteur",
             "Encens",
             "Parfum"
@@ -5313,13 +4367,6 @@
         "freq": 585,
         "jlpt": 2,
         "meanings": [
-            "Nickname",
-            "Number",
-            "Item",
-            "Title",
-            "Pseudonym",
-            "Name",
-            "Call",
             "Surnom",
             "Numéro",
             "Article",
@@ -5342,13 +4389,6 @@
         "freq": 866,
         "jlpt": 2,
         "meanings": [
-            "Engrave",
-            "Cut Fine",
-            "Chop",
-            "Hash",
-            "Mince",
-            "Time",
-            "Carving",
             "Graver",
             "Découper",
             "Émincer",
@@ -5370,10 +4410,6 @@
         "freq": 188,
         "jlpt": 2,
         "meanings": [
-            "Revelation",
-            "Tell",
-            "Inform",
-            "Announce",
             "Révélation",
             "Dire",
             "Informer",
@@ -5392,10 +4428,6 @@
         "freq": 1306,
         "jlpt": 2,
         "meanings": [
-            "Loins",
-            "Hips",
-            "Waist",
-            "Low Wainscoting",
             "Reins",
             "Hanche",
             "Taille",
@@ -5414,10 +4446,6 @@
         "freq": 936,
         "jlpt": 2,
         "meanings": [
-            "Skeleton",
-            "Bone",
-            "Remains",
-            "Frame",
             "Os",
             "Squelette",
             "Restes",
@@ -5436,11 +4464,6 @@
         "freq": 675,
         "jlpt": 2,
         "meanings": [
-            "Crowded",
-            "Mixture",
-            "In Bulk",
-            "Included",
-            "(kokuji)",
             "Encombré",
             "Mélange",
             "En Gros",
@@ -5462,9 +4485,6 @@
         "freq": 843,
         "jlpt": 2,
         "meanings": [
-            "Quandary",
-            "Become Distressed",
-            "Annoyed",
             "Embarras",
             "Affligé",
             "Ennuyé"
@@ -5482,7 +4502,6 @@
         "freq": 767,
         "jlpt": 2,
         "meanings": [
-            "Marriage",
             "Mariage"
         ],
         "readings_on": [
@@ -5496,9 +4515,6 @@
         "freq": 620,
         "jlpt": 2,
         "meanings": [
-            "Root",
-            "Radical",
-            "Head (pimple)",
             "Racine",
             "Radical",
             "Point Noir (acné)"
@@ -5517,9 +4533,6 @@
         "freq": 824,
         "jlpt": 2,
         "meanings": [
-            "Mix",
-            "Blend",
-            "Confuse",
             "Mélanger",
             "Confusion"
         ],
@@ -5540,12 +4553,6 @@
         "freq": 449,
         "jlpt": 2,
         "meanings": [
-            "Distinction",
-            "Difference",
-            "Variation",
-            "Discrepancy",
-            "Margin",
-            "Balance",
             "Différence",
             "Distinction (entre)",
             "Variation",
@@ -5567,7 +4574,6 @@
         "freq": 184,
         "jlpt": 2,
         "meanings": [
-            "Investigate",
             "Investigation"
         ],
         "readings_on": [
@@ -5581,7 +4587,6 @@
         "freq": 1146,
         "jlpt": 2,
         "meanings": [
-            "Sand",
             "Sable"
         ],
         "readings_on": [
@@ -5598,11 +4603,6 @@
         "freq": 588,
         "jlpt": 2,
         "meanings": [
-            "Squat",
-            "Seat",
-            "Cushion",
-            "Gathering",
-            "Sit",
             "S'accroupir",
             "S'asseoir",
             "Siège",
@@ -5624,9 +4624,6 @@
         "freq": 275,
         "jlpt": 2,
         "meanings": [
-            "Again",
-            "Twice",
-            "Second Time",
             "Encore Une Fois",
             "Deux Fois",
             "Une Deuxième Fois"
@@ -5645,9 +4642,6 @@
         "freq": 82,
         "jlpt": 2,
         "meanings": [
-            "Utmost",
-            "Most",
-            "Extreme",
             "Le Plus",
             "Ultra-",
             "Extrême"
@@ -5667,8 +4661,6 @@
         "freq": 691,
         "jlpt": 2,
         "meanings": [
-            "Wife",
-            "Spouse",
             "Épouse",
             "Femme"
         ],
@@ -5685,9 +4677,6 @@
         "freq": 1497,
         "jlpt": 2,
         "meanings": [
-            "Genius",
-            "Years Old",
-            "Cubic Shaku",
             "Génie",
             "\"(x) Ans\" (âge)",
             "Shaku Cubique (18,04 Ml)"
@@ -5703,10 +4692,6 @@
         "freq": 607,
         "jlpt": 2,
         "meanings": [
-            "Pick",
-            "Take",
-            "Fetch",
-            "Take Up",
             "Cueillir",
             "Prendre",
             "Aller Chercher"
@@ -5724,10 +4709,6 @@
         "freq": 269,
         "jlpt": 2,
         "meanings": [
-            "Year-end",
-            "Age",
-            "Occasion",
-            "Opportunity",
             "Fin D'année",
             "Âge",
             "Compteur D'années",
@@ -5750,12 +4731,6 @@
         "freq": 168,
         "jlpt": 2,
         "meanings": [
-            "Settle (debt, Etc.)",
-            "Relieve (burden)",
-            "Finish",
-            "Come To An End",
-            "Excusable",
-            "Need Not",
             "Achever",
             "Finir",
             "Excusable",
@@ -5784,12 +4759,6 @@
         "freq": 1124,
         "jlpt": 2,
         "meanings": [
-            "Ritual",
-            "Offer Prayers",
-            "Celebrate",
-            "Deify",
-            "Enshrine",
-            "Worship",
             "Rituel",
             "Fête",
             "Prières",
@@ -5813,13 +4782,6 @@
         "freq": 537,
         "jlpt": 2,
         "meanings": [
-            "Dainty",
-            "Get Thin",
-            "Taper",
-            "Slender",
-            "Narrow",
-            "Detailed",
-            "Precise",
             "Menu",
             "Long Et Fin",
             "Délicat",
@@ -5844,15 +4806,6 @@
         "jlpt": 2,
         "meanings": [
             "Occasion",
-            "Side",
-            "Edge",
-            "Verge",
-            "Dangerous",
-            "Adventurous",
-            "Indecent",
-            "Time",
-            "When",
-            "Occasion",
             "Côté",
             "Accotement",
             "Bord",
@@ -5876,10 +4829,6 @@
         "freq": 211,
         "jlpt": 2,
         "meanings": [
-            "Exist",
-            "Outskirts",
-            "Suburbs",
-            "Located In",
             "Exister",
             "Banlieue",
             "Situé À"
@@ -5897,13 +4846,6 @@
         "freq": 565,
         "jlpt": 2,
         "meanings": [
-            "Lumber",
-            "Log",
-            "Timber",
-            "Wood",
-            "Materials",
-            "Ingredients",
-            "Talent",
             "Matériaux",
             "Ingrédients",
             "Bois De Charpente",
@@ -5922,12 +4864,6 @@
         "freq": 732,
         "jlpt": 2,
         "meanings": [
-            "Guilt",
-            "Sin",
-            "Crime",
-            "Fault",
-            "Blame",
-            "Offense",
             "Culpabilité",
             "Péché",
             "Crime",
@@ -5948,10 +4884,6 @@
         "freq": 494,
         "jlpt": 2,
         "meanings": [
-            "Property",
-            "Money",
-            "Wealth",
-            "Assets",
             "Propriété",
             "Argent",
             "Fortune",
@@ -5972,9 +4904,6 @@
         "freq": 865,
         "jlpt": 2,
         "meanings": [
-            "Slope",
-            "Incline",
-            "Hill",
             "Pente",
             "Incliner",
             "Colline"
@@ -5992,8 +4921,6 @@
         "freq": 1534,
         "jlpt": 2,
         "meanings": [
-            "Blossom",
-            "Bloom",
             "Fleurir",
             "Floraison"
         ],
@@ -6011,8 +4938,6 @@
         "freq": 226,
         "jlpt": 2,
         "meanings": [
-            "Yesterday",
-            "Previous",
             "Hier",
             "Précédent",
             "~ Dernière"
@@ -6028,9 +4953,6 @@
         "freq": 1313,
         "jlpt": 2,
         "meanings": [
-            "Tome",
-            "Counter For Books",
-            "Volume",
             "Tome",
             "Volume",
             "Compteur De Livres"
@@ -6049,9 +4971,6 @@
         "freq": 1352,
         "jlpt": 2,
         "meanings": [
-            "Printing",
-            "Print",
-            "Brush",
             "Imprimer",
             "Impression"
         ],
@@ -6071,11 +4990,6 @@
         "freq": 477,
         "jlpt": 2,
         "meanings": [
-            "Guess",
-            "Presume",
-            "Surmise",
-            "Judge",
-            "Understand",
             "Deviner",
             "Présumer",
             "Supposer",
@@ -6093,11 +5007,6 @@
         "freq": 921,
         "jlpt": 2,
         "meanings": [
-            "Tag",
-            "Paper Money",
-            "Counter For Bonds",
-            "Placard",
-            "Bid",
             "Étiquette",
             "Billet De Banque",
             "Compteur D'obligations",
@@ -6117,14 +5026,6 @@
         "freq": 581,
         "jlpt": 2,
         "meanings": [
-            "Kill",
-            "Murder",
-            "Butcher",
-            "Slice Off",
-            "Split",
-            "Diminish",
-            "Reduce",
-            "Spoil",
             "Tuer",
             "Meurtre",
             "Massacrer",
@@ -6152,7 +5053,6 @@
         "freq": 839,
         "jlpt": 2,
         "meanings": [
-            "Miscellaneous",
             "Divers"
         ],
         "readings_on": [
@@ -6170,9 +5070,6 @@
         "freq": 1812,
         "jlpt": 2,
         "meanings": [
-            "Dish",
-            "A Helping",
-            "Plate",
             "Assiette",
             "Plat",
             "Portion"
@@ -6190,17 +5087,6 @@
         "freq": 201,
         "jlpt": 2,
         "meanings": [
-            "Nonplussed",
-            "Three (in Documents)",
-            "Going",
-            "Coming",
-            "Visiting",
-            "Visit",
-            "Be Defeated",
-            "Die",
-            "Be Madly In Love",
-            "Participate",
-            "Take Part In",
             "Dérouté",
             "Déconcerté",
             "Trois (iii)",
@@ -6228,10 +5114,6 @@
         "freq": 758,
         "jlpt": 2,
         "meanings": [
-            "Scatter",
-            "Disperse",
-            "Spend",
-            "Squander",
             "Disperser",
             "Éparpiller",
             "Dépenser",
@@ -6257,11 +5139,6 @@
         "freq": 361,
         "jlpt": 2,
         "meanings": [
-            "Calculate",
-            "Divining",
-            "Number",
-            "Abacus",
-            "Probability",
             "Calculer",
             "Prédire",
             "Nombre",
@@ -6281,11 +5158,6 @@
         "freq": 868,
         "jlpt": 2,
         "meanings": [
-            "Approve",
-            "Praise",
-            "Title Or Inscription On Picture",
-            "Assist",
-            "Agree With",
             "Approuver",
             "Accord",
             "Louanges",
@@ -6306,9 +5178,6 @@
         "freq": 380,
         "jlpt": 2,
         "meanings": [
-            "Remainder",
-            "Leftover",
-            "Balance",
             "Reste",
             "Solde (compte)"
         ],
@@ -6329,12 +5198,6 @@
         "freq": 2209,
         "jlpt": 2,
         "meanings": [
-            "Pay Respects",
-            "Visit",
-            "Ask",
-            "Inquire",
-            "Question",
-            "Implore",
             "Visiter (hon)",
             "Présenter Ses Respects",
             "Demander",
@@ -6355,12 +5218,6 @@
         "freq": 1031,
         "jlpt": 2,
         "meanings": [
-            "Thorn",
-            "Pierce",
-            "Stab",
-            "Prick",
-            "Sting",
-            "Calling Card",
             "Piquer",
             "Coudre",
             "Enfoncer",
@@ -6386,11 +5243,6 @@
         "freq": 759,
         "jlpt": 2,
         "meanings": [
-            "Director",
-            "Official",
-            "Govt Office",
-            "Rule",
-            "Administer",
             "Directeur",
             "Fonctionnaire",
             "Bureau Administratif",
@@ -6410,8 +5262,6 @@
         "freq": 511,
         "jlpt": 2,
         "meanings": [
-            "History",
-            "Chronicle",
             "Histoire",
             "Chronique"
         ],
@@ -6426,13 +5276,6 @@
         "freq": 563,
         "jlpt": 2,
         "meanings": [
-            "Expert",
-            "Teacher",
-            "Master",
-            "Model",
-            "Exemplar",
-            "Army (incl. Counter)",
-            "War",
             "Maître",
             "Expert",
             "Professeur",
@@ -6454,13 +5297,6 @@
         "freq": 823,
         "jlpt": 2,
         "meanings": [
-            "Intention",
-            "Plan",
-            "Resolve",
-            "Aspire",
-            "Motive",
-            "Hopes",
-            "Shilling",
             "Dessein",
             "Intention",
             "Plan",
@@ -6485,12 +5321,6 @@
         "freq": 155,
         "jlpt": 2,
         "meanings": [
-            "Finger",
-            "Point To",
-            "Indicate",
-            "Put Into",
-            "Play (chess)",
-            "Measure (ruler)",
             "Doigt",
             "Désigner",
             "Indiquer",
@@ -6512,10 +5342,6 @@
         "freq": 159,
         "jlpt": 2,
         "meanings": [
-            "Branch",
-            "Support",
-            "Sustain",
-            "Branch Radical (no. 65)",
             "Soutien",
             "Support",
             "Branche",
@@ -6538,11 +5364,6 @@
         "freq": 1401,
         "jlpt": 2,
         "meanings": [
-            "Bough",
-            "Branch",
-            "Twig",
-            "Limb",
-            "Counter For Branches",
             "Branche",
             "Rameau",
             "Brindille",
@@ -6561,7 +5382,6 @@
         "freq": 1488,
         "jlpt": 2,
         "meanings": [
-            "Thread",
             "Fil"
         ],
         "readings_on": [
@@ -6577,13 +5397,6 @@
         "freq": 1548,
         "jlpt": 2,
         "meanings": [
-            "Fat",
-            "Grease",
-            "Tallow",
-            "Lard",
-            "Rosin",
-            "Gum",
-            "Tar",
             "Gras",
             "Graisse",
             "Suif",
@@ -6605,9 +5418,6 @@
         "freq": 1636,
         "jlpt": 2,
         "meanings": [
-            "Part Of Speech",
-            "Words",
-            "Poetry",
             "Partie Du Discours",
             "Mots",
             "Poésie"
@@ -6626,8 +5436,6 @@
         "jlpt": 2,
         "meanings": [
             "Document",
-            "Records",
-            "Document",
             "Dossier"
         ],
         "readings_on": [
@@ -6641,13 +5449,6 @@
         "freq": 179,
         "jlpt": 2,
         "meanings": [
-            "Assets",
-            "Resources",
-            "Capital",
-            "Funds",
-            "Data",
-            "Be Conducive To",
-            "Contribute To",
             "Capital (argent)",
             "Fonds",
             "Actifs",
@@ -6667,8 +5468,6 @@
         "freq": 1106,
         "jlpt": 2,
         "meanings": [
-            "Tooth",
-            "Cog",
             "Dent",
             "Dentée (roue)",
             "Crémaillère (rail)"
@@ -6689,11 +5488,6 @@
         "freq": 923,
         "jlpt": 2,
         "meanings": [
-            "Becoming",
-            "Resemble",
-            "Counterfeit",
-            "Imitate",
-            "Suitable",
             "Ressembler",
             "Devenir",
             "Contrefaire",
@@ -6714,9 +5508,6 @@
         "freq": 679,
         "jlpt": 2,
         "meanings": [
-            "Newborn Babe",
-            "Child",
-            "Young Of Animals",
             "Nouveau-né",
             "Enfant",
             "Petit D'animal"
@@ -6738,7 +5529,6 @@
         "freq": 879,
         "jlpt": 2,
         "meanings": [
-            "Buddhist Temple",
             "Temple Bouddhiste"
         ],
         "readings_on": [
@@ -6754,9 +5544,6 @@
         "freq": 222,
         "jlpt": 2,
         "meanings": [
-            "Next",
-            "Order",
-            "Sequence",
             "Suivant",
             "Ordre",
             "Successivement"
@@ -6776,16 +5563,6 @@
         "freq": 109,
         "jlpt": 2,
         "meanings": [
-            "Reign",
-            "Be At Peace",
-            "Calm Down",
-            "Subdue",
-            "Quell",
-            "Govt",
-            "Cure",
-            "Heal",
-            "Rule",
-            "Conserve",
             "Règne",
             "Être En Paix",
             "Se Calmer",
@@ -6813,11 +5590,6 @@
         "freq": 237,
         "jlpt": 2,
         "meanings": [
-            "Show",
-            "Indicate",
-            "Point Out",
-            "Express",
-            "Display",
             "Montrer",
             "Indiquer",
             "Signaler",
@@ -6838,10 +5610,6 @@
         "freq": 633,
         "jlpt": 2,
         "meanings": [
-            "Resign",
-            "Word",
-            "Term",
-            "Expression",
             "Démission",
             "Mot",
             "Terme",
@@ -6861,14 +5629,6 @@
         "freq": 251,
         "jlpt": 2,
         "meanings": [
-            "Style",
-            "Ceremony",
-            "Rite",
-            "Function",
-            "Method",
-            "System",
-            "Form",
-            "Expression",
             "Type",
             "Protocole",
             "Cérémonie",
@@ -6889,9 +5649,6 @@
         "freq": 496,
         "jlpt": 2,
         "meanings": [
-            "Discriminating",
-            "Know",
-            "Write",
             "Discernement",
             "Connaissance",
             "Écrire"
@@ -6910,11 +5667,6 @@
         "freq": 447,
         "jlpt": 2,
         "meanings": [
-            "Lose",
-            "Error",
-            "Fault",
-            "Disadvantage",
-            "Loss",
             "Perdre",
             "Erreur",
             "Faute",
@@ -6934,9 +5686,6 @@
         "freq": 1517,
         "jlpt": 2,
         "meanings": [
-            "Damp",
-            "Wet",
-            "Moist",
             "Moite",
             "Humide",
             "Mouillé"
@@ -6958,11 +5707,6 @@
         "freq": 68,
         "jlpt": 2,
         "meanings": [
-            "Reality",
-            "Truth",
-            "Seed",
-            "Fruit",
-            "Nut",
             "Réalité",
             "Vérité"
         ],
@@ -6984,12 +5728,6 @@
         "freq": 1266,
         "jlpt": 2,
         "meanings": [
-            "Discard",
-            "Throw Away",
-            "Abandon",
-            "Resign",
-            "Reject",
-            "Sacrifice",
             "Jeter",
             "Mettre Au Rebut",
             "Abandonner",
@@ -7010,12 +5748,6 @@
         "freq": 458,
         "jlpt": 2,
         "meanings": [
-            "Young",
-            "If",
-            "Perhaps",
-            "Possibly",
-            "Low Number",
-            "Immature",
             "Jeune",
             "Si",
             "Peut-être",
@@ -7044,9 +5776,6 @@
         "freq": 122,
         "jlpt": 2,
         "meanings": [
-            "Take",
-            "Fetch",
-            "Take Up",
             "Prendre",
             "Aller Chercher"
         ],
@@ -7067,10 +5796,6 @@
         "freq": 457,
         "jlpt": 2,
         "meanings": [
-            "Guard",
-            "Protect",
-            "Defend",
-            "Obey",
             "Garder",
             "Protéger",
             "Défendre",
@@ -7095,11 +5820,6 @@
         "freq": 461,
         "jlpt": 2,
         "meanings": [
-            "Species",
-            "Kind",
-            "Class",
-            "Variety",
-            "Seed",
             "Espèce",
             "Classe",
             "Sorte",
@@ -7120,8 +5840,6 @@
         "freq": 1006,
         "jlpt": 2,
         "meanings": [
-            "Sake",
-            "Alcohol",
             "Saké",
             "Alcool"
         ],
@@ -7139,13 +5857,6 @@
         "freq": 136,
         "jlpt": 2,
         "meanings": [
-            "Accept",
-            "Undergo",
-            "Answer (phone)",
-            "Take",
-            "Get",
-            "Catch",
-            "Receive",
             "Subir",
             "Recevoir",
             "Accepter",
@@ -7168,10 +5879,6 @@
         "freq": 535,
         "jlpt": 2,
         "meanings": [
-            "Impart",
-            "Instruct",
-            "Grant",
-            "Confer",
             "Accorder",
             "Conférer",
             "Attribuer",
@@ -7191,12 +5898,6 @@
         "freq": 337,
         "jlpt": 2,
         "meanings": [
-            "Income",
-            "Obtain",
-            "Reap",
-            "Pay",
-            "Supply",
-            "Store",
             "Fournir",
             "Obtenir",
             "Payer",
@@ -7218,9 +5919,6 @@
         "freq": 562,
         "jlpt": 2,
         "meanings": [
-            "Circumference",
-            "Circuit",
-            "Lap",
             "Circonférence",
             "Tour",
             "Alentours"
@@ -7238,8 +5936,6 @@
         "freq": 386,
         "jlpt": 2,
         "meanings": [
-            "State",
-            "Province",
             "Province",
             "État"
         ],
@@ -7257,10 +5953,6 @@
         "freq": 603,
         "jlpt": 2,
         "meanings": [
-            "Discipline",
-            "Conduct Oneself Well",
-            "Study",
-            "Master",
             "Discipline",
             "Bien Se Conduire",
             "Étudier",
@@ -7281,11 +5973,6 @@
         "freq": 1479,
         "jlpt": 2,
         "meanings": [
-            "Pick Up",
-            "Gather",
-            "Find",
-            "Go On Foot",
-            "Ten",
             "Ramasser",
             "Cueillir",
             "Trouver",
@@ -7306,8 +5993,6 @@
         "freq": 1786,
         "jlpt": 2,
         "meanings": [
-            "Boat",
-            "Ship",
             "Bateau",
             "Vaisseau"
         ],
@@ -7326,10 +6011,6 @@
         "freq": 1187,
         "jlpt": 2,
         "meanings": [
-            "Tender",
-            "Weakness",
-            "Gentleness",
-            "Softness",
             "Tendre",
             "Faiblesse",
             "Douceur"
@@ -7351,14 +6032,6 @@
         "freq": 701,
         "jlpt": 2,
         "meanings": [
-            "Inn",
-            "Lodging",
-            "Relay Station",
-            "Dwell",
-            "Lodge",
-            "Be Pregnant",
-            "Home",
-            "Dwelling",
             "Auberge",
             "Logement",
             "Séjourner",
@@ -7383,8 +6056,6 @@
         "freq": 1184,
         "jlpt": 2,
         "meanings": [
-            "Celebrate",
-            "Congratulate",
             "Célébrer",
             "Féliciter"
         ],
@@ -7402,13 +6073,6 @@
         "freq": 350,
         "jlpt": 2,
         "meanings": [
-            "Art",
-            "Technique",
-            "Skill",
-            "Means",
-            "Trick",
-            "Resources",
-            "Magic",
             "Technique",
             "Art",
             "Moyens",
@@ -7429,10 +6093,6 @@
         "freq": 379,
         "jlpt": 2,
         "meanings": [
-            "Mention",
-            "State",
-            "Speak",
-            "Relate",
             "Mentionner",
             "Déclarer",
             "Parler",
@@ -7451,11 +6111,6 @@
         "freq": 425,
         "jlpt": 2,
         "meanings": [
-            "Semi-",
-            "Correspond To",
-            "Proportionate To",
-            "Conform",
-            "Imitate",
             "Demi-",
             "Correspondre À",
             "Proportionnel À",
@@ -7480,10 +6135,6 @@
         "freq": 1044,
         "jlpt": 2,
         "meanings": [
-            "Genuine",
-            "Purity",
-            "Innocence",
-            "Net (profit)",
             "Authentique",
             "Pureté",
             "Innocence",
@@ -7500,12 +6151,6 @@
         "freq": 779,
         "jlpt": 2,
         "meanings": [
-            "Obey",
-            "Order",
-            "Turn",
-            "Right",
-            "Docility",
-            "Occasion",
             "Obéir",
             "Ordre (tour)",
             "Juste",
@@ -7523,14 +6168,6 @@
         "freq": 547,
         "jlpt": 2,
         "meanings": [
-            "Dispose",
-            "Manage",
-            "Deal With",
-            "Sentence",
-            "Condemn",
-            "Act",
-            "Behave",
-            "Place",
             "Traiter",
             "Se Débarrasser",
             "Sentence",
@@ -7555,8 +6192,6 @@
         "freq": 152,
         "jlpt": 2,
         "meanings": [
-            "First Time",
-            "Beginning",
             "Première Fois",
             "Commencement"
         ],
@@ -7579,13 +6214,6 @@
         "freq": 952,
         "jlpt": 2,
         "meanings": [
-            "Thong",
-            "Beginning",
-            "Inception",
-            "End",
-            "Cord",
-            "Strap",
-            "Mental Or Emotional State",
             "Bout",
             "Début",
             "Fin",
@@ -7609,9 +6237,6 @@
         "jlpt": 2,
         "meanings": [
             "Signature",
-            "Govt Office",
-            "Police Station",
-            "Signature",
             "Commissariat De Police",
             "Bureau (administration)",
             "Autorités Publiques"
@@ -7627,10 +6252,6 @@
         "freq": 658,
         "jlpt": 2,
         "meanings": [
-            "Various",
-            "Many",
-            "Several",
-            "Together",
             "Multiples",
             "Plusieurs",
             "Différents",
@@ -7650,9 +6271,6 @@
         "freq": 397,
         "jlpt": 2,
         "meanings": [
-            "Help",
-            "Rescue",
-            "Assist",
             "Aider",
             "Secourir",
             "Assister"
@@ -7673,12 +6291,6 @@
         "freq": 594,
         "jlpt": 2,
         "meanings": [
-            "Exclude",
-            "Division (x/3)",
-            "Remove",
-            "Abolish",
-            "Cancel",
-            "Except",
             "Exclure",
             "Division (opération)",
             "Enlever",
@@ -7700,10 +6312,6 @@
         "freq": 185,
         "jlpt": 2,
         "meanings": [
-            "Victory",
-            "Win",
-            "Prevail",
-            "Excel",
             "Victoire",
             "Gagner",
             "L'emporter",
@@ -7726,16 +6334,6 @@
         "freq": 1540,
         "jlpt": 2,
         "meanings": [
-            "Seduce",
-            "Call",
-            "Send For",
-            "Wear",
-            "Put On",
-            "Ride In",
-            "Buy",
-            "Eat",
-            "Drink",
-            "Catch (cold)",
             "Faire Venir À Soi",
             "Appeler",
             "Inviter",
@@ -7760,10 +6358,6 @@
         "freq": 413,
         "jlpt": 2,
         "meanings": [
-            "Make A Deal",
-            "Selling",
-            "Dealing In",
-            "Merchant",
             "Commerce",
             "Affaire",
             "Vente",
@@ -7783,15 +6377,6 @@
         "freq": 634,
         "jlpt": 2,
         "meanings": [
-            "Leader",
-            "Commander",
-            "General",
-            "Admiral",
-            "Or",
-            "And Again",
-            "Soon",
-            "From Now On",
-            "Just About",
             "Dirigeant",
             "Commandant",
             "Général",
@@ -7820,11 +6405,6 @@
         "freq": 1175,
         "jlpt": 2,
         "meanings": [
-            "Bed",
-            "Counter For Beds",
-            "Floor",
-            "Padding",
-            "Tatami",
             "Plancher",
             "Lit",
             "Rembourrage",
@@ -7845,11 +6425,6 @@
         "freq": 775,
         "jlpt": 2,
         "meanings": [
-            "Acquiesce",
-            "Hear",
-            "Listen To",
-            "Be Informed",
-            "Receive",
             "Consentir",
             "Entendre",
             "Écouter",
@@ -7871,10 +6446,6 @@
         "freq": 840,
         "jlpt": 2,
         "meanings": [
-            "Beckon",
-            "Invite",
-            "Summon",
-            "Engage",
             "Inviter",
             "Faire Signe",
             "Appeler",
@@ -7893,7 +6464,6 @@
         "freq": 826,
         "jlpt": 2,
         "meanings": [
-            "Rise Up",
             "S'élever"
         ],
         "readings_on": [
@@ -7909,11 +6479,6 @@
         "freq": 345,
         "jlpt": 2,
         "meanings": [
-            "Extinguish",
-            "Blow Out",
-            "Turn Off",
-            "Neutralize",
-            "Cancel",
             "Éteindre",
             "Effacer",
             "Disparaître",
@@ -7934,8 +6499,6 @@
         "freq": 982,
         "jlpt": 2,
         "meanings": [
-            "Bake",
-            "Burning",
             "Griller",
             "Brûler"
         ],
@@ -7956,10 +6519,6 @@
         "freq": 1004,
         "jlpt": 2,
         "meanings": [
-            "Illuminate",
-            "Shine",
-            "Compare",
-            "Bashful",
             "Illuminer",
             "Briller",
             "Comparer",
@@ -7980,9 +6539,6 @@
         "freq": 548,
         "jlpt": 2,
         "meanings": [
-            "Focus",
-            "Government Ministry",
-            "Conserve",
             "Faire Le Point (introspection)",
             "Abréviation",
             "Omission",
@@ -8006,11 +6562,6 @@
         "jlpt": 2,
         "meanings": [
             "Badge",
-            "Chapter",
-            "Composition",
-            "Poem",
-            "Design",
-            "Badge",
             "Clairement Visible",
             "Composition",
             "Poème",
@@ -8028,7 +6579,6 @@
         "freq": 913,
         "jlpt": 2,
         "meanings": [
-            "Laugh",
             "Rire"
         ],
         "readings_on": [
@@ -8045,9 +6595,6 @@
         "freq": 963,
         "jlpt": 2,
         "meanings": [
-            "Introduce",
-            "Inherit",
-            "Help",
             "Présentations",
             "Introduction",
             "Hériter",
@@ -8064,12 +6611,6 @@
         "freq": 394,
         "jlpt": 2,
         "meanings": [
-            "Elephant",
-            "Pattern After",
-            "Imitate",
-            "Image",
-            "Shape",
-            "Sign (of The Times)",
             "Éléphant",
             "Modèle",
             "Imiter",
@@ -8092,9 +6633,6 @@
         "freq": 426,
         "jlpt": 2,
         "meanings": [
-            "Prize",
-            "Reward",
-            "Praise",
             "Prix",
             "Récompense",
             "Louanges"
@@ -8112,7 +6650,6 @@
         "freq": 795,
         "jlpt": 2,
         "meanings": [
-            "Castle",
             "Château"
         ],
         "readings_on": [
@@ -8129,14 +6666,6 @@
         "freq": 293,
         "jlpt": 2,
         "meanings": [
-            "Usual",
-            "Ordinary",
-            "Normal",
-            "Common",
-            "Regular",
-            "Continually",
-            "Always",
-            "Long-lasting",
             "Habituel",
             "Ordinaire",
             "Normal"
@@ -8155,12 +6684,6 @@
         "freq": 235,
         "jlpt": 2,
         "meanings": [
-            "Feelings",
-            "Emotion",
-            "Passion",
-            "Sympathy",
-            "Circumstances",
-            "Facts",
             "Sentiments",
             "Émotion",
             "Passion",
@@ -8182,13 +6705,6 @@
         "freq": 363,
         "jlpt": 2,
         "meanings": [
-            "Article",
-            "Clause",
-            "Counter For Articles, Clauses, Paragraphs, Etc.",
-            "Twig",
-            "Item",
-            "Stripe",
-            "Streak",
             "Article",
             "Clause",
             "Bande",
@@ -8213,11 +6729,6 @@
         "freq": 298,
         "jlpt": 2,
         "meanings": [
-            "Status Quo",
-            "Conditions",
-            "Circumstances",
-            "Form",
-            "Appearance",
             "État Des Choses",
             "Conditions",
             "Circonstances",
@@ -8236,11 +6747,6 @@
         "freq": 1665,
         "jlpt": 2,
         "meanings": [
-            "Tatami Mat",
-            "Counter For Tatami Mats",
-            "Fold",
-            "Shut Up",
-            "Do Away With",
             "Tatami",
             "Compteur De Tatamis",
             "Surface : 182 Cm X 91 Cm",
@@ -8266,11 +6772,6 @@
         "freq": 1552,
         "jlpt": 2,
         "meanings": [
-            "Steam",
-            "Heat",
-            "Sultry",
-            "Foment",
-            "Get Musty",
             "Cuire À La Vapeur",
             "Chauffer",
             "Torride",
@@ -8293,7 +6794,6 @@
         "freq": 699,
         "jlpt": 2,
         "meanings": [
-            "Plant",
             "Planter"
         ],
         "readings_on": [
@@ -8310,9 +6810,6 @@
         "freq": 305,
         "jlpt": 2,
         "meanings": [
-            "Post",
-            "Employment",
-            "Work",
             "Poste De Travail",
             "Emploi",
             "Travail"
@@ -8329,13 +6826,6 @@
         "freq": 904,
         "jlpt": 2,
         "meanings": [
-            "Contact",
-            "Touch",
-            "Feel",
-            "Hit",
-            "Proclaim",
-            "Announce",
-            "Conflict",
             "Contact",
             "Toucher",
             "Sentir",
@@ -8359,11 +6849,6 @@
         "freq": 730,
         "jlpt": 2,
         "meanings": [
-            "Expand",
-            "Stretch",
-            "Extend",
-            "Lengthen",
-            "Increase",
             "Allonger",
             "Étirer",
             "Accroître",
@@ -8386,10 +6871,6 @@
         "freq": 208,
         "jlpt": 2,
         "meanings": [
-            "Faith",
-            "Truth",
-            "Fidelity",
-            "Trust",
             "Foi",
             "Vérité",
             "Fidélité",
@@ -8407,11 +6888,6 @@
         "freq": 1034,
         "jlpt": 2,
         "meanings": [
-            "Lie Down",
-            "Sleep",
-            "Rest",
-            "Bed",
-            "Remain Unsold",
             "Être Couché",
             "Dormir",
             "Se Reposer",
@@ -8435,10 +6911,6 @@
         "freq": 484,
         "jlpt": 2,
         "meanings": [
-            "Deep",
-            "Heighten",
-            "Intensify",
-            "Strengthen",
             "Profond",
             "Augmenter",
             "Intensifier",
@@ -8461,10 +6933,6 @@
         "freq": 492,
         "jlpt": 2,
         "meanings": [
-            "Have The Honor To",
-            "Sign Of The Monkey",
-            "3-5pm",
-            "Ninth Sign Of Chinese Zodiac",
             "Dire (humble)",
             "S'appeler (humble)",
             "J'ai L'honneur De",
@@ -8487,9 +6955,6 @@
         "freq": 347,
         "jlpt": 2,
         "meanings": [
-            "Gods",
-            "Mind",
-            "Soul",
             "Divinité",
             "Esprit",
             "Âme"
@@ -8510,8 +6975,6 @@
         "freq": 1249,
         "jlpt": 2,
         "meanings": [
-            "Retainer",
-            "Subject",
             "Servant",
             "Serviteur",
             "Sujet"
@@ -8528,9 +6991,6 @@
         "freq": 320,
         "jlpt": 2,
         "meanings": [
-            "Somebody",
-            "Person",
-            "One's Station In Life",
             "Individu",
             "Personne",
             "Situation Sociale"
@@ -8548,10 +7008,6 @@
         "freq": 1607,
         "jlpt": 2,
         "meanings": [
-            "Spicy",
-            "Bitter",
-            "Hot",
-            "Acrid",
             "Épicé",
             "Amer",
             "Piquant",
@@ -8573,10 +7029,6 @@
         "freq": 505,
         "jlpt": 2,
         "meanings": [
-            "Needle",
-            "Pin",
-            "Staple",
-            "Stinger",
             "Aiguille",
             "Épingle",
             "Agrafe",
@@ -8595,11 +7047,6 @@
         "freq": 893,
         "jlpt": 2,
         "meanings": [
-            "Quake",
-            "Shake",
-            "Tremble",
-            "Quiver",
-            "Shiver",
             "Tremblement",
             "Secouer",
             "Frémir",
@@ -8621,11 +7068,6 @@
         "freq": 1133,
         "jlpt": 2,
         "meanings": [
-            "Blow",
-            "Breathe",
-            "Puff",
-            "Emit",
-            "Smoke",
             "Souffler",
             "Respirer",
             "Bouffées (fumée)",
@@ -8645,11 +7087,6 @@
         "freq": 148,
         "jlpt": 2,
         "meanings": [
-            "Number",
-            "Strength",
-            "Fate",
-            "Law",
-            "Figures",
             "Nombre",
             "Compter",
             "Destin",
@@ -8677,9 +7114,6 @@
         "freq": 108,
         "jlpt": 2,
         "meanings": [
-            "System",
-            "Law",
-            "Rule",
             "Système",
             "Règle",
             "Loi",
@@ -8697,9 +7131,6 @@
         "freq": 260,
         "jlpt": 2,
         "meanings": [
-            "Forces",
-            "Energy",
-            "Military Strength",
             "Vigueur",
             "Forces",
             "Énergie",
@@ -8720,7 +7151,6 @@
         "freq": 1628,
         "jlpt": 2,
         "meanings": [
-            "Surname",
             "Nom De Famille"
         ],
         "readings_on": [
@@ -8735,9 +7165,6 @@
         "freq": 104,
         "jlpt": 2,
         "meanings": [
-            "Sex",
-            "Gender",
-            "Nature",
             "Sexe",
             "Genre",
             "Nature",
@@ -8757,12 +7184,6 @@
         "freq": 116,
         "jlpt": 2,
         "meanings": [
-            "Turn Into",
-            "Become",
-            "Get",
-            "Grow",
-            "Elapse",
-            "Reach",
             "Se Changer En",
             "Devenir",
             "Obtenir",
@@ -8786,8 +7207,6 @@
         "freq": 17,
         "jlpt": 2,
         "meanings": [
-            "Politics",
-            "Government",
             "Politique",
             "Gouvernement"
         ],
@@ -8806,12 +7225,6 @@
         "freq": 478,
         "jlpt": 2,
         "meanings": [
-            "Organize",
-            "Arranging",
-            "Tune",
-            "Tone",
-            "Meter",
-            "Key (music)",
             "Mettre En Ordre",
             "Organiser",
             "Arranger",
@@ -8834,10 +7247,6 @@
         "freq": 844,
         "jlpt": 2,
         "meanings": [
-            "Star",
-            "Spot",
-            "Dot",
-            "Mark",
             "Étoile",
             "Point",
             "Marque"
@@ -8857,7 +7266,6 @@
         "freq": 1022,
         "jlpt": 2,
         "meanings": [
-            "Clear Up",
             "Éclaircir"
         ],
         "readings_on": [
@@ -8877,11 +7285,6 @@
         "freq": 705,
         "jlpt": 2,
         "meanings": [
-            "Pure",
-            "Purify",
-            "Cleanse",
-            "Exorcise",
-            "Manchu Dynasty",
             "Pur",
             "Purifier",
             "Exorciser",
@@ -8905,15 +7308,6 @@
         "freq": 752,
         "jlpt": 2,
         "meanings": [
-            "Refined",
-            "Ghost",
-            "Fairy",
-            "Energy",
-            "Vitality",
-            "Semen",
-            "Excellence",
-            "Purity",
-            "Skill",
             "Raffiné",
             "Fantôme",
             "Féérique",
@@ -8939,8 +7333,6 @@
         "freq": 488,
         "jlpt": 2,
         "meanings": [
-            "Made In...",
-            "Manufacture",
             "\"fabriqué En\"",
             "Fabrication"
         ],
@@ -8955,7 +7347,6 @@
         "freq": 764,
         "jlpt": 2,
         "meanings": [
-            "Quiet",
             "Calme"
         ],
         "readings_on": [
@@ -8975,8 +7366,6 @@
         "freq": 289,
         "jlpt": 2,
         "meanings": [
-            "Tax",
-            "Duty",
             "Taxe",
             "Droits"
         ],
@@ -8991,10 +7380,6 @@
         "freq": 370,
         "jlpt": 2,
         "meanings": [
-            "Seat",
-            "Mat",
-            "Occasion",
-            "Place",
             "Siège",
             "Natte",
             "Occasion",
@@ -9013,9 +7398,6 @@
         "freq": 1197,
         "jlpt": 2,
         "meanings": [
-            "Once Upon A Time",
-            "Antiquity",
-            "Old Times",
             "Autrefois",
             "Antiquité",
             "Il Était Une Fois"
@@ -9034,7 +7416,6 @@
         "freq": 342,
         "jlpt": 2,
         "meanings": [
-            "Stone",
             "Pierre"
         ],
         "readings_on": [
@@ -9052,14 +7433,6 @@
         "freq": 541,
         "jlpt": 2,
         "meanings": [
-            "Volume",
-            "Product (x*y)",
-            "Acreage",
-            "Contents",
-            "Pile Up",
-            "Stack",
-            "Load",
-            "Amass",
             "Volume",
             "Produit (x*y)",
             "Aire",
@@ -9085,9 +7458,6 @@
         "freq": 820,
         "jlpt": 2,
         "meanings": [
-            "Exploits",
-            "Achievements",
-            "Unreeling Cocoons",
             "Performance",
             "Cocons Non Déroulés"
         ],
@@ -9102,9 +7472,6 @@
         "freq": 598,
         "jlpt": 2,
         "meanings": [
-            "Blame",
-            "Condemn",
-            "Censure",
             "Blâmer",
             "Condamner",
             "Critiquer"
@@ -9122,10 +7489,6 @@
         "freq": 523,
         "jlpt": 2,
         "meanings": [
-            "Touch",
-            "Contact",
-            "Adjoin",
-            "Piece Together",
             "Joindre",
             "Toucher",
             "Contact",
@@ -9145,12 +7508,6 @@
         "freq": 962,
         "jlpt": 2,
         "meanings": [
-            "Fold",
-            "Break",
-            "Fracture",
-            "Bend",
-            "Yield",
-            "Submit",
             "Plier",
             "Casser",
             "Fracture",
@@ -9177,9 +7534,6 @@
         "freq": 145,
         "jlpt": 2,
         "meanings": [
-            "Establishment",
-            "Provision",
-            "Prepare",
             "Créer",
             "Fonder",
             "Établir",
@@ -9198,20 +7552,6 @@
         "freq": 934,
         "jlpt": 2,
         "meanings": [
-            "Node",
-            "Season",
-            "Period",
-            "Occasion",
-            "Verse",
-            "Clause",
-            "Stanza",
-            "Honor",
-            "Joint",
-            "Knuckle",
-            "Knob",
-            "Knot",
-            "Tune",
-            "Melody",
             "Noeud (vitesse)",
             "Instant",
             "Saison",
@@ -9242,7 +7582,6 @@
         "freq": 1131,
         "jlpt": 2,
         "meanings": [
-            "Snow",
             "Neige"
         ],
         "readings_on": [
@@ -9258,16 +7597,6 @@
         "freq": 784,
         "jlpt": 2,
         "meanings": [
-            "Discontinue",
-            "Sever",
-            "Cut Off",
-            "Abstain",
-            "Interrupt",
-            "Suppress",
-            "Be Beyond",
-            "Without Match",
-            "Peerless",
-            "Unparalleled",
             "Cesser",
             "Au-delà",
             "Rompre",
@@ -9291,14 +7620,6 @@
         "freq": 694,
         "jlpt": 2,
         "meanings": [
-            "Fortune-telling",
-            "Divining",
-            "Forecasting",
-            "Occupy",
-            "Hold",
-            "Have",
-            "Get",
-            "Take",
             "Bonne Aventure",
             "Divination",
             "Prédiction",
@@ -9322,10 +7643,6 @@
         "freq": 506,
         "jlpt": 2,
         "meanings": [
-            "Specialty",
-            "Exclusive",
-            "Mainly",
-            "Solely",
             "Spécialité",
             "Exclusivement",
             "Principalement",
@@ -9344,9 +7661,6 @@
         "freq": 78,
         "jlpt": 2,
         "meanings": [
-            "War",
-            "Battle",
-            "Match",
             "Guerre",
             "Bataille",
             "Match"
@@ -9368,8 +7682,6 @@
         "freq": 1086,
         "jlpt": 2,
         "meanings": [
-            "Spring",
-            "Fountain",
             "Source",
             "Fontaine"
         ],
@@ -9386,11 +7698,6 @@
         "freq": 1253,
         "jlpt": 2,
         "meanings": [
-            "Shallow",
-            "Superficial",
-            "Frivolous",
-            "Wretched",
-            "Shameful",
             "Peu Profond",
             "Superficiel",
             "Frivole",
@@ -9410,8 +7717,6 @@
         "freq": 382,
         "jlpt": 2,
         "meanings": [
-            "Line",
-            "Track",
             "Ligne",
             "Voie"
         ],
@@ -9428,8 +7733,6 @@
         "freq": 713,
         "jlpt": 2,
         "meanings": [
-            "Ship",
-            "Boat",
             "Bateau",
             "Navire"
         ],
@@ -9447,10 +7750,6 @@
         "freq": 57,
         "jlpt": 2,
         "meanings": [
-            "Elect",
-            "Select",
-            "Choose",
-            "Prefer",
             "Élection",
             "Sélection",
             "Choisir",
@@ -9471,9 +7770,6 @@
         "freq": 765,
         "jlpt": 2,
         "meanings": [
-            "Virtuous",
-            "Good",
-            "Goodness",
             "Bien",
             "Bonté",
             "Vertu"
@@ -9494,11 +7790,6 @@
         "freq": 401,
         "jlpt": 2,
         "meanings": [
-            "Sort Of Thing",
-            "So",
-            "If So",
-            "In That Case",
-            "Well",
             "Un Certain",
             "Si C'est Comme Ça",
             "Dans Ce Cas",
@@ -9521,11 +7812,6 @@
         "freq": 75,
         "jlpt": 2,
         "meanings": [
-            "Whole",
-            "Entire",
-            "All",
-            "Complete",
-            "Fulfill",
             "Totalité",
             "Entier",
             "Tout",
@@ -9546,9 +7832,6 @@
         "freq": 1226,
         "jlpt": 2,
         "meanings": [
-            "Ancestor",
-            "Pioneer",
-            "Founder",
             "Ancêtre",
             "Pionnier",
             "Fondateur"
@@ -9564,14 +7847,6 @@
         "freq": 204,
         "jlpt": 2,
         "meanings": [
-            "Association",
-            "Braid",
-            "Plait",
-            "Construct",
-            "Assemble",
-            "Unite",
-            "Cooperate",
-            "Grapple",
             "Association",
             "Tresse",
             "Natte",
@@ -9596,10 +7871,6 @@
         "freq": 1029,
         "jlpt": 2,
         "meanings": [
-            "Pair",
-            "Set",
-            "Comparison",
-            "Counter For Pairs",
             "Paire",
             "Ensemble (groupe D'objets)",
             "Comparaison",
@@ -9621,11 +7892,6 @@
         "freq": 801,
         "jlpt": 2,
         "meanings": [
-            "Stratum",
-            "Social Class",
-            "Layer",
-            "Story",
-            "Floor",
             "Strate",
             "Classe Sociale",
             "Couche",
@@ -9642,10 +7908,6 @@
         "freq": 381,
         "jlpt": 2,
         "meanings": [
-            "Concept",
-            "Think",
-            "Idea",
-            "Thought",
             "Concept",
             "Pensée",
             "Idée"
@@ -9664,9 +7926,6 @@
         "freq": 592,
         "jlpt": 2,
         "meanings": [
-            "Search",
-            "Look For",
-            "Locate",
             "Chercher",
             "Rechercher",
             "Détecter",
@@ -9687,8 +7946,6 @@
         "freq": 1255,
         "jlpt": 2,
         "meanings": [
-            "Sweep",
-            "Brush",
             "Balayer",
             "Brosser",
             "Nettoyer"
@@ -9707,13 +7964,6 @@
         "freq": 1016,
         "jlpt": 2,
         "meanings": [
-            "Maneuver",
-            "Manipulate",
-            "Operate",
-            "Steer",
-            "Chastity",
-            "Virginity",
-            "Fidelity",
             "Manipuler",
             "Manoeuvre",
             "Faite Marcher",
@@ -9737,8 +7987,6 @@
         "freq": 1819,
         "jlpt": 2,
         "meanings": [
-            "Parch",
-            "Dry Up",
             "Dessécher",
             "Être Joyeux"
         ],
@@ -9755,9 +8003,6 @@
         "freq": 271,
         "jlpt": 2,
         "meanings": [
-            "Contend",
-            "Dispute",
-            "Argue",
             "Se Quereller",
             "Se Disputer"
         ],
@@ -9775,15 +8020,6 @@
         "freq": 45,
         "jlpt": 2,
         "meanings": [
-            "Inter-",
-            "Mutual",
-            "Together",
-            "Each Other",
-            "Minister Of State",
-            "Councillor",
-            "Aspect",
-            "Phase",
-            "Physiognomy",
             "Inter-",
             "Mutuel",
             "Ensemble",
@@ -9806,8 +8042,6 @@
         "freq": 1186,
         "jlpt": 2,
         "meanings": [
-            "Window",
-            "Pane",
             "Fenêtre",
             "Vitre"
         ],
@@ -9827,11 +8061,6 @@
         "freq": 129,
         "jlpt": 2,
         "meanings": [
-            "General",
-            "Whole",
-            "All",
-            "Full",
-            "Total",
             "Général",
             "Entier",
             "Tout",
@@ -9853,12 +8082,6 @@
         "freq": 967,
         "jlpt": 2,
         "meanings": [
-            "Grass",
-            "Weeds",
-            "Herbs",
-            "Pasture",
-            "Write",
-            "Draft",
             "Herbe",
             "Mauvaise Herbe",
             "Plantes",
@@ -9881,11 +8104,6 @@
         "freq": 657,
         "jlpt": 2,
         "meanings": [
-            "Attire",
-            "Dress",
-            "Pretend",
-            "Disguise",
-            "Profess",
             "Revêtir",
             "Tenue",
             "Déguisement",
@@ -9908,11 +8126,6 @@
         "jlpt": 2,
         "meanings": [
             "Statue",
-            "Picture",
-            "Image",
-            "Figure",
-            "Portrait",
-            "Statue",
             "Image",
             "Figure",
             "Portrait",
@@ -9929,11 +8142,6 @@
         "freq": 231,
         "jlpt": 2,
         "meanings": [
-            "Increase",
-            "Add",
-            "Augment",
-            "Gain",
-            "Promote",
             "Augmenter",
             "Ajouter",
             "Accroissement",
@@ -9956,8 +8164,6 @@
         "freq": 1808,
         "jlpt": 2,
         "meanings": [
-            "Hate",
-            "Detest",
             "Haine",
             "Détester"
         ],
@@ -9977,9 +8183,6 @@
         "freq": 991,
         "jlpt": 2,
         "meanings": [
-            "Entrails",
-            "Viscera",
-            "Bowels",
             "Entrailles",
             "Viscères",
             "Intestins"
@@ -9997,11 +8200,6 @@
         "freq": 468,
         "jlpt": 2,
         "meanings": [
-            "Storehouse",
-            "Hide",
-            "Own",
-            "Have",
-            "Possess",
             "Entrepôt",
             "Salle De Stockage",
             "Cacher",
@@ -10024,12 +8222,6 @@
         "freq": 1001,
         "jlpt": 2,
         "meanings": [
-            "Presents",
-            "Send",
-            "Give To",
-            "Award To",
-            "Confer On",
-            "Presenting Something",
             "Cadeau",
             "Envoyer",
             "Offrir",
@@ -10052,10 +8244,6 @@
         "freq": 429,
         "jlpt": 2,
         "meanings": [
-            "Create",
-            "Make",
-            "Structure",
-            "Physique",
             "Créer",
             "Fabriquer",
             "Structure",
@@ -10077,10 +8265,6 @@
         "freq": 216,
         "jlpt": 2,
         "meanings": [
-            "Side",
-            "Lean",
-            "Oppose",
-            "Regret",
             "Côté",
             "Pencher",
             "Opposer",
@@ -10101,11 +8285,6 @@
         "freq": 753,
         "jlpt": 2,
         "meanings": [
-            "Rule",
-            "Law",
-            "Follow",
-            "Based On",
-            "Model After",
             "Règlement",
             "Règle",
             "Suivre",
@@ -10127,13 +8306,6 @@
         "freq": 882,
         "jlpt": 2,
         "meanings": [
-            "Breath",
-            "Respiration",
-            "Son",
-            "Interest (on Money)",
-            "Nuture",
-            "Rest",
-            "Coming To An End",
             "Respirer",
             "Fils",
             "Intérêts (prêt)"
@@ -10151,13 +8323,6 @@
         "freq": 918,
         "jlpt": 2,
         "meanings": [
-            "Bundle",
-            "Sheaf",
-            "Ream",
-            "Tie In Bundles",
-            "Govern",
-            "Manage",
-            "Control",
             "Fagot",
             "Gerbe",
             "Bouquet",
@@ -10184,10 +8349,6 @@
         "freq": 761,
         "jlpt": 2,
         "meanings": [
-            "Fathom",
-            "Plan",
-            "Scheme",
-            "Measure",
             "Brasse",
             "Mesurer",
             "Sonder",
@@ -10206,8 +8367,6 @@
         "freq": 576,
         "jlpt": 2,
         "meanings": [
-            "Quick",
-            "Fast",
             "Vite",
             "Rapide"
         ],
@@ -10227,9 +8386,6 @@
         "freq": 141,
         "jlpt": 2,
         "meanings": [
-            "Continue",
-            "Series",
-            "Sequel",
             "Continuer",
             "Série",
             "Suite"
@@ -10252,10 +8408,6 @@
         "freq": 772,
         "jlpt": 2,
         "meanings": [
-            "Graduate",
-            "Soldier",
-            "Private",
-            "Die",
             "Fin D'études",
             "Soldat",
             "Privé",
@@ -10279,11 +8431,6 @@
         "freq": 577,
         "jlpt": 2,
         "meanings": [
-            "Exist",
-            "Suppose",
-            "Be Aware Of",
-            "Believe",
-            "Feel",
             "Supposer",
             "Être Conscient De",
             "Croire",
@@ -10306,8 +8453,6 @@
         "freq": 1388,
         "jlpt": 2,
         "meanings": [
-            "Grandchild",
-            "Descendants",
             "Petits-enfants",
             "Descendants"
         ],
@@ -10324,11 +8469,6 @@
         "freq": 1181,
         "jlpt": 2,
         "meanings": [
-            "Revered",
-            "Valuable",
-            "Precious",
-            "Noble",
-            "Exalted",
             "Révérer",
             "Précieux",
             "Noble",
@@ -10350,11 +8490,6 @@
         "freq": 807,
         "jlpt": 2,
         "meanings": [
-            "Damage",
-            "Loss",
-            "Disadvantage",
-            "Hurt",
-            "Injure",
             "Blesser",
             "Nuire",
             "Dommages",
@@ -10377,9 +8512,6 @@
         "freq": 543,
         "jlpt": 2,
         "meanings": [
-            "Other",
-            "Another",
-            "The Others",
             "Autre",
             "Un Autre",
             "Les Autres"
@@ -10397,11 +8529,6 @@
         "freq": 239,
         "jlpt": 2,
         "meanings": [
-            "Strike",
-            "Hit",
-            "Knock",
-            "Pound",
-            "Dozen",
             "Taper",
             "Frapper",
             "Coup",
@@ -10424,13 +8551,6 @@
         "freq": 34,
         "jlpt": 2,
         "meanings": [
-            "Vis-a-vis",
-            "Opposite",
-            "Even",
-            "Equal",
-            "Versus",
-            "Anti-",
-            "Compare",
             "Vis-à-vis",
             "En Face",
             "Régulier",
@@ -10458,11 +8578,6 @@
         "freq": 746,
         "jlpt": 2,
         "meanings": [
-            "Sash",
-            "Belt",
-            "Obi",
-            "Zone",
-            "Region",
             "Ceinture",
             "Écharpe",
             "Obi",
@@ -10483,10 +8598,6 @@
         "freq": 979,
         "jlpt": 2,
         "meanings": [
-            "Exchange",
-            "Spare",
-            "Substitute",
-            "Per-",
             "Substituer",
             "Remplacer",
             "Échanger"
@@ -10506,9 +8617,6 @@
         "freq": 1125,
         "jlpt": 2,
         "meanings": [
-            "Sack",
-            "Bag",
-            "Pouch",
             "Sac",
             "Sacoche",
             "Mère"
@@ -10527,13 +8635,6 @@
         "freq": 424,
         "jlpt": 2,
         "meanings": [
-            "Retreat",
-            "Withdraw",
-            "Retire",
-            "Resign",
-            "Repel",
-            "Expel",
-            "Reject",
             "Retraite",
             "Se Retirer",
             "Démissionner",
@@ -10559,8 +8660,6 @@
         "freq": 160,
         "jlpt": 2,
         "meanings": [
-            "No.",
-            "Residence",
             "Numéro",
             "Résidence"
         ],
@@ -10576,11 +8675,6 @@
         "freq": 357,
         "jlpt": 2,
         "meanings": [
-            "Home",
-            "House",
-            "Residence",
-            "Our House",
-            "My Husband",
             "Domicile",
             "Maison",
             "Résidence",
@@ -10598,10 +8692,6 @@
         "freq": 1698,
         "jlpt": 2,
         "meanings": [
-            "Laundry",
-            "Wash",
-            "Pour On",
-            "Rinse",
             "Lessive",
             "Laver",
             "Rincer",
@@ -10621,10 +8711,6 @@
         "freq": 500,
         "jlpt": 2,
         "meanings": [
-            "Accomplished",
-            "Reach",
-            "Arrive",
-            "Attain",
             "Suffixe Pluriel",
             "Accompli",
             "Atteindre",
@@ -10644,7 +8730,6 @@
         "freq": 508,
         "jlpt": 2,
         "meanings": [
-            "Valley",
             "Vallée"
         ],
         "readings_on": [
@@ -10661,10 +8746,6 @@
         "freq": 586,
         "jlpt": 2,
         "meanings": [
-            "Simple",
-            "One",
-            "Single",
-            "Merely",
             "Simple",
             "Un",
             "Unique",
@@ -10683,10 +8764,6 @@
         "freq": 422,
         "jlpt": 2,
         "meanings": [
-            "Shouldering",
-            "Carry",
-            "Raise",
-            "Bear",
             "Se Charger De",
             "Responsable",
             "Porter",
@@ -10706,9 +8783,6 @@
         "freq": 930,
         "jlpt": 2,
         "meanings": [
-            "Grope",
-            "Search",
-            "Look For",
             "Chercher",
             "Tâtonner",
             "Enquête"
@@ -10727,8 +8801,6 @@
         "freq": 1307,
         "jlpt": 2,
         "meanings": [
-            "Charcoal",
-            "Coal",
             "Charbon De Bois",
             "Charbon"
         ],
@@ -10745,8 +8817,6 @@
         "freq": 213,
         "jlpt": 2,
         "meanings": [
-            "Group",
-            "Association",
             "Groupe",
             "Association"
         ],
@@ -10765,16 +8835,6 @@
         "freq": 338,
         "jlpt": 2,
         "meanings": [
-            "Severance",
-            "Decline",
-            "Refuse",
-            "Apologize",
-            "Warn",
-            "Dismiss",
-            "Prohibit",
-            "Decision",
-            "Judgement",
-            "Cutting",
             "Refus",
             "Décliner",
             "Rupture",
@@ -10801,7 +8861,6 @@
         "freq": 1371,
         "jlpt": 2,
         "meanings": [
-            "Warmth",
             "Chaleur"
         ],
         "readings_on": [
@@ -10821,9 +8880,6 @@
         "freq": 479,
         "jlpt": 2,
         "meanings": [
-            "Grade",
-            "Steps",
-            "Stairs",
             "Étape",
             "Marche",
             "Escalier"
@@ -10840,8 +8896,6 @@
         "freq": 272,
         "jlpt": 2,
         "meanings": [
-            "Discuss",
-            "Talk",
             "Discuter",
             "Parler"
         ],
@@ -10856,9 +8910,6 @@
         "freq": 518,
         "jlpt": 2,
         "meanings": [
-            "Price",
-            "Cost",
-            "Value",
             "Valeur",
             "Prix",
             "Coût"
@@ -10877,8 +8928,6 @@
         "freq": 1575,
         "jlpt": 2,
         "meanings": [
-            "Shame",
-            "Dishonor",
             "Honte",
             "Déshonneur"
         ],
@@ -10898,14 +8947,6 @@
         "freq": 277,
         "jlpt": 2,
         "meanings": [
-            "Placement",
-            "Put",
-            "Set",
-            "Deposit",
-            "Leave Behind",
-            "Keep",
-            "Employ",
-            "Pawn",
             "Placer",
             "Poser",
             "Déposer",
@@ -10929,10 +8970,6 @@
         "freq": 833,
         "jlpt": 2,
         "meanings": [
-            "Slow",
-            "Late",
-            "Back",
-            "Later",
             "Retard",
             "Lent",
             "Précédent",
@@ -10953,9 +8990,6 @@
         "freq": 821,
         "jlpt": 2,
         "meanings": [
-            "Fabricate",
-            "Build",
-            "Construct",
             "Bâtir",
             "Construire",
             "Fabriquer"
@@ -10973,8 +9007,6 @@
         "freq": 1824,
         "jlpt": 2,
         "meanings": [
-            "Livestock",
-            "Domestic Fowl And Animals",
             "Bétail",
             "Animaux Domestiques"
         ],
@@ -10989,7 +9021,6 @@
         "freq": 593,
         "jlpt": 2,
         "meanings": [
-            "Bamboo",
             "Bambou"
         ],
         "readings_on": [
@@ -11005,8 +9036,6 @@
         "freq": 919,
         "jlpt": 2,
         "meanings": [
-            "Go-between",
-            "Relationship",
             "Relation",
             "Médiation",
             "Intermédiaire"
@@ -11024,12 +9053,6 @@
         "freq": 1005,
         "jlpt": 2,
         "meanings": [
-            "Mid-air",
-            "Air",
-            "Space",
-            "Sky",
-            "Memorization",
-            "Interval Of Time",
             "Plein Ciel",
             "Air",
             "Espace",
@@ -11047,10 +9070,6 @@
         "freq": 1119,
         "jlpt": 2,
         "meanings": [
-            "Pillar",
-            "Post",
-            "Cylinder",
-            "Support",
             "Poteau",
             "Cylindre",
             "Support"
@@ -11068,9 +9087,6 @@
         "freq": 1351,
         "jlpt": 2,
         "meanings": [
-            "Insect",
-            "Bug",
-            "Temper",
             "Insecte",
             "Vermine",
             "Ver",
@@ -11091,9 +9107,6 @@
         "freq": 955,
         "jlpt": 2,
         "meanings": [
-            "Stop-over",
-            "Reside In",
-            "Resident",
             "Stationner",
             "Résident"
         ],
@@ -11108,18 +9121,6 @@
         "freq": 849,
         "jlpt": 2,
         "meanings": [
-            "Renowned",
-            "Publish",
-            "Write",
-            "Remarkable",
-            "Phenomenal",
-            "Put On",
-            "Don",
-            "Wear",
-            "Arrival",
-            "Finish (race)",
-            "Counter For Suits Of Clothing",
-            "Literary Work",
             "Renommé",
             "Publier",
             "Écrire",
@@ -11146,11 +9147,6 @@
         "freq": 1100,
         "jlpt": 2,
         "meanings": [
-            "Savings",
-            "Store",
-            "Lay In",
-            "Keep",
-            "Wear Mustache",
             "Économies",
             "Épargne",
             "Réserve",
@@ -11171,12 +9167,6 @@
         "freq": 1174,
         "jlpt": 2,
         "meanings": [
-            "Portent",
-            "10**12",
-            "Trillion",
-            "Sign",
-            "Omen",
-            "Symptoms",
             "Augures",
             "Présage",
             "Signe",
@@ -11198,7 +9188,6 @@
         "freq": 793,
         "jlpt": 2,
         "meanings": [
-            "Government Office",
             "Bureau Du Gouvernement"
         ],
         "readings_on": [
@@ -11215,11 +9204,6 @@
         "freq": 403,
         "jlpt": 2,
         "meanings": [
-            "Lengthen",
-            "Counter For Bows & Stringed Instruments",
-            "Stretch",
-            "Spread",
-            "Put Up (tent)",
             "Allonger",
             "Étirer",
             "Étaler",
@@ -11241,16 +9225,6 @@
         "freq": 87,
         "jlpt": 2,
         "meanings": [
-            "Tune",
-            "Tone",
-            "Meter",
-            "Key (music)",
-            "Writing Style",
-            "Prepare",
-            "Exorcise",
-            "Investigate",
-            "Harmonize",
-            "Mediate",
             "Enquête",
             "Mélodie",
             "Ton (majeur/mineur)",
@@ -11274,9 +9248,6 @@
         "freq": 597,
         "jlpt": 2,
         "meanings": [
-            "Transcend",
-            "Super-",
-            "Ultra-",
             "Dépasser",
             "Super-",
             "Sur-"
@@ -11295,12 +9266,6 @@
         "freq": 1350,
         "jlpt": 2,
         "meanings": [
-            "Place On The Head",
-            "Receive",
-            "Top Of Head",
-            "Top",
-            "Summit",
-            "Peak",
             "Placer Au Sommet",
             "Recevoir (je Reçois De Vous)",
             "Sommet De La Tête (vertex)",
@@ -11321,11 +9286,6 @@
         "freq": 246,
         "jlpt": 2,
         "meanings": [
-            "Straightaway",
-            "Honesty",
-            "Frankness",
-            "Fix",
-            "Repair",
             "Droit Devant",
             "Directement",
             "Honnêteté",
@@ -11354,11 +9314,6 @@
         "freq": 1271,
         "jlpt": 2,
         "meanings": [
-            "Sink",
-            "Be Submerged",
-            "Subside",
-            "Be Depressed",
-            "Aloes",
             "Couler",
             "Être Submergé",
             "S'enfoncer",
@@ -11381,9 +9336,6 @@
         "jlpt": 2,
         "meanings": [
             "Rare",
-            "Curious",
-            "Strange",
-            "Rare",
             "Curieux",
             "Étrange"
         ],
@@ -11401,12 +9353,6 @@
         "freq": 961,
         "jlpt": 2,
         "meanings": [
-            "Fare",
-            "Fee",
-            "Hire",
-            "Rent",
-            "Wages",
-            "Charge",
             "Tarif",
             "Prix",
             "Frais",
@@ -11426,11 +9372,6 @@
         "freq": 411,
         "jlpt": 2,
         "meanings": [
-            "Chase",
-            "Drive Away",
-            "Follow",
-            "Pursue",
-            "Meanwhile",
             "Pourchasser",
             "Chasser",
             "Suivre",
@@ -11450,10 +9391,6 @@
         "freq": 903,
         "jlpt": 2,
         "meanings": [
-            "Pain",
-            "Hurt",
-            "Damage",
-            "Bruise",
             "Douleur",
             "Mal",
             "Dommage",
@@ -11475,8 +9412,6 @@
         "freq": 733,
         "jlpt": 2,
         "meanings": [
-            "Halt",
-            "Stopping",
             "Arrêt",
             "Halte"
         ],
@@ -11494,10 +9429,6 @@
         "freq": 48,
         "jlpt": 2,
         "meanings": [
-            "Determine",
-            "Fix",
-            "Establish",
-            "Decide",
             "Déterminé",
             "Fixé",
             "Établi",
@@ -11519,13 +9450,6 @@
         "freq": 867,
         "jlpt": 2,
         "meanings": [
-            "Bottom",
-            "Sole",
-            "Depth",
-            "Bottom Price",
-            "Base",
-            "Kind",
-            "Sort",
             "Partie Basse",
             "Fond",
             "Semelle",
@@ -11547,9 +9471,6 @@
         "freq": 816,
         "jlpt": 2,
         "meanings": [
-            "Courtyard",
-            "Garden",
-            "Yard",
             "Jardin",
             "Cour"
         ],
@@ -11566,13 +9487,6 @@
         "freq": 514,
         "jlpt": 2,
         "meanings": [
-            "Extent",
-            "Degree",
-            "Law",
-            "Formula",
-            "Distance",
-            "Limits",
-            "Amount",
             "Ampleur",
             "Degré",
             "Loi",
@@ -11596,10 +9510,6 @@
         "freq": 1589,
         "jlpt": 2,
         "meanings": [
-            "Mud",
-            "Mire",
-            "Adhere To",
-            "Be Attached To",
             "Boue",
             "Fange",
             "Tenir À",
@@ -11622,8 +9532,6 @@
         "freq": 2019,
         "jlpt": 2,
         "meanings": [
-            "Drip",
-            "Drop",
             "Goutte"
         ],
         "readings_on": [
@@ -11640,11 +9548,6 @@
         "freq": 105,
         "jlpt": 2,
         "meanings": [
-            "Bull's Eye",
-            "Mark",
-            "Target",
-            "Object",
-            "Adjective Ending",
             "Cible",
             "But",
             "Objectif",
@@ -11663,11 +9566,6 @@
         "freq": 670,
         "jlpt": 2,
         "meanings": [
-            "Suitable",
-            "Occasional",
-            "Rare",
-            "Qualified",
-            "Capable",
             "Approprié",
             "Occasionnel",
             "Rare",
@@ -11687,7 +9585,6 @@
         "freq": 672,
         "jlpt": 2,
         "meanings": [
-            "Iron",
             "Fer"
         ],
         "readings_on": [
@@ -11703,8 +9600,6 @@
         "freq": 352,
         "jlpt": 2,
         "meanings": [
-            "Unfold",
-            "Expand",
             "Développement",
             "Déploiement"
         ],
@@ -11719,11 +9614,6 @@
         "freq": 165,
         "jlpt": 2,
         "meanings": [
-            "Spot",
-            "Point",
-            "Mark",
-            "Speck",
-            "Decimal Point",
             "Point",
             "Note",
             "Allumer",
@@ -11748,14 +9638,6 @@
         "freq": 416,
         "jlpt": 2,
         "meanings": [
-            "Transmit",
-            "Go Along",
-            "Walk Along",
-            "Follow",
-            "Report",
-            "Communicate",
-            "Legend",
-            "Tradition",
             "Transmettre",
             "Côtoyer",
             "Suivre",
@@ -11783,12 +9665,6 @@
         "freq": 1199,
         "jlpt": 2,
         "meanings": [
-            "Mr.",
-            "Hall",
-            "Mansion",
-            "Palace",
-            "Temple",
-            "Lord",
             "Monseigneur",
             "Hall",
             "Résidence",
@@ -11811,11 +9687,6 @@
         "freq": 1414,
         "jlpt": 2,
         "meanings": [
-            "Paint",
-            "Plaster",
-            "Daub",
-            "Smear",
-            "Coating",
             "Peinture",
             "Peindre",
             "Tartiner",
@@ -11838,17 +9709,6 @@
         "freq": 817,
         "jlpt": 2,
         "meanings": [
-            "On Foot",
-            "Junior",
-            "Emptiness",
-            "Vanity",
-            "Futility",
-            "Uselessness",
-            "Ephemeral Thing",
-            "Gang",
-            "Set",
-            "Party",
-            "People",
             "Élève",
             "Inexpérimenté",
             "Vide",
@@ -11874,14 +9734,6 @@
         "jlpt": 2,
         "meanings": [
             "Transit",
-            "Ford",
-            "Ferry",
-            "Cross",
-            "Import",
-            "Deliver",
-            "Diameter",
-            "Migrate",
-            "Transit",
             "Gué",
             "Bac",
             "Traversée",
@@ -11905,8 +9757,6 @@
         "freq": 566,
         "jlpt": 2,
         "meanings": [
-            "Ascend",
-            "Climb Up",
             "Monter",
             "Escalader"
         ],
@@ -11928,9 +9778,6 @@
         "freq": 717,
         "jlpt": 2,
         "meanings": [
-            "Route",
-            "Way",
-            "Road",
             "Trajet",
             "Route",
             "Voie"
@@ -11948,9 +9795,6 @@
         "freq": 749,
         "jlpt": 2,
         "meanings": [
-            "Toil",
-            "Diligent",
-            "As Much As Possible",
             "S'efforcer",
             "Faire Tout Son Possible",
             "Travailler Dur",
@@ -11969,8 +9813,6 @@
         "freq": 1221,
         "jlpt": 2,
         "meanings": [
-            "Angry",
-            "Be Offended",
             "Colère",
             "Offenser"
         ],
@@ -11989,11 +9831,6 @@
         "freq": 791,
         "jlpt": 2,
         "meanings": [
-            "Overthrow",
-            "Fall",
-            "Collapse",
-            "Drop",
-            "Break Down",
             "Renverser",
             "Tomber",
             "S'écrouler",
@@ -12018,9 +9855,6 @@
         "freq": 39,
         "jlpt": 2,
         "meanings": [
-            "Party",
-            "Faction",
-            "Clique",
             "Parti Politique",
             "Faction",
             "Clique"
@@ -12039,9 +9873,6 @@
         "freq": 1284,
         "jlpt": 2,
         "meanings": [
-            "Frozen",
-            "Congeal",
-            "Refrigerate",
             "Gelé",
             "Congeler",
             "Réfrigérer"
@@ -12063,9 +9894,6 @@
         "freq": 1708,
         "jlpt": 2,
         "meanings": [
-            "Pagoda",
-            "Tower",
-            "Steeple",
             "Pagode",
             "Tour",
             "Clocher"
@@ -12081,7 +9909,6 @@
         "freq": 245,
         "jlpt": 2,
         "meanings": [
-            "Island",
             "Île"
         ],
         "readings_on": [
@@ -12097,15 +9924,6 @@
         "freq": 236,
         "jlpt": 2,
         "meanings": [
-            "Throw",
-            "Discard",
-            "Abandon",
-            "Launch Into",
-            "Join",
-            "Invest In",
-            "Hurl",
-            "Give Up",
-            "Sell At A Loss",
             "Jeter",
             "Mettre Au Rebut",
             "Abandonner",
@@ -12128,9 +9946,6 @@
         "freq": 1051,
         "jlpt": 2,
         "meanings": [
-            "Steal",
-            "Rob",
-            "Pilfer",
             "Vol",
             "Dérober",
             "Chaparder"
@@ -12149,9 +9964,6 @@
         "freq": 1356,
         "jlpt": 2,
         "meanings": [
-            "Hot Water",
-            "Bath",
-            "Hot Spring",
             "Eau Chaude",
             "Bain",
             "Source Chaude"
@@ -12169,10 +9981,6 @@
         "freq": 1605,
         "jlpt": 2,
         "meanings": [
-            "Lamp",
-            "A Light",
-            "Light",
-            "Counter For Lights",
             "Lampe",
             "Lumière",
             "Compteur De Lampes"
@@ -12194,10 +10002,6 @@
         "freq": 91,
         "jlpt": 2,
         "meanings": [
-            "Hit",
-            "Right",
-            "Appropriate",
-            "Himself",
             "Frapper",
             "Juste",
             "Approprié",
@@ -12221,12 +10025,6 @@
         "freq": 798,
         "jlpt": 2,
         "meanings": [
-            "Etc.",
-            "And So Forth",
-            "Class (first)",
-            "Quality",
-            "Equal",
-            "Similar",
             "Et Ainsi De Suite",
             "Etc...",
             "Semblable",
@@ -12250,11 +10048,6 @@
         "freq": 1631,
         "jlpt": 2,
         "meanings": [
-            "Cylinder",
-            "Pipe",
-            "Tube",
-            "Gun Barrel",
-            "Sleeve",
             "Cylindre",
             "Tuyau",
             "Tube",
@@ -12274,11 +10067,6 @@
         "freq": 1032,
         "jlpt": 2,
         "meanings": [
-            "Arrival",
-            "Proceed",
-            "Reach",
-            "Attain",
-            "Result In",
             "Arrivée",
             "Atteindre",
             "Arriver À",
@@ -12297,11 +10085,6 @@
         "freq": 931,
         "jlpt": 2,
         "meanings": [
-            "Escape",
-            "Flee",
-            "Shirk",
-            "Evade",
-            "Set Free",
             "S'évader",
             "S'échapper",
             "Fuir",
@@ -12324,10 +10107,6 @@
         "freq": 354,
         "jlpt": 2,
         "meanings": [
-            "Guidance",
-            "Leading",
-            "Conduct",
-            "Usher",
             "Directives",
             "Mener",
             "Guider",
@@ -12346,8 +10125,6 @@
         "freq": 1138,
         "jlpt": 2,
         "meanings": [
-            "Juvenile",
-            "Child",
             "Jeune",
             "Enfant"
         ],
@@ -12364,7 +10141,6 @@
         "freq": 1505,
         "jlpt": 2,
         "meanings": [
-            "Copper",
             "Cuivre"
         ],
         "readings_on": [
@@ -12380,17 +10156,6 @@
         "freq": 175,
         "jlpt": 2,
         "meanings": [
-            "Gain",
-            "Get",
-            "Find",
-            "Earn",
-            "Acquire",
-            "Can",
-            "May",
-            "Able To",
-            "Profit",
-            "Advantage",
-            "Benefit",
             "Obtenir",
             "Gain",
             "Gagner",
@@ -12417,13 +10182,6 @@
         "meanings": [
             "Poison",
             "Virus",
-            "Venom",
-            "Germ",
-            "Harm",
-            "Injury",
-            "Spite",
-            "Poison",
-            "Virus",
             "Venin",
             "Germe",
             "Mal",
@@ -12441,10 +10199,6 @@
         "freq": 365,
         "jlpt": 2,
         "meanings": [
-            "Single",
-            "Alone",
-            "Spontaneously",
-            "Germany",
             "Célibataire",
             "Seul",
             "Spontanément",
@@ -12464,13 +10218,6 @@
         "freq": 521,
         "jlpt": 2,
         "meanings": [
-            "Stab",
-            "Protruding",
-            "Thrust",
-            "Pierce",
-            "Prick",
-            "Collision",
-            "Sudden",
             "Poignarder",
             "Saillant",
             "Irruption",
@@ -12492,12 +10239,6 @@
         "freq": 939,
         "jlpt": 2,
         "meanings": [
-            "Deliver",
-            "Reach",
-            "Arrive",
-            "Report",
-            "Notify",
-            "Forward",
             "Remettre",
             "Livrer",
             "Parvenir",
@@ -12521,8 +10262,6 @@
         "freq": 1899,
         "jlpt": 2,
         "meanings": [
-            "Cloudy Weather",
-            "Cloud Up",
             "Temps Couvert",
             "Se Couvrir"
         ],
@@ -12539,10 +10278,6 @@
         "freq": 1574,
         "jlpt": 2,
         "meanings": [
-            "Dull",
-            "Slow",
-            "Foolish",
-            "Blunt",
             "Émoussé",
             "Lent",
             "Bête"
@@ -12564,12 +10299,6 @@
         "freq": 44,
         "jlpt": 2,
         "meanings": [
-            "Inside",
-            "Within",
-            "Between",
-            "Among",
-            "House",
-            "Home",
             "Intérieur",
             "Dedans",
             "Entre",
@@ -12590,7 +10319,6 @@
         "freq": 1269,
         "jlpt": 2,
         "meanings": [
-            "Soft",
             "Mou"
         ],
         "readings_on": [
@@ -12607,11 +10335,6 @@
         "freq": 330,
         "jlpt": 2,
         "meanings": [
-            "Difficult",
-            "Impossible",
-            "Trouble",
-            "Accident",
-            "Defect",
             "Difficile",
             "Impossible",
             "Problème",
@@ -12636,8 +10359,6 @@
         "freq": 1289,
         "jlpt": 2,
         "meanings": [
-            "Milk",
-            "Breasts",
             "Lait",
             "Seins"
         ],
@@ -12655,11 +10376,6 @@
         "freq": 217,
         "jlpt": 2,
         "meanings": [
-            "Responsibility",
-            "Duty",
-            "Term",
-            "Entrust To",
-            "Appoint",
             "Responsabilité",
             "Devoir",
             "Terme",
@@ -12680,12 +10396,6 @@
         "freq": 198,
         "jlpt": 2,
         "meanings": [
-            "Acknowledge",
-            "Witness",
-            "Discern",
-            "Recognize",
-            "Appreciate",
-            "Believe",
             "Reconnaître",
             "Approuver",
             "Certifier",
@@ -12707,7 +10417,6 @@
         "freq": 1702,
         "jlpt": 2,
         "meanings": [
-            "Cat",
             "Chat"
         ],
         "readings_on": [
@@ -12723,11 +10432,6 @@
         "freq": 700,
         "jlpt": 2,
         "meanings": [
-            "Heat",
-            "Temperature",
-            "Fever",
-            "Mania",
-            "Passion",
             "Chaleur",
             "Fièvre",
             "Température",
@@ -12747,13 +10451,6 @@
         "freq": 390,
         "jlpt": 2,
         "meanings": [
-            "Wish",
-            "Sense",
-            "Idea",
-            "Thought",
-            "Feeling",
-            "Desire",
-            "Attention",
             "Désir",
             "Souhait",
             "Sens",
@@ -12773,9 +10470,6 @@
         "freq": 948,
         "jlpt": 2,
         "meanings": [
-            "Burn",
-            "Blaze",
-            "Glow",
             "Brûler",
             "Flamber"
         ],
@@ -12794,11 +10488,6 @@
         "freq": 1084,
         "jlpt": 2,
         "meanings": [
-            "Trouble",
-            "Worry",
-            "In Pain",
-            "Distress",
-            "Illness",
             "Soucieux",
             "Ennuis",
             "Peine",
@@ -12821,10 +10510,6 @@
         "freq": 1200,
         "jlpt": 2,
         "meanings": [
-            "Concentrated",
-            "Thick",
-            "Dark",
-            "Undiluted",
             "Concentré",
             "Non Dilué",
             "Épais",
@@ -12843,10 +10528,6 @@
         "freq": 273,
         "jlpt": 2,
         "meanings": [
-            "Ability",
-            "Talent",
-            "Skill",
-            "Capacity",
             "Capacité",
             "Habileté",
             "Talent",
@@ -12866,8 +10547,6 @@
         "freq": 459,
         "jlpt": 2,
         "meanings": [
-            "Brain",
-            "Memory",
             "Cerveau",
             "Mémoire"
         ],
@@ -12886,8 +10565,6 @@
         "jlpt": 2,
         "meanings": [
             "Agriculture",
-            "Farmers",
-            "Agriculture",
             "Fermier"
         ],
         "readings_on": [
@@ -12901,9 +10578,6 @@
         "freq": 740,
         "jlpt": 2,
         "meanings": [
-            "Waves",
-            "Billows",
-            "Poland",
             "Onde",
             "Vague",
             "Pologne"
@@ -12921,13 +10595,6 @@
         "freq": 590,
         "jlpt": 2,
         "meanings": [
-            "Rend",
-            "Rip",
-            "Tear",
-            "Break",
-            "Destroy",
-            "Defeat",
-            "Frustrate",
             "Déchirer",
             "Casser",
             "Détruire",
@@ -12949,7 +10616,6 @@
         "freq": 639,
         "jlpt": 2,
         "meanings": [
-            "Horse",
             "Cheval"
         ],
         "readings_on": [
@@ -12967,9 +10633,6 @@
         "freq": 1443,
         "jlpt": 2,
         "meanings": [
-            "Worship",
-            "Adore",
-            "Pray To",
             "Culte",
             "Adorer",
             "Prier"
@@ -12988,9 +10651,6 @@
         "freq": 516,
         "jlpt": 2,
         "meanings": [
-            "Failure",
-            "Defeat",
-            "Reversal",
             "Défaut",
             "Défaite",
             "Revers"
@@ -13008,10 +10668,6 @@
         "freq": 1235,
         "jlpt": 2,
         "meanings": [
-            "Counter For Cupfuls",
-            "Wine Glass",
-            "Glass",
-            "Toast",
             "Compteur De Verres",
             "Coupe À Saké",
             "Verre De Vin",
@@ -13031,14 +10687,6 @@
         "freq": 696,
         "jlpt": 2,
         "meanings": [
-            "Stature",
-            "Height",
-            "Back",
-            "Behind",
-            "Disobey",
-            "Defy",
-            "Go Back On",
-            "Rebel",
             "Stature",
             "Taille",
             "Dos",
@@ -13064,10 +10712,6 @@
         "freq": 359,
         "jlpt": 2,
         "meanings": [
-            "Distribute",
-            "Spouse",
-            "Exile",
-            "Rationing",
             "Distribuer",
             "Épouse",
             "Exiler",
@@ -13087,10 +10731,6 @@
         "jlpt": 2,
         "meanings": [
             "Double",
-            "Twice",
-            "Times",
-            "Fold",
-            "Double",
             "Deux Fois",
             "Fois",
             "Plier (en 2)"
@@ -13106,9 +10746,6 @@
         "freq": 1233,
         "jlpt": 2,
         "meanings": [
-            "Overnight Stay",
-            "Put Up At",
-            "Ride At Anchor",
             "Passer La Nuit",
             "Loger",
             "Séjour",
@@ -13128,10 +10765,6 @@
         "freq": 1009,
         "jlpt": 2,
         "meanings": [
-            "Dilute",
-            "Thin",
-            "Weak (tea)",
-            "Pampas Grass",
             "Fin",
             "Dilué",
             "Léger (thé)"
@@ -13157,10 +10790,6 @@
         "freq": 735,
         "jlpt": 2,
         "meanings": [
-            "Bomb",
-            "Burst Open",
-            "Pop",
-            "Split",
             "Bombe",
             "Faire Éclater",
             "Exploser",
@@ -13179,8 +10808,6 @@
         "freq": 1615,
         "jlpt": 2,
         "meanings": [
-            "Barley",
-            "Wheat",
             "Orge",
             "Blé"
         ],
@@ -13197,11 +10824,6 @@
         "freq": 1357,
         "jlpt": 2,
         "meanings": [
-            "Box",
-            "Chest",
-            "Case",
-            "Bin",
-            "Railway Car",
             "Boîte",
             "Coffre",
             "Caisse",
@@ -13220,10 +10842,6 @@
         "freq": 1559,
         "jlpt": 2,
         "meanings": [
-            "Texture",
-            "Skin",
-            "Body",
-            "Grain",
             "Épiderme",
             "Texture",
             "Grain",
@@ -13242,11 +10860,6 @@
         "freq": 1176,
         "jlpt": 2,
         "meanings": [
-            "Farm",
-            "Field",
-            "Garden",
-            "One's Specialty",
-            "(kokuji)",
             "Ferme",
             "Champ",
             "Jardin",
@@ -13266,7 +10879,6 @@
         "freq": 1474,
         "jlpt": 2,
         "meanings": [
-            "Hair Of The Head",
             "Cheveux"
         ],
         "readings_on": [
@@ -13282,13 +10894,6 @@
         "freq": 726,
         "jlpt": 2,
         "meanings": [
-            "Slip Out",
-            "Extract",
-            "Pull Out",
-            "Pilfer",
-            "Quote",
-            "Remove",
-            "Omit",
             "Arracher",
             "Extraire",
             "Chaparder",
@@ -13316,11 +10921,6 @@
         "freq": 197,
         "jlpt": 2,
         "meanings": [
-            "Judgement",
-            "Judgment",
-            "Signature",
-            "Stamp",
-            "Seal",
             "Jugement",
             "Signature",
             "Tampon",
@@ -13340,7 +10940,6 @@
         "freq": 191,
         "jlpt": 2,
         "meanings": [
-            "Anti-",
             "Anti-"
         ],
         "readings_on": [
@@ -13363,10 +10962,6 @@
         "freq": 926,
         "jlpt": 2,
         "meanings": [
-            "Plank",
-            "Board",
-            "Plate",
-            "Stage",
             "Planche",
             "Plaque",
             "Panneau",
@@ -13386,11 +10981,6 @@
         "freq": 802,
         "jlpt": 2,
         "meanings": [
-            "Printing Block",
-            "Printing Plate",
-            "Edition",
-            "Impression",
-            "Label",
             "Édition",
             "Bloc D'impression",
             "Plaque D'impression",
@@ -13409,9 +10999,6 @@
         "jlpt": 2,
         "meanings": [
             "Crime",
-            "Sin",
-            "Offense",
-            "Crime",
             "Péché",
             "Délit"
         ],
@@ -13429,12 +11016,6 @@
         "freq": 649,
         "jlpt": 2,
         "meanings": [
-            "Carrier",
-            "Carry",
-            "All",
-            "General",
-            "Sort",
-            "Kind",
             "Global",
             "Général",
             "Transporter",
@@ -13451,9 +11032,6 @@
         "freq": 627,
         "jlpt": 2,
         "meanings": [
-            "Marketing",
-            "Sell",
-            "Trade",
             "Commercialisation",
             "Vente",
             "Commerce"
@@ -13469,8 +11047,6 @@
         "freq": 1424,
         "jlpt": 2,
         "meanings": [
-            "Nightfall",
-            "Night",
             "Soir",
             "Crépuscule"
         ],
@@ -13485,8 +11061,6 @@
         "freq": 348,
         "jlpt": 2,
         "meanings": [
-            "Turn",
-            "Number In A Series",
             "Tour (de Rôle)",
             "Numéro Dans Une Série"
         ],
@@ -13503,12 +11077,6 @@
         "freq": 561,
         "jlpt": 2,
         "meanings": [
-            "Negate",
-            "No",
-            "Noes",
-            "Refuse",
-            "Decline",
-            "Deny",
             "Non",
             "Nier",
             "Refuser",
@@ -13528,9 +11096,6 @@
         "freq": 648,
         "jlpt": 2,
         "meanings": [
-            "He",
-            "That",
-            "The",
             "Lui",
             "Celui-là"
         ],
@@ -13549,10 +11114,6 @@
         "freq": 1014,
         "jlpt": 2,
         "meanings": [
-            "Grieve",
-            "Sad",
-            "Deplore",
-            "Regret",
             "Triste",
             "Peine",
             "Déplorer",
@@ -13572,8 +11133,6 @@
         "freq": 568,
         "jlpt": 2,
         "meanings": [
-            "Criticism",
-            "Strike",
             "Critique",
             "Commentaire"
         ],
@@ -13588,10 +11147,6 @@
         "freq": 329,
         "jlpt": 2,
         "meanings": [
-            "Compare",
-            "Race",
-            "Ratio",
-            "Philippines",
             "Comparer",
             "Compétition",
             "Proportion",
@@ -13610,9 +11165,6 @@
         "freq": 1263,
         "jlpt": 2,
         "meanings": [
-            "Exhausted",
-            "Tire",
-            "Weary",
             "Fatigue",
             "Épuisé",
             "Las"
@@ -13632,11 +11184,6 @@
         "freq": 1092,
         "jlpt": 2,
         "meanings": [
-            "Pelt",
-            "Skin",
-            "Hide",
-            "Leather",
-            "Skin Radical (no. 107)",
             "Peau",
             "Cuir",
             "Fourrure",
@@ -13655,15 +11202,6 @@
         "freq": 431,
         "jlpt": 2,
         "meanings": [
-            "Incur",
-            "Cover",
-            "Veil",
-            "Brood Over",
-            "Shelter",
-            "Wear",
-            "Put On",
-            "Be Exposed (film)",
-            "Receiving",
             "Subir",
             "Couvrir",
             "Voile",
@@ -13691,11 +11229,6 @@
         "freq": 321,
         "jlpt": 2,
         "meanings": [
-            "Expense",
-            "Cost",
-            "Spend",
-            "Consume",
-            "Waste",
             "Dépense",
             "Coût",
             "Dépenser",
@@ -13716,11 +11249,6 @@
         "freq": 472,
         "jlpt": 2,
         "meanings": [
-            "Un-",
-            "Mistake",
-            "Negative",
-            "Injustice",
-            "Non-",
             "In-",
             "Non-",
             "Négatif",
@@ -13741,9 +11269,6 @@
         "freq": 580,
         "jlpt": 2,
         "meanings": [
-            "Fly",
-            "Skip (pages)",
-            "Scatter",
             "Voler",
             "Sauter (une Page)",
             "Répandre"
@@ -13763,9 +11288,6 @@
         "freq": 356,
         "jlpt": 2,
         "meanings": [
-            "Equip",
-            "Provision",
-            "Preparation",
             "Équiper",
             "Préparation",
             "Approvisionnement"
@@ -13785,8 +11307,6 @@
         "freq": 462,
         "jlpt": 2,
         "meanings": [
-            "Beauty",
-            "Beautiful",
             "Beauté",
             "Beau, Belle"
         ],
@@ -13804,8 +11324,6 @@
         "freq": 1632,
         "jlpt": 2,
         "meanings": [
-            "Nose",
-            "Snout",
             "Nez",
             "Museau",
             "Groin"
@@ -13823,10 +11341,6 @@
         "freq": 1384,
         "jlpt": 2,
         "meanings": [
-            "Equal",
-            "Head",
-            "Counter For Small Animals",
-            "Roll Of Cloth",
             "Égal",
             "Tête",
             "Compteur De Petits Animaux",
@@ -13845,9 +11359,6 @@
         "freq": 265,
         "jlpt": 2,
         "meanings": [
-            "Invariably",
-            "Certain",
-            "Inevitable",
             "Nécessairement",
             "Certain",
             "Inévitable",
@@ -13866,10 +11377,6 @@
         "freq": 1132,
         "jlpt": 2,
         "meanings": [
-            "Writing Brush",
-            "Writing",
-            "Painting Brush",
-            "Handwriting",
             "Pinceau",
             "Écriture"
         ],
@@ -13886,17 +11393,6 @@
         "freq": 686,
         "jlpt": 2,
         "meanings": [
-            "Signpost",
-            "Seal",
-            "Mark",
-            "Stamp",
-            "Imprint",
-            "Symbol",
-            "Emblem",
-            "Trademark",
-            "Evidence",
-            "Souvenir",
-            "Target",
             "Panneau",
             "Sceau",
             "Marque",
@@ -13922,11 +11418,6 @@
         "freq": 1450,
         "jlpt": 2,
         "meanings": [
-            "Icicle",
-            "Ice",
-            "Hail",
-            "Freeze",
-            "Congeal",
             "Glace",
             "Glaçon",
             "Grêle",
@@ -13948,10 +11439,6 @@
         "freq": 77,
         "jlpt": 2,
         "meanings": [
-            "Surface",
-            "Table",
-            "Chart",
-            "Diagram",
             "Surface (apparente)",
             "Face",
             "Tableau",
@@ -13975,9 +11462,6 @@
         "freq": 454,
         "jlpt": 2,
         "meanings": [
-            "Evaluate",
-            "Criticism",
-            "Comment",
             "Évaluer",
             "Critiquer",
             "Commenter"
@@ -13993,7 +11477,6 @@
         "freq": 1015,
         "jlpt": 2,
         "meanings": [
-            "Second (1/60 Minute)",
             "Seconde"
         ],
         "readings_on": [
@@ -14007,8 +11490,6 @@
         "freq": 1211,
         "jlpt": 2,
         "meanings": [
-            "Poverty",
-            "Poor",
             "Pauvre",
             "Pauvreté"
         ],
@@ -14026,10 +11507,6 @@
         "freq": 322,
         "jlpt": 2,
         "meanings": [
-            "Adhere",
-            "Attach",
-            "Refer To",
-            "Append",
             "Coller",
             "Attacher",
             "Soumettre À",
@@ -14062,8 +11539,6 @@
         "freq": 335,
         "jlpt": 2,
         "meanings": [
-            "Husband",
-            "Man",
             "Mari",
             "Homme"
         ],
@@ -14083,10 +11558,6 @@
         "freq": 671,
         "jlpt": 2,
         "meanings": [
-            "Lady",
-            "Woman",
-            "Wife",
-            "Bride",
             "Femme Mariée",
             "Épouse",
             "Dame",
@@ -14105,9 +11576,6 @@
         "freq": 644,
         "jlpt": 2,
         "meanings": [
-            "Wealth",
-            "Enrich",
-            "Abundant",
             "Fortune",
             "Richesse",
             "Abondance"
@@ -14127,10 +11595,6 @@
         "freq": 877,
         "jlpt": 2,
         "meanings": [
-            "Linen",
-            "Cloth",
-            "Spread",
-            "Distribute",
             "Linge"
         ],
         "readings_on": [
@@ -14149,11 +11613,6 @@
         "freq": 170,
         "jlpt": 2,
         "meanings": [
-            "Borough",
-            "Urban Prefecture",
-            "Govt Office",
-            "Representative Body",
-            "Storehouse",
             "Préfecture Urbaine",
             "Arrondissement",
             "Bureau De Gouvernement",
@@ -14171,9 +11630,6 @@
         "freq": 1325,
         "jlpt": 2,
         "meanings": [
-            "Dreadful",
-            "Be Frightened",
-            "Fearful",
             "Effrayant",
             "Affreux",
             "Épouvantable",
@@ -14196,10 +11652,6 @@
         "freq": 757,
         "jlpt": 2,
         "meanings": [
-            "Universal",
-            "Wide(ly)",
-            "Generally",
-            "Prussia",
             "Universel",
             "Largement",
             "Généralement",
@@ -14219,9 +11671,6 @@
         "freq": 776,
         "jlpt": 2,
         "meanings": [
-            "Floating",
-            "Float",
-            "Rise To Surface",
             "Flotter",
             "Faire Surface",
             "Venir À L'esprit",
@@ -14243,11 +11692,6 @@
         "freq": 1798,
         "jlpt": 2,
         "meanings": [
-            "Token",
-            "Sign",
-            "Mark",
-            "Tally",
-            "Charm",
             "Marque",
             "Signe",
             "Compte",
@@ -14265,11 +11709,6 @@
         "freq": 1679,
         "jlpt": 2,
         "meanings": [
-            "Skin",
-            "Body",
-            "Grain",
-            "Texture",
-            "Disposition",
             "Peau",
             "Corps",
             "Grain",
@@ -14289,13 +11728,6 @@
         "freq": 443,
         "jlpt": 2,
         "meanings": [
-            "Defeat",
-            "Negative",
-            "-",
-            "Minus",
-            "Bear",
-            "Owe",
-            "Assume A Responsibility",
             "Défaite",
             "Perdre",
             "Moins",
@@ -14320,10 +11752,6 @@
         "freq": 387,
         "jlpt": 2,
         "meanings": [
-            "Warrior",
-            "Military",
-            "Chivalry",
-            "Arms",
             "Guerrier",
             "Militaire",
             "Chevalerie",
@@ -14344,10 +11772,6 @@
         "freq": 655,
         "jlpt": 2,
         "meanings": [
-            "Dance",
-            "Flit",
-            "Circle",
-            "Wheel",
             "Danse",
             "Voltiger",
             "Cercle",
@@ -14368,14 +11792,6 @@
         "freq": 36,
         "jlpt": 2,
         "meanings": [
-            "Section",
-            "Bureau",
-            "Dept",
-            "Class",
-            "Copy",
-            "Part",
-            "Portion",
-            "Counter For Copies Of A Newspaper Or Magazine",
             "Partie",
             "Bureau",
             "Service",
@@ -14398,8 +11814,6 @@
         "freq": 1143,
         "jlpt": 2,
         "meanings": [
-            "Seal",
-            "Closing",
             "Sceller",
             "Fermeture"
         ],
@@ -14416,11 +11830,6 @@
         "jlpt": 2,
         "meanings": [
             "Vice-",
-            "Assistant",
-            "Aide",
-            "Duplicate",
-            "Copy",
-            "Vice-",
             "Copie",
             "Duplicata"
         ],
@@ -14435,10 +11844,6 @@
         "freq": 438,
         "jlpt": 2,
         "meanings": [
-            "Restore",
-            "Return To",
-            "Revert",
-            "Resume",
             "Retourner",
             "Restaurer",
             "Reprendre"
@@ -14456,8 +11861,6 @@
         "freq": 641,
         "jlpt": 2,
         "meanings": [
-            "Hanging Scroll",
-            "Width",
             "Largeur",
             "Kakémono",
             "Tenture Murale"
@@ -14475,10 +11878,6 @@
         "freq": 467,
         "jlpt": 2,
         "meanings": [
-            "Blessing",
-            "Fortune",
-            "Luck",
-            "Wealth",
             "Bénédiction",
             "Fortune",
             "Chance",
@@ -14496,9 +11895,6 @@
         "jlpt": 2,
         "meanings": [
             "Abdomen",
-            "Belly",
-            "Stomach",
-            "Abdomen",
             "Ventre"
         ],
         "readings_on": [
@@ -14514,10 +11910,6 @@
         "freq": 915,
         "jlpt": 2,
         "meanings": [
-            "Duplicate",
-            "Double",
-            "Compound",
-            "Multiple",
             "Duplication",
             "Copie",
             "Composé",
@@ -14535,11 +11927,6 @@
         "freq": 813,
         "jlpt": 2,
         "meanings": [
-            "Pay",
-            "Clear Out",
-            "Prune",
-            "Banish",
-            "Dispose Of",
             "Payer",
             "Nettoyer",
             "Tailler",
@@ -14563,11 +11950,6 @@
         "freq": 1709,
         "jlpt": 2,
         "meanings": [
-            "Seethe",
-            "Boil",
-            "Ferment",
-            "Uproar",
-            "Breed",
             "Bouillonner",
             "Bouillir",
             "Fermenter",
@@ -14588,9 +11970,6 @@
         "freq": 819,
         "jlpt": 2,
         "meanings": [
-            "Buddha",
-            "The Dead",
-            "France",
             "Bouddha",
             "France",
             "Défunt"
@@ -14609,9 +11988,6 @@
         "freq": 1484,
         "jlpt": 2,
         "meanings": [
-            "Flour",
-            "Powder",
-            "Dust",
             "Farine",
             "Poudre",
             "Poussière"
@@ -14631,13 +12007,6 @@
         "freq": 522,
         "jlpt": 2,
         "meanings": [
-            "Soldier",
-            "Private",
-            "Troops",
-            "Army",
-            "Warfare",
-            "Strategy",
-            "Tactics",
             "Soldat",
             "Simple Soldat",
             "Troupes",
@@ -14660,9 +12029,6 @@
         "freq": 128,
         "jlpt": 2,
         "meanings": [
-            "Even",
-            "Flat",
-            "Peace",
             "Plan(e)",
             "Plat",
             "Paix"
@@ -14684,14 +12050,6 @@
         "freq": 599,
         "jlpt": 2,
         "meanings": [
-            "Row",
-            "And",
-            "Besides",
-            "As Well As",
-            "Line Up",
-            "Rank With",
-            "Rival",
-            "Equal",
             "Rangée",
             "Et",
             "En Outre",
@@ -14719,8 +12077,6 @@
         "freq": 951,
         "jlpt": 2,
         "meanings": [
-            "Closed",
-            "Shut",
             "Fermer",
             "Clore"
         ],
@@ -14741,9 +12097,6 @@
         "freq": 61,
         "jlpt": 2,
         "meanings": [
-            "Rice",
-            "Usa",
-            "Metre",
             "Grain De Riz",
             "Amérique",
             "Un Mètre"
@@ -14764,9 +12117,6 @@
         "freq": 1037,
         "jlpt": 2,
         "meanings": [
-            "Wall",
-            "Lining (stomach)",
-            "Fence",
             "Mur",
             "Paroi (estomac)",
             "Barrière"
@@ -14784,9 +12134,6 @@
         "freq": 238,
         "jlpt": 2,
         "meanings": [
-            "Unusual",
-            "Change",
-            "Strange",
             "Insolite",
             "Étrange",
             "Changer"
@@ -14806,10 +12153,6 @@
         "freq": 1076,
         "jlpt": 2,
         "meanings": [
-            "One-sided",
-            "Leaf",
-            "Sheet",
-            "Right-side Kata Radical (no. 91)",
             "Simple Face",
             "Feuille",
             "Radical Côté Droit (no. 91)"
@@ -14828,14 +12171,6 @@
         "freq": 591,
         "jlpt": 2,
         "meanings": [
-            "Compilation",
-            "Knit",
-            "Plait",
-            "Braid",
-            "Twist",
-            "Editing",
-            "Completed Poem",
-            "Part Of A Book",
             "Compilation",
             "Tricoter",
             "Natte",
@@ -14859,10 +12194,6 @@
         "jlpt": 2,
         "meanings": [
             "Environs",
-            "Boundary",
-            "Border",
-            "Vicinity",
-            "Environs",
             "Frontière",
             "Voisinage"
         ],
@@ -14881,10 +12212,6 @@
         "freq": 685,
         "jlpt": 2,
         "meanings": [
-            "Return",
-            "Answer",
-            "Fade",
-            "Repay",
             "Rendre",
             "Répondre",
             "S'estomper",
@@ -14906,12 +12233,6 @@
         "freq": 146,
         "jlpt": 2,
         "meanings": [
-            "Protect",
-            "Guarantee",
-            "Keep",
-            "Preserve",
-            "Sustain",
-            "Support",
             "Protéger",
             "Garantir",
             "Garder",
@@ -14933,8 +12254,6 @@
         "freq": 604,
         "jlpt": 2,
         "meanings": [
-            "Catch",
-            "Capture",
             "Attraper",
             "Capturer"
         ],
@@ -14957,13 +12276,6 @@
         "freq": 332,
         "jlpt": 2,
         "meanings": [
-            "Supplement",
-            "Supply",
-            "Make Good",
-            "Offset",
-            "Compensate",
-            "Assistant",
-            "Learner",
             "Complément",
             "Supplément",
             "Améliorer",
@@ -14984,11 +12296,6 @@
         "freq": 809,
         "jlpt": 2,
         "meanings": [
-            "Recruit",
-            "Campaign",
-            "Gather (contributions)",
-            "Enlist",
-            "Grow Violent",
             "Recruter",
             "Mener Une Campagne",
             "Appel (contributions)",
@@ -15008,12 +12315,6 @@
         "freq": 978,
         "jlpt": 2,
         "meanings": [
-            "Evening",
-            "Twilight",
-            "Season's End",
-            "Livelihood",
-            "Make A Living",
-            "Spend Time",
             "Mener Sa Vie",
             "Vivre",
             "Arriver À Son Terme",
@@ -15033,10 +12334,6 @@
         "freq": 954,
         "jlpt": 2,
         "meanings": [
-            "Wrap",
-            "Pack Up",
-            "Cover",
-            "Conceal",
             "Emballer",
             "Envelopper",
             "Recouvrir",
@@ -15056,10 +12353,6 @@
         "freq": 167,
         "jlpt": 2,
         "meanings": [
-            "Report",
-            "News",
-            "Reward",
-            "Retribution",
             "Rapport",
             "Information",
             "Faire Savoir",
@@ -15079,9 +12372,6 @@
         "freq": 1139,
         "jlpt": 2,
         "meanings": [
-            "Treasure",
-            "Wealth",
-            "Valuables",
             "Trésor",
             "Richesses",
             "Objets De Valeur"
@@ -15099,9 +12389,6 @@
         "freq": 871,
         "jlpt": 2,
         "meanings": [
-            "Embrace",
-            "Hug",
-            "Hold In Arms",
             "Prendre Dans Les Bras",
             "Étreindre",
             "Embrasser"
@@ -15121,13 +12408,6 @@
         "freq": 288,
         "jlpt": 2,
         "meanings": [
-            "Set Free",
-            "Release",
-            "Fire",
-            "Shoot",
-            "Emit",
-            "Banish",
-            "Liberate",
             "Libérer",
             "Relâcher",
             "Renvoyer",
@@ -15153,12 +12433,6 @@
         "freq": 100,
         "jlpt": 2,
         "meanings": [
-            "Method",
-            "Law",
-            "Rule",
-            "Principle",
-            "Model",
-            "System",
             "Méthode",
             "Loi",
             "Règle",
@@ -15182,10 +12456,6 @@
         "freq": 372,
         "jlpt": 2,
         "meanings": [
-            "Call On",
-            "Visit",
-            "Look Up",
-            "Offer Sympathy",
             "Rendre Visite",
             "Demander",
             "Rechercher",
@@ -15207,9 +12477,6 @@
         "freq": 762,
         "jlpt": 2,
         "meanings": [
-            "Bountiful",
-            "Excellent",
-            "Rich",
             "Abondance",
             "Somptueux",
             "Riche"
@@ -15229,10 +12496,6 @@
         "freq": 661,
         "jlpt": 2,
         "meanings": [
-            "Deceased",
-            "The Late",
-            "Dying",
-            "Perish",
             "Décédé",
             "Feu ...",
             "Mon Regretté ...",
@@ -15258,9 +12521,6 @@
         "freq": 1832,
         "jlpt": 2,
         "meanings": [
-            "Boy",
-            "Priest's Residence",
-            "Priest",
             "Garçon",
             "Prêtre Bouddhiste",
             "Moine",
@@ -15278,8 +12538,6 @@
         "freq": 1742,
         "jlpt": 2,
         "meanings": [
-            "Cap",
-            "Headgear",
             "Casquette",
             "Couvre-chef"
         ],
@@ -15298,7 +12556,6 @@
         "freq": 1129,
         "jlpt": 2,
         "meanings": [
-            "Forget",
             "Oublier"
         ],
         "readings_on": [
@@ -15314,9 +12571,6 @@
         "freq": 1475,
         "jlpt": 2,
         "meanings": [
-            "Busy",
-            "Occupied",
-            "Restless",
             "Occupé",
             "Affairé",
             "Agité"
@@ -15338,13 +12592,6 @@
         "freq": 692,
         "jlpt": 2,
         "meanings": [
-            "Outburst",
-            "Rave",
-            "Fret",
-            "Force",
-            "Violence",
-            "Cruelty",
-            "Outrage",
             "Explosion",
             "Rage",
             "Agitation",
@@ -15370,12 +12617,6 @@
         "jlpt": 2,
         "meanings": [
             "Ambition",
-            "Full Moon",
-            "Hope",
-            "Desire",
-            "Aspire To",
-            "Expect",
-            "Ambition",
             "Espoir",
             "Désir",
             "Aspirer À",
@@ -15398,12 +12639,6 @@
         "freq": 1455,
         "jlpt": 2,
         "meanings": [
-            "Rod",
-            "Stick",
-            "Cane",
-            "Pole",
-            "Club",
-            "Line",
             "Bâton",
             "Baguette",
             "Canne",
@@ -15423,8 +12658,6 @@
         "freq": 652,
         "jlpt": 2,
         "meanings": [
-            "Trade",
-            "Exchange",
             "Commerce",
             "Négoce",
             "Échanges"
@@ -15440,10 +12673,6 @@
         "freq": 331,
         "jlpt": 2,
         "meanings": [
-            "Ward Off",
-            "Defend",
-            "Protect",
-            "Resist",
             "Prévenir (un Danger)",
             "Défendre",
             "Protéger",
@@ -15462,11 +12691,6 @@
         "freq": 1608,
         "jlpt": 2,
         "meanings": [
-            "Grind",
-            "Polish",
-            "Scour",
-            "Improve",
-            "Brush (teeth)",
             "Polir",
             "Moudre",
             "Récurer",
@@ -15487,9 +12711,6 @@
         "freq": 1110,
         "jlpt": 2,
         "meanings": [
-            "Bury",
-            "Be Filled Up",
-            "Embedded",
             "Enterrer",
             "Être Rempli",
             "Enfoncé"
@@ -15512,8 +12733,6 @@
         "freq": 911,
         "jlpt": 2,
         "meanings": [
-            "Sheet Of...",
-            "Counter For Flat Thin Objects Or Sheets",
             "Feuille De",
             "Compteur D'objets Plats"
         ],
@@ -15529,11 +12748,6 @@
         "freq": 456,
         "jlpt": 2,
         "meanings": [
-            "End",
-            "Close",
-            "Tip",
-            "Powder",
-            "Posterity",
             "Extrémité",
             "Fin",
             "Dernier",
@@ -15557,10 +12771,6 @@
         "freq": 515,
         "jlpt": 2,
         "meanings": [
-            "Full",
-            "Fullness",
-            "Enough",
-            "Satisfy",
             "Remplir",
             "Assez",
             "Fier",
@@ -15582,14 +12792,6 @@
         "freq": 650,
         "jlpt": 2,
         "meanings": [
-            "Un-",
-            "Not Yet",
-            "Hitherto",
-            "Still",
-            "Even Now",
-            "Sign Of The Ram",
-            "1-3pm",
-            "Eighth Sign Of Chinese Zodiac",
             "Non-",
             "Encore",
             "Pas Encore",
@@ -15615,9 +12817,6 @@
         "freq": 1315,
         "jlpt": 2,
         "meanings": [
-            "Sleep",
-            "Die",
-            "Sleepy",
             "Dormir",
             "Somnolent",
             "Mourir"
@@ -15636,8 +12835,6 @@
         "freq": 111,
         "jlpt": 2,
         "meanings": [
-            "Task",
-            "Duties",
             "Tâche",
             "Devoir",
             "Travail"
@@ -15655,9 +12852,6 @@
         "freq": 943,
         "jlpt": 2,
         "meanings": [
-            "Dream",
-            "Vision",
-            "Illusion",
             "Rêve",
             "Vision",
             "Illusion"
@@ -15678,12 +12872,6 @@
         "freq": 274,
         "jlpt": 2,
         "meanings": [
-            "Nothingness",
-            "None",
-            "Ain't",
-            "Nothing",
-            "Nil",
-            "Not",
             "Néant",
             "Rien",
             "Ne Pas",
@@ -15705,8 +12893,6 @@
         "freq": 1145,
         "jlpt": 2,
         "meanings": [
-            "Daughter",
-            "Girl",
             "Fille"
         ],
         "readings_on": [
@@ -15723,12 +12909,6 @@
         "freq": 465,
         "jlpt": 2,
         "meanings": [
-            "Fate",
-            "Command",
-            "Decree",
-            "Destiny",
-            "Life",
-            "Appoint",
             "Destinée",
             "Destin",
             "Ordre",
@@ -15750,12 +12930,6 @@
         "freq": 942,
         "jlpt": 2,
         "meanings": [
-            "Astray",
-            "Be Perplexed",
-            "In Doubt",
-            "Lost",
-            "Err",
-            "Illusion",
             "S'égarer",
             "Être Perplexe",
             "Hésiter",
@@ -15776,13 +12950,6 @@
         "freq": 1279,
         "jlpt": 2,
         "meanings": [
-            "Chirp",
-            "Cry",
-            "Bark",
-            "Sound",
-            "Ring",
-            "Echo",
-            "Honk",
             "Gazouiller",
             "Crier",
             "Aboyer",
@@ -15806,7 +12973,6 @@
         "freq": 1495,
         "jlpt": 2,
         "meanings": [
-            "Cotton",
             "Coton"
         ],
         "readings_on": [
@@ -15822,10 +12988,6 @@
         "freq": 186,
         "jlpt": 2,
         "meanings": [
-            "Mask",
-            "Face",
-            "Features",
-            "Surface",
             "Masque",
             "Face",
             "Traits",
@@ -15847,10 +13009,6 @@
         "freq": 1179,
         "jlpt": 2,
         "meanings": [
-            "Fur",
-            "Hair",
-            "Feather",
-            "Down",
             "Pilosité",
             "Pelage",
             "Cheveux",
@@ -15870,12 +13028,6 @@
         "freq": 890,
         "jlpt": 2,
         "meanings": [
-            "Re-",
-            "Return",
-            "Revert",
-            "Resume",
-            "Restore",
-            "Go Backwards",
             "Revenir",
             "Re-",
             "Reprendre",
@@ -15897,13 +13049,6 @@
         "freq": 315,
         "jlpt": 2,
         "meanings": [
-            "Duty",
-            "War",
-            "Campaign",
-            "Drafted Labor",
-            "Office",
-            "Service",
-            "Role",
             "Rôle",
             "Fonctions",
             "Guerre",
@@ -15924,9 +13069,6 @@
         "freq": 94,
         "jlpt": 2,
         "meanings": [
-            "Promise",
-            "Approximately",
-            "Shrink",
             "Environ",
             "Promettre",
             "Abréger",
@@ -15947,8 +13089,6 @@
         "freq": 690,
         "jlpt": 2,
         "meanings": [
-            "Oil",
-            "Fat",
             "Huile",
             "Gras"
         ],
@@ -15966,9 +13106,6 @@
         "freq": 371,
         "jlpt": 2,
         "meanings": [
-            "Transport",
-            "Send",
-            "Be Inferior",
             "Transporter",
             "Envoyer",
             "Être Inférieur (perdre)"
@@ -15985,12 +13122,6 @@
         "freq": 334,
         "jlpt": 2,
         "meanings": [
-            "Tenderness",
-            "Excel",
-            "Surpass",
-            "Actor",
-            "Superiority",
-            "Gentleness",
             "Tendresse",
             "Gentillesse",
             "Exceller",
@@ -16015,11 +13146,6 @@
         "jlpt": 2,
         "meanings": [
             "Courage",
-            "Cheer Up",
-            "Be In High Spirits",
-            "Bravery",
-            "Heroism",
-            "Courage",
             "Être En Verve",
             "Remonter Le Moral",
             "Bravoure",
@@ -16038,8 +13164,6 @@
         "freq": 325,
         "jlpt": 2,
         "meanings": [
-            "Wherefore",
-            "A Reason",
             "C'est Pourquoi",
             "Raison",
             "Cause",
@@ -16062,7 +13186,6 @@
         "freq": 941,
         "jlpt": 2,
         "meanings": [
-            "Play",
             "Jouer"
         ],
         "readings_on": [
@@ -16080,8 +13203,6 @@
         "freq": 917,
         "jlpt": 2,
         "meanings": [
-            "Mail",
-            "Stagecoach Stop",
             "Courrier",
             "Relais De Poste"
         ],
@@ -16096,10 +13217,6 @@
         "freq": 180,
         "jlpt": 2,
         "meanings": [
-            "Beforehand",
-            "Previous",
-            "Myself",
-            "I",
             "Auparavant",
             "À L'avance",
             "Moi",
@@ -16119,11 +13236,6 @@
         "freq": 680,
         "jlpt": 2,
         "meanings": [
-            "Too Much",
-            "Myself",
-            "Surplus",
-            "Other",
-            "Remainder",
             "Trop",
             "Moi-même",
             "Surplus",
@@ -16146,15 +13258,6 @@
         "freq": 308,
         "jlpt": 2,
         "meanings": [
-            "Bestow",
-            "Participate In",
-            "Give",
-            "Award",
-            "Impart",
-            "Provide",
-            "Cause",
-            "Gift",
-            "Godsend",
             "Donner",
             "Conférer",
             "Participer À",
@@ -16180,10 +13283,6 @@
         "freq": 981,
         "jlpt": 2,
         "meanings": [
-            "Deposit",
-            "Custody",
-            "Leave With",
-            "Entrust To",
             "Dépôt",
             "Garde",
             "Laisser Avec",
@@ -16203,8 +13302,6 @@
         "freq": 1227,
         "jlpt": 2,
         "meanings": [
-            "Infancy",
-            "Childhood",
             "Enfance",
             "Tendre Enfance"
         ],
@@ -16221,9 +13318,6 @@
         "freq": 264,
         "jlpt": 2,
         "meanings": [
-            "Contain",
-            "Form",
-            "Looks",
             "Contenir",
             "Forme (état De Santé)",
             "Apparence"
@@ -16241,11 +13335,6 @@
         "freq": 493,
         "jlpt": 2,
         "meanings": [
-            "Esq.",
-            "Way",
-            "Manner",
-            "Situation",
-            "Polite Suffix",
             "Monsieur, Madame",
             "Apparence",
             "Manière",
@@ -16268,9 +13357,6 @@
         "freq": 1364,
         "jlpt": 2,
         "meanings": [
-            "Melt",
-            "Dissolve",
-            "Thaw",
             "Fondre",
             "Dissoudre"
         ],
@@ -16289,15 +13375,6 @@
         "freq": 414,
         "jlpt": 2,
         "meanings": [
-            "Leaf",
-            "Plane",
-            "Lobe",
-            "Needle",
-            "Blade",
-            "Spear",
-            "Counter For Flat Things",
-            "Fragment",
-            "Piece",
             "Feuille",
             "Lobe",
             "Aiguille",
@@ -16318,11 +13395,6 @@
         "freq": 106,
         "jlpt": 2,
         "meanings": [
-            "Need",
-            "Main Point",
-            "Essence",
-            "Pivot",
-            "Key To",
             "Besoin",
             "Point Principal",
             "Pivot",
@@ -16343,10 +13415,6 @@
         "freq": 1308,
         "jlpt": 2,
         "meanings": [
-            "Jump",
-            "Dance",
-            "Leap",
-            "Skip",
             "Danser",
             "Saut",
             "Bond",
@@ -16365,12 +13433,6 @@
         "freq": 1071,
         "jlpt": 2,
         "meanings": [
-            "Sunshine",
-            "Yang Principle",
-            "Positive",
-            "Male",
-            "Heaven",
-            "Daytime",
             "Yang",
             "Soleil",
             "Éclat Solaire",
@@ -16392,12 +13454,6 @@
         "freq": 902,
         "jlpt": 2,
         "meanings": [
-            "Longing",
-            "Covetousness",
-            "Greed",
-            "Passion",
-            "Desire",
-            "Craving",
             "Désirer",
             "Convoitise",
             "Avidité",
@@ -16418,9 +13474,6 @@
         "freq": 1136,
         "jlpt": 2,
         "meanings": [
-            "Bathe",
-            "Be Favored With",
-            "Bask In",
             "Bain",
             "Dorer (au Soleil)",
             "Bénéficier De"
@@ -16439,8 +13492,6 @@
         "freq": 1070,
         "jlpt": 2,
         "meanings": [
-            "The Following",
-            "Next",
             "Suivant",
             "Celui D'après"
         ],
@@ -16455,8 +13506,6 @@
         "freq": 708,
         "jlpt": 2,
         "meanings": [
-            "Trust",
-            "Request",
             "Confiance",
             "Demande"
         ],
@@ -16475,9 +13524,6 @@
         "freq": 806,
         "jlpt": 2,
         "meanings": [
-            "Entwine",
-            "Coil Around",
-            "Get Caught In",
             "Enlacer",
             "Entrelacer",
             "S'enrouler Autour",
@@ -16497,11 +13543,6 @@
         "freq": 420,
         "jlpt": 2,
         "meanings": [
-            "Fall",
-            "Drop",
-            "Come Down",
-            "Village",
-            "Hamlet",
             "Tomber",
             "Chute",
             "Perdre"
@@ -16521,10 +13562,6 @@
         "freq": 755,
         "jlpt": 2,
         "meanings": [
-            "Riot",
-            "War",
-            "Disorder",
-            "Disturb",
             "Tumulte",
             "Émeute",
             "Troubles",
@@ -16551,10 +13588,6 @@
         "freq": 1342,
         "jlpt": 2,
         "meanings": [
-            "Egg",
-            "Ovum",
-            "Spawn",
-            "Roe",
             "Oeuf",
             "Frai"
         ],
@@ -16572,9 +13605,6 @@
         "jlpt": 2,
         "meanings": [
             "Profit",
-            "Advantage",
-            "Benefit",
-            "Profit",
             "Avantage",
             "Bénéfice"
         ],
@@ -16591,16 +13621,6 @@
         "freq": 812,
         "jlpt": 2,
         "meanings": [
-            "Back",
-            "Amidst",
-            "In",
-            "Reverse",
-            "Inside",
-            "Palm",
-            "Sole",
-            "Rear",
-            "Lining",
-            "Wrong Side",
             "Arrière",
             "Revers",
             "Verso",
@@ -16624,8 +13644,6 @@
         "freq": 736,
         "jlpt": 2,
         "meanings": [
-            "Land",
-            "Six",
             "Continent",
             "Six"
         ],
@@ -16643,11 +13661,6 @@
         "freq": 992,
         "jlpt": 2,
         "meanings": [
-            "Rhythm",
-            "Law",
-            "Regulation",
-            "Gauge",
-            "Control",
             "Rythme",
             "Ordonner",
             "Loi",
@@ -16668,14 +13681,6 @@
         "freq": 383,
         "jlpt": 2,
         "meanings": [
-            "Ratio",
-            "Rate",
-            "Proportion",
-            "%",
-            "Factor",
-            "Lead",
-            "Spearhead",
-            "Command",
             "Taux",
             "Rapport",
             "Proportion",
@@ -16698,12 +13703,6 @@
         "freq": 774,
         "jlpt": 2,
         "meanings": [
-            "Abbreviation",
-            "Omission",
-            "Outline",
-            "Shorten",
-            "Capture",
-            "Plunder",
             "Abréviation",
             "Omission",
             "Résumé",
@@ -16729,10 +13728,6 @@
         "freq": 280,
         "jlpt": 2,
         "meanings": [
-            "Current",
-            "A Sink",
-            "Flow",
-            "Forfeit",
             "Courant",
             "Style",
             "Mode",
@@ -16757,10 +13752,6 @@
         "freq": 731,
         "jlpt": 2,
         "meanings": [
-            "Detain",
-            "Fasten",
-            "Halt",
-            "Stop",
             "Retenir",
             "Attacher",
             "Rester",
@@ -16784,9 +13775,6 @@
         "freq": 1635,
         "jlpt": 2,
         "meanings": [
-            "Grains",
-            "Drop",
-            "Counter For Tiny Particles",
             "Grain",
             "Goutte",
             "Compteur De Particules"
@@ -16804,8 +13792,6 @@
         "freq": 792,
         "jlpt": 2,
         "meanings": [
-            "Complete",
-            "Finish",
             "Achevé",
             "Fini"
         ],
@@ -16820,10 +13806,6 @@
         "freq": 247,
         "jlpt": 2,
         "meanings": [
-            "Both",
-            "Old Japanese Coin",
-            "Counter For Carriages (e.g., In A Train)",
-            "Two",
             "Les Deux",
             "2",
             "Ryou (ancienne Monnaie)",
@@ -16843,8 +13825,6 @@
         "freq": 1783,
         "jlpt": 2,
         "meanings": [
-            "Refreshing",
-            "Nice And Cool",
             "Rafraîchissant",
             "Frais"
         ],
@@ -16866,8 +13846,6 @@
         "freq": 600,
         "jlpt": 2,
         "meanings": [
-            "Heal",
-            "Cure",
             "Soins",
             "Traitement"
         ],
@@ -16882,9 +13860,6 @@
         "freq": 501,
         "jlpt": 2,
         "meanings": [
-            "Good",
-            "Pleasing",
-            "Skilled",
             "Bon",
             "Plaisant",
             "Habile"
@@ -16905,13 +13880,6 @@
         "freq": 469,
         "jlpt": 2,
         "meanings": [
-            "Quantity",
-            "Measure",
-            "Weight",
-            "Amount",
-            "Consider",
-            "Estimate",
-            "Surmise",
             "Quantité",
             "Mesure",
             "Poids",
@@ -16932,11 +13900,6 @@
         "freq": 138,
         "jlpt": 2,
         "meanings": [
-            "Jurisdiction",
-            "Dominion",
-            "Territory",
-            "Fief",
-            "Reign",
             "Domaine",
             "Juridiction",
             "Territoire",
@@ -16955,7 +13918,6 @@
         "freq": 1180,
         "jlpt": 2,
         "meanings": [
-            "Green",
             "Vert"
         ],
         "readings_on": [
@@ -16972,12 +13934,6 @@
         "freq": 693,
         "jlpt": 2,
         "meanings": [
-            "Wheel",
-            "Ring",
-            "Circle",
-            "Link",
-            "Loop",
-            "Counter For Wheels And Flowers",
             "Roue",
             "Anneau",
             "Cercle",
@@ -16998,8 +13954,6 @@
         "freq": 1381,
         "jlpt": 2,
         "meanings": [
-            "Tears",
-            "Sympathy",
             "Larme",
             "Compassion"
         ],
@@ -17017,11 +13971,6 @@
         "freq": 678,
         "jlpt": 2,
         "meanings": [
-            "Sort",
-            "Kind",
-            "Variety",
-            "Class",
-            "Genus",
             "Sorte",
             "Variété",
             "Classe",
@@ -17040,11 +13989,6 @@
         "freq": 804,
         "jlpt": 2,
         "meanings": [
-            "Orders",
-            "Laws",
-            "Command",
-            "Decree",
-            "Good",
             "Ordre",
             "Anciennes Lois",
             "Décret"
@@ -17060,10 +14004,6 @@
         "freq": 399,
         "jlpt": 2,
         "meanings": [
-            "Example",
-            "Custom",
-            "Usage",
-            "Precedent",
             "Exemple",
             "Coutume",
             "Usage",
@@ -17082,9 +14022,6 @@
         "freq": 667,
         "jlpt": 2,
         "meanings": [
-            "Cool",
-            "Cold (beer, Person)",
-            "Chill",
             "Froid",
             "Fraîche (bière)",
             "Froide (personne)",
@@ -17110,11 +14047,6 @@
         "freq": 1185,
         "jlpt": 2,
         "meanings": [
-            "Salute",
-            "Bow",
-            "Ceremony",
-            "Thanks",
-            "Remuneration",
             "Salut",
             "Courbette",
             "Cérémonie",
@@ -17133,11 +14065,6 @@
         "freq": 1217,
         "jlpt": 2,
         "meanings": [
-            "Zero",
-            "Spill",
-            "Overflow",
-            "Nothing",
-            "Cipher",
             "Zéro",
             "Se Répandre",
             "Déborder",
@@ -17159,7 +14086,6 @@
         "freq": 770,
         "jlpt": 2,
         "meanings": [
-            "Age",
             "Âge"
         ],
         "readings_on": [
@@ -17176,9 +14102,6 @@
         "freq": 632,
         "jlpt": 2,
         "meanings": [
-            "Curriculum",
-            "Continuation",
-            "Passage Of Time",
             "Historique",
             "Curriculum",
             "Continuation",
@@ -17197,11 +14120,6 @@
         "jlpt": 2,
         "meanings": [
             "File",
-            "Row",
-            "Rank",
-            "Tier",
-            "Column",
-            "File",
             "Rang",
             "Colonne",
             "Queue"
@@ -17218,11 +14136,6 @@
         "freq": 1296,
         "jlpt": 2,
         "meanings": [
-            "Romance",
-            "In Love",
-            "Yearn For",
-            "Miss",
-            "Darling",
             "Chérir",
             "Amour",
             "Idylle",
@@ -17244,12 +14157,6 @@
         "freq": 788,
         "jlpt": 2,
         "meanings": [
-            "Practice",
-            "Gloss",
-            "Train",
-            "Drill",
-            "Polish",
-            "Refine",
             "Pratiquer",
             "Lustrer",
             "S'exercer",
@@ -17271,13 +14178,6 @@
         "freq": 30,
         "jlpt": 2,
         "meanings": [
-            "Take Along",
-            "Lead",
-            "Join",
-            "Connect",
-            "Party",
-            "Gang",
-            "Clique",
             "Emmener",
             "Se Mettre En Rang",
             "S'unir",
@@ -17302,10 +14202,6 @@
         "freq": 529,
         "jlpt": 2,
         "meanings": [
-            "Path",
-            "Route",
-            "Road",
-            "Distance",
             "Chemin",
             "Route",
             "Distance"
@@ -17325,11 +14221,6 @@
         "freq": 398,
         "jlpt": 2,
         "meanings": [
-            "Labor",
-            "Thank For",
-            "Reward For",
-            "Toil",
-            "Trouble",
             "Labeur",
             "Remerciement Pour",
             "Récompense Pour",
@@ -17354,9 +14245,6 @@
         "freq": 803,
         "jlpt": 2,
         "meanings": [
-            "Old Man",
-            "Old Age",
-            "Grow Old",
             "Vieillard",
             "Âgé",
             "Vieillir"
@@ -17375,7 +14263,6 @@
         "freq": 546,
         "jlpt": 2,
         "meanings": [
-            "Record",
             "Enregistrer"
         ],
         "readings_on": [
@@ -17392,8 +14279,6 @@
         "freq": 227,
         "jlpt": 2,
         "meanings": [
-            "Argument",
-            "Discourse",
             "Argumentation",
             "Discours"
         ],
@@ -17410,11 +14295,6 @@
         "freq": 124,
         "jlpt": 2,
         "meanings": [
-            "Harmony",
-            "Japanese Style",
-            "Peace",
-            "Soften",
-            "Japan",
             "Harmonie",
             "Style Japonais",
             "Paix",
@@ -17440,9 +14320,6 @@
         "freq": 545,
         "jlpt": 2,
         "meanings": [
-            "Gulf",
-            "Bay",
-            "Inlet",
             "Golfe",
             "Baie",
             "Crique"
@@ -17460,9 +14337,6 @@
         "freq": 1163,
         "jlpt": 2,
         "meanings": [
-            "Arm",
-            "Ability",
-            "Talent",
             "Bras",
             "Aptitude",
             "Talent"

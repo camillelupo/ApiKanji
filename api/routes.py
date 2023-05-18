@@ -3,6 +3,7 @@ import json
 from flask import Blueprint, jsonify
 
 from .controllers import get_random_kanji
+from tool.kanjidic import save_json_files
 
 api_bp = Blueprint("api", __name__)
 
@@ -52,3 +53,10 @@ def get_old_jpl1_kanji():
 def get_random_jplt_kanji(jplt, nombre):
 
     return  jsonify(get_random_kanji(jplt, nombre))
+
+
+@api_bp.route('/update_jsons', methods=['GET'])
+def update_jsons():
+    save_json_files()
+    return "JSONs updated"
+
