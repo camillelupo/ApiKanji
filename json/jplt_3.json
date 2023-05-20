@@ -1,8 +1,6 @@
 {
     "悪": {
-        "strokes": 11,
-        "grade": 3,
-        "freq": 530,
+        "kanji": "悪",
         "jlpt": 3,
         "meanings": [
             "Mauvais",
@@ -11,11 +9,11 @@
             "Faux",
             "Mal"
         ],
-        "readings_on": [
+        "onyomi": [
             "あく",
             "お"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "わる.い",
             "わる-",
             "あ.し",
@@ -28,9 +26,7 @@
         ]
     },
     "暗": {
-        "strokes": 13,
-        "grade": 3,
-        "freq": 1040,
+        "kanji": "暗",
         "jlpt": 3,
         "meanings": [
             "Obscurité",
@@ -40,19 +36,17 @@
             "S'assombrir",
             "Être Aveuglé"
         ],
-        "readings_on": [
+        "onyomi": [
             "あん"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "くら.い",
             "くら.む",
             "くれ.る"
         ]
     },
     "以": {
-        "strokes": 5,
-        "grade": 4,
-        "freq": 126,
+        "kanji": "以",
         "jlpt": 3,
         "meanings": [
             "Au Moyen De",
@@ -60,17 +54,15 @@
             "En Vue De",
             "Comparé À"
         ],
-        "readings_on": [
+        "onyomi": [
             "い"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "もっ.て"
         ]
     },
     "意": {
-        "strokes": 13,
-        "grade": 3,
-        "freq": 99,
+        "kanji": "意",
         "jlpt": 3,
         "meanings": [
             "Idée",
@@ -81,33 +73,29 @@
             "Goût",
             "Désir"
         ],
-        "readings_on": [
+        "onyomi": [
             "い"
         ],
-        "readings_kun": []
+        "kunyomi": []
     },
     "医": {
-        "strokes": 7,
-        "grade": 3,
-        "freq": 437,
+        "kanji": "医",
         "jlpt": 3,
         "meanings": [
             "Médecin",
             "Docteur"
         ],
-        "readings_on": [
+        "onyomi": [
             "い"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "い.やす",
             "い.する",
             "くすし"
         ]
     },
     "員": {
-        "strokes": 10,
-        "grade": 3,
-        "freq": 54,
+        "kanji": "員",
         "jlpt": 3,
         "meanings": [
             "Employé",
@@ -115,15 +103,13 @@
             "Nombre (de Personnes)",
             "Personne En Charge"
         ],
-        "readings_on": [
+        "onyomi": [
             "いん"
         ],
-        "readings_kun": []
+        "kunyomi": []
     },
     "引": {
-        "strokes": 4,
-        "grade": 2,
-        "freq": 218,
+        "kanji": "引",
         "jlpt": 3,
         "meanings": [
             "Tirer",
@@ -134,18 +120,16 @@
             "Jouer (musique)",
             "Attraper (froid)"
         ],
-        "readings_on": [
+        "onyomi": [
             "いん"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "ひ.く",
             "ひ.ける"
         ]
     },
     "院": {
-        "strokes": 10,
-        "grade": 3,
-        "freq": 150,
+        "kanji": "院",
         "jlpt": 3,
         "meanings": [
             "Temple",
@@ -154,15 +138,13 @@
             "École",
             "Hôpital"
         ],
-        "readings_on": [
+        "onyomi": [
             "いん"
         ],
-        "readings_kun": []
+        "kunyomi": []
     },
     "運": {
-        "strokes": 12,
-        "grade": 3,
-        "freq": 255,
+        "kanji": "運",
         "jlpt": 3,
         "meanings": [
             "Porter",
@@ -172,27 +154,25 @@
             "Sort",
             "Progrès"
         ],
-        "readings_on": [
+        "onyomi": [
             "うん"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "はこ.ぶ"
         ]
     },
     "映": {
-        "strokes": 9,
-        "grade": 6,
-        "freq": 404,
+        "kanji": "映",
         "jlpt": 3,
         "meanings": [
             "Projection",
             "Refléter",
             "Réflexion"
         ],
-        "readings_on": [
+        "onyomi": [
             "えい"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "うつ.る",
             "うつ.す",
             "は.える",
@@ -200,9 +180,7 @@
         ]
     },
     "英": {
-        "strokes": 8,
-        "grade": 4,
-        "freq": 430,
+        "kanji": "英",
         "jlpt": 3,
         "meanings": [
             "Angleterre",
@@ -210,34 +188,30 @@
             "Fleur Éclose",
             "Brillant"
         ],
-        "readings_on": [
+        "onyomi": [
             "えい"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "はなぶさ"
         ]
     },
     "遠": {
-        "strokes": 13,
-        "grade": 2,
-        "freq": 887,
+        "kanji": "遠",
         "jlpt": 3,
         "meanings": [
             "Loin",
             "Distant"
         ],
-        "readings_on": [
+        "onyomi": [
             "えん",
             "おん"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "とお.い"
         ]
     },
     "屋": {
-        "strokes": 9,
-        "grade": 3,
-        "freq": 616,
+        "kanji": "屋",
         "jlpt": 3,
         "meanings": [
             "Toit",
@@ -246,88 +220,78 @@
             "Négociant",
             "Vendeur"
         ],
-        "readings_on": [
+        "onyomi": [
             "おく"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "や"
         ]
     },
     "音": {
-        "strokes": 9,
-        "grade": 1,
-        "freq": 491,
+        "kanji": "音",
         "jlpt": 3,
         "meanings": [
             "Son",
             "Bruit"
         ],
-        "readings_on": [
+        "onyomi": [
             "おん",
             "いん",
             "-のん"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "おと",
             "ね"
         ]
     },
     "夏": {
-        "strokes": 10,
-        "grade": 2,
-        "freq": 659,
+        "kanji": "夏",
         "jlpt": 3,
         "meanings": [
             "Été"
         ],
-        "readings_on": [
+        "onyomi": [
             "か",
             "が",
             "げ"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "なつ"
         ]
     },
     "家": {
-        "strokes": 10,
-        "grade": 2,
-        "freq": 133,
+        "kanji": "家",
         "jlpt": 3,
         "meanings": [
             "Maison"
         ],
-        "readings_on": [
+        "onyomi": [
             "か",
             "け"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "いえ",
             "や",
             "うち"
         ]
     },
     "歌": {
-        "strokes": 14,
-        "grade": 2,
-        "freq": 519,
+        "kanji": "歌",
         "jlpt": 3,
         "meanings": [
             "Chanson",
             "Chanter"
         ],
-        "readings_on": [
+        "onyomi": [
             "か"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "うた",
             "うた.う"
         ]
     },
     "画": {
-        "strokes": 8,
-        "grade": 2,
-        "freq": 199,
+        "kanji": "画",
         "jlpt": 3,
         "meanings": [
             "Trait De Plume",
@@ -335,13 +299,13 @@
             "Écran",
             "Compteur De Traits De Kanji"
         ],
-        "readings_on": [
+        "onyomi": [
             "が",
             "かく",
             "え",
             "かい"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "えが.く",
             "かく.する",
             "かぎ.る",
@@ -350,9 +314,7 @@
         ]
     },
     "回": {
-        "strokes": 6,
-        "grade": 2,
-        "freq": 50,
+        "kanji": "回",
         "jlpt": 3,
         "meanings": [
             "Tourner",
@@ -364,11 +326,11 @@
             "Récurrence",
             "Compteur De Fois"
         ],
-        "readings_on": [
+        "onyomi": [
             "かい",
             "え"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "まわ.る",
             "-まわ.る",
             "-まわ.り",
@@ -381,48 +343,42 @@
         ]
     },
     "海": {
-        "strokes": 9,
-        "grade": 2,
-        "freq": 200,
+        "kanji": "海",
         "jlpt": 3,
         "meanings": [
             "Mer",
             "Océan"
         ],
-        "readings_on": [
+        "onyomi": [
             "かい"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "うみ"
         ]
     },
     "界": {
-        "strokes": 9,
-        "grade": 3,
-        "freq": 158,
+        "kanji": "界",
         "jlpt": 3,
         "meanings": [
             "Monde"
         ],
-        "readings_on": [
+        "onyomi": [
             "かい"
         ],
-        "readings_kun": []
+        "kunyomi": []
     },
     "開": {
-        "strokes": 12,
-        "grade": 3,
-        "freq": 59,
+        "kanji": "開",
         "jlpt": 3,
         "meanings": [
             "Ouvrir",
             "S'ouvrir",
             "Briser Le Sceau"
         ],
-        "readings_on": [
+        "onyomi": [
             "かい"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "ひら.く",
             "ひら.き",
             "-びら.き",
@@ -432,59 +388,51 @@
         ]
     },
     "楽": {
-        "strokes": 13,
-        "grade": 2,
-        "freq": 373,
+        "kanji": "楽",
         "jlpt": 3,
         "meanings": [
             "Musique",
             "Agréable",
             "Confort"
         ],
-        "readings_on": [
+        "onyomi": [
             "がく",
             "らく",
             "ごう"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "たの.しい",
             "たの.しむ",
             "この.む"
         ]
     },
     "寒": {
-        "strokes": 12,
-        "grade": 3,
-        "freq": 1456,
+        "kanji": "寒",
         "jlpt": 3,
         "meanings": [
             "Froid (temps)"
         ],
-        "readings_on": [
+        "onyomi": [
             "かん"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "さむ.い"
         ]
     },
     "漢": {
-        "strokes": 13,
-        "grade": 3,
-        "freq": 1487,
+        "kanji": "漢",
         "jlpt": 3,
         "meanings": [
             "Sino-",
             "Chine"
         ],
-        "readings_on": [
+        "onyomi": [
             "かん"
         ],
-        "readings_kun": []
+        "kunyomi": []
     },
     "館": {
-        "strokes": 16,
-        "grade": 3,
-        "freq": 613,
+        "kanji": "館",
         "jlpt": 3,
         "meanings": [
             "Bâtiment",
@@ -492,34 +440,30 @@
             "Résidence",
             "Palais"
         ],
-        "readings_on": [
+        "onyomi": [
             "かん"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "やかた",
             "たて"
         ]
     },
     "顔": {
-        "strokes": 18,
-        "grade": 2,
-        "freq": 676,
+        "kanji": "顔",
         "jlpt": 3,
         "meanings": [
             "Visage",
             "Expression"
         ],
-        "readings_on": [
+        "onyomi": [
             "がん"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "かお"
         ]
     },
     "帰": {
-        "strokes": 10,
-        "grade": 2,
-        "freq": 504,
+        "kanji": "帰",
         "jlpt": 3,
         "meanings": [
             "Retour À La Maison",
@@ -528,10 +472,10 @@
             "Aboutir À",
             "Renvoyer"
         ],
-        "readings_on": [
+        "onyomi": [
             "き"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "かえ.る",
             "かえ.す",
             "おく.る",
@@ -539,9 +483,7 @@
         ]
     },
     "起": {
-        "strokes": 10,
-        "grade": 3,
-        "freq": 374,
+        "kanji": "起",
         "jlpt": 3,
         "meanings": [
             "Se Lever",
@@ -550,10 +492,10 @@
             "Se Produire",
             "Provoquer"
         ],
-        "readings_on": [
+        "onyomi": [
             "き"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "お.きる",
             "お.こる",
             "お.こす",
@@ -562,9 +504,7 @@
         ]
     },
     "急": {
-        "strokes": 9,
-        "grade": 3,
-        "freq": 309,
+        "kanji": "急",
         "jlpt": 3,
         "meanings": [
             "Urgence",
@@ -574,51 +514,45 @@
             "Abrupt",
             "Aigu"
         ],
-        "readings_on": [
+        "onyomi": [
             "きゅう"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "いそ.ぐ",
             "いそ.ぎ",
             "せ.く"
         ]
     },
     "究": {
-        "strokes": 7,
-        "grade": 3,
-        "freq": 368,
+        "kanji": "究",
         "jlpt": 3,
         "meanings": [
             "Recherche",
             "Étudier"
         ],
-        "readings_on": [
+        "onyomi": [
             "きゅう",
             "く"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "きわ.める"
         ]
     },
     "牛": {
-        "strokes": 4,
-        "grade": 2,
-        "freq": 1202,
+        "kanji": "牛",
         "jlpt": 3,
         "meanings": [
             "Vache"
         ],
-        "readings_on": [
+        "onyomi": [
             "ぎゅう"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "うし"
         ]
     },
     "去": {
-        "strokes": 5,
-        "grade": 3,
-        "freq": 440,
+        "kanji": "去",
         "jlpt": 3,
         "meanings": [
             "Parti",
@@ -628,46 +562,42 @@
             "Éliminer",
             "Divorce"
         ],
-        "readings_on": [
+        "onyomi": [
             "きょ",
             "こ"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "さ.る",
             "-さ.る"
         ]
     },
     "京": {
-        "strokes": 8,
-        "grade": 2,
-        "freq": 74,
+        "kanji": "京",
         "jlpt": 3,
         "meanings": [
             "Capitale",
             "10**16"
         ],
-        "readings_on": [
+        "onyomi": [
             "きょう",
             "けい",
             "きん"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "みやこ"
         ]
     },
     "強": {
-        "strokes": 11,
-        "grade": 2,
-        "freq": 112,
+        "kanji": "強",
         "jlpt": 3,
         "meanings": [
             "Fort"
         ],
-        "readings_on": [
+        "onyomi": [
             "きょう",
             "ごう"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "つよ.い",
             "つよ.まる",
             "つよ.める",
@@ -676,27 +606,23 @@
         ]
     },
     "教": {
-        "strokes": 11,
-        "grade": 2,
-        "freq": 166,
+        "kanji": "教",
         "jlpt": 3,
         "meanings": [
             "Enseigner",
             "Foi",
             "Doctrine"
         ],
-        "readings_on": [
+        "onyomi": [
             "きょう"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "おし.える",
             "おそ.わる"
         ]
     },
     "業": {
-        "strokes": 13,
-        "grade": 3,
-        "freq": 43,
+        "kanji": "業",
         "jlpt": 3,
         "meanings": [
             "Activité",
@@ -705,18 +631,16 @@
             "Représentation",
             "Karma"
         ],
-        "readings_on": [
+        "onyomi": [
             "ぎょう",
             "ごう"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "わざ"
         ]
     },
     "近": {
-        "strokes": 7,
-        "grade": 2,
-        "freq": 194,
+        "kanji": "近",
         "jlpt": 3,
         "meanings": [
             "Près",
@@ -724,66 +648,58 @@
             "Proche",
             "Équivalent À"
         ],
-        "readings_on": [
+        "onyomi": [
             "きん",
             "こん"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "ちか.い"
         ]
     },
     "銀": {
-        "strokes": 14,
-        "grade": 3,
-        "freq": 395,
+        "kanji": "銀",
         "jlpt": 3,
         "meanings": [
             "Argent"
         ],
-        "readings_on": [
+        "onyomi": [
             "ぎん"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "しろがね"
         ]
     },
     "区": {
-        "strokes": 4,
-        "grade": 3,
-        "freq": 137,
+        "kanji": "区",
         "jlpt": 3,
         "meanings": [
             "Circonscription",
             "Arrondissement"
         ],
-        "readings_on": [
+        "onyomi": [
             "く",
             "おう",
             "こう"
         ],
-        "readings_kun": []
+        "kunyomi": []
     },
     "兄": {
-        "strokes": 5,
-        "grade": 2,
-        "freq": 1219,
+        "kanji": "兄",
         "jlpt": 3,
         "meanings": [
             "Frère Aîné",
             "Grand Frère"
         ],
-        "readings_on": [
+        "onyomi": [
             "けい",
             "きょう"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "あに"
         ]
     },
     "計": {
-        "strokes": 9,
-        "grade": 2,
-        "freq": 228,
+        "kanji": "計",
         "jlpt": 3,
         "meanings": [
             "Planifier",
@@ -791,48 +707,44 @@
             "Calcul",
             "Mesure"
         ],
-        "readings_on": [
+        "onyomi": [
             "けい"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "はか.る",
             "はか.らう"
         ]
     },
     "軽": {
-        "strokes": 12,
-        "grade": 3,
-        "freq": 790,
+        "kanji": "軽",
         "jlpt": 3,
         "meanings": [
             "Léger",
             "Insignifiant",
             "Sans Importance"
         ],
-        "readings_on": [
+        "onyomi": [
             "けい",
             "きょう",
             "きん"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "かる.い",
             "かろ.やか",
             "かろ.んじる"
         ]
     },
     "建": {
-        "strokes": 9,
-        "grade": 4,
-        "freq": 300,
+        "kanji": "建",
         "jlpt": 3,
         "meanings": [
             "Construire"
         ],
-        "readings_on": [
+        "onyomi": [
             "けん",
             "こん"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "た.てる",
             "た.て",
             "-だ.て",
@@ -840,69 +752,61 @@
         ]
     },
     "犬": {
-        "strokes": 4,
-        "grade": 1,
-        "freq": 1326,
+        "kanji": "犬",
         "jlpt": 3,
         "meanings": [
             "Chien"
         ],
-        "readings_on": [
+        "onyomi": [
             "けん"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "いぬ",
             "いぬ-"
         ]
     },
     "研": {
-        "strokes": 9,
-        "grade": 3,
-        "freq": 336,
+        "kanji": "研",
         "jlpt": 3,
         "meanings": [
             "Polir",
             "Étudier",
             "Aiguiser"
         ],
-        "readings_on": [
+        "onyomi": [
             "けん"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "と.ぐ"
         ]
     },
     "県": {
-        "strokes": 9,
-        "grade": 3,
-        "freq": 140,
+        "kanji": "県",
         "jlpt": 3,
         "meanings": [
             "Préfecture",
             "Département"
         ],
-        "readings_on": [
+        "onyomi": [
             "けん"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "か.ける"
         ]
     },
     "験": {
-        "strokes": 18,
-        "grade": 4,
-        "freq": 410,
+        "kanji": "験",
         "jlpt": 3,
         "meanings": [
             "Vérification",
             "Examen",
             "Effet"
         ],
-        "readings_on": [
+        "onyomi": [
             "けん",
             "げん"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "あかし",
             "しるし",
             "ため.す",
@@ -910,54 +814,48 @@
         ]
     },
     "元": {
-        "strokes": 4,
-        "grade": 2,
-        "freq": 192,
+        "kanji": "元",
         "jlpt": 3,
         "meanings": [
             "Commencement",
             "Origine",
             "Ancien Temps"
         ],
-        "readings_on": [
+        "onyomi": [
             "げん",
             "がん"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "もと"
         ]
     },
     "光": {
-        "strokes": 6,
-        "grade": 2,
-        "freq": 527,
+        "kanji": "光",
         "jlpt": 3,
         "meanings": [
             "Rayon",
             "Lumière"
         ],
-        "readings_on": [
+        "onyomi": [
             "こう"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "ひか.る",
             "ひかり"
         ]
     },
     "好": {
-        "strokes": 6,
-        "grade": 4,
-        "freq": 423,
+        "kanji": "好",
         "jlpt": 3,
         "meanings": [
             "Aimer Bien",
             "Apprécié",
             "Agréable"
         ],
-        "readings_on": [
+        "onyomi": [
             "こう"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "この.む",
             "す.く",
             "よ.い",
@@ -965,9 +863,7 @@
         ]
     },
     "工": {
-        "strokes": 3,
-        "grade": 2,
-        "freq": 299,
+        "kanji": "工",
         "jlpt": 3,
         "meanings": [
             "Ingénierie",
@@ -975,27 +871,25 @@
             "Construction",
             "Radical Katakana E (no. 48)"
         ],
-        "readings_on": [
+        "onyomi": [
             "こう",
             "く",
             "ぐ"
         ],
-        "readings_kun": []
+        "kunyomi": []
     },
     "広": {
-        "strokes": 5,
-        "grade": 2,
-        "freq": 263,
+        "kanji": "広",
         "jlpt": 3,
         "meanings": [
             "Vaste",
             "Large",
             "Spacieux"
         ],
-        "readings_on": [
+        "onyomi": [
             "こう"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "ひろ.い",
             "ひろ.まる",
             "ひろ.める",
@@ -1004,26 +898,22 @@
         ]
     },
     "考": {
-        "strokes": 6,
-        "grade": 2,
-        "freq": 196,
+        "kanji": "考",
         "jlpt": 3,
         "meanings": [
             "Réfléchir",
             "Considérer"
         ],
-        "readings_on": [
+        "onyomi": [
             "こう"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "かんが.える",
             "かんが.え"
         ]
     },
     "合": {
-        "strokes": 6,
-        "grade": 2,
-        "freq": 41,
+        "kanji": "合",
         "jlpt": 3,
         "meanings": [
             "Correspondre",
@@ -1031,12 +921,12 @@
             "Joindre",
             "Go (0,18 L Ou 0,33 M)"
         ],
-        "readings_on": [
+        "onyomi": [
             "ごう",
             "がっ",
             "かっ"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "あ.う",
             "-あ.う",
             "あ.い",
@@ -1049,42 +939,36 @@
         ]
     },
     "黒": {
-        "strokes": 11,
-        "grade": 2,
-        "freq": 573,
+        "kanji": "黒",
         "jlpt": 3,
         "meanings": [
             "Noir"
         ],
-        "readings_on": [
+        "onyomi": [
             "こく"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "くろ",
             "くろ.ずむ",
             "くろ.い"
         ]
     },
     "菜": {
-        "strokes": 11,
-        "grade": 4,
-        "freq": 1327,
+        "kanji": "菜",
         "jlpt": 3,
         "meanings": [
             "Légume",
             "Accompagnement (du Riz)"
         ],
-        "readings_on": [
+        "onyomi": [
             "さい"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "な"
         ]
     },
     "作": {
-        "strokes": 7,
-        "grade": 2,
-        "freq": 103,
+        "kanji": "作",
         "jlpt": 3,
         "meanings": [
             "Fabriquer",
@@ -1092,20 +976,18 @@
             "Construire",
             "Préparer"
         ],
-        "readings_on": [
+        "onyomi": [
             "さく",
             "さ"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "つく.る",
             "つく.り",
             "-づく.り"
         ]
     },
     "産": {
-        "strokes": 11,
-        "grade": 4,
-        "freq": 161,
+        "kanji": "産",
         "jlpt": 3,
         "meanings": [
             "Production",
@@ -1115,10 +997,10 @@
             "Natal",
             "Propriété"
         ],
-        "readings_on": [
+        "onyomi": [
             "さん"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "う.む",
             "う.まれる",
             "うぶ-",
@@ -1126,35 +1008,31 @@
         ]
     },
     "仕": {
-        "strokes": 5,
-        "grade": 3,
-        "freq": 439,
+        "kanji": "仕",
         "jlpt": 3,
         "meanings": [
             "Servir",
             "Faire",
             "Officiel"
         ],
-        "readings_on": [
+        "onyomi": [
             "し",
             "じ"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "つか.える"
         ]
     },
     "使": {
-        "strokes": 8,
-        "grade": 3,
-        "freq": 219,
+        "kanji": "使",
         "jlpt": 3,
         "meanings": [
             "Utiliser"
         ],
-        "readings_on": [
+        "onyomi": [
             "し"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "つか.う",
             "つか.い",
             "-つか.い",
@@ -1162,86 +1040,76 @@
         ]
     },
     "始": {
-        "strokes": 8,
-        "grade": 3,
-        "freq": 244,
+        "kanji": "始",
         "jlpt": 3,
         "meanings": [
             "Commencer",
             "Débuter"
         ],
-        "readings_on": [
+        "onyomi": [
             "し"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "はじ.める",
             "-はじ.める",
             "はじ.まる"
         ]
     },
     "姉": {
-        "strokes": 8,
-        "grade": 2,
-        "freq": 1473,
+        "kanji": "姉",
         "jlpt": 3,
         "meanings": [
             "Soeur Aînée"
         ],
-        "readings_on": [
+        "onyomi": [
             "し"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "あね",
             "はは"
         ]
     },
     "市": {
-        "strokes": 5,
-        "grade": 2,
-        "freq": 42,
+        "kanji": "市",
         "jlpt": 3,
         "meanings": [
             "Marché",
             "Ville",
             "Cité"
         ],
-        "readings_on": [
+        "onyomi": [
             "し"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "いち"
         ]
     },
     "思": {
-        "strokes": 9,
-        "grade": 2,
-        "freq": 132,
+        "kanji": "思",
         "jlpt": 3,
         "meanings": [
             "Penser"
         ],
-        "readings_on": [
+        "onyomi": [
             "し"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "おも.う",
             "おもえら.く",
             "おぼ.す"
         ]
     },
     "止": {
-        "strokes": 4,
-        "grade": 2,
-        "freq": 310,
+        "kanji": "止",
         "jlpt": 3,
         "meanings": [
             "Arrêter",
             "Cesser"
         ],
-        "readings_on": [
+        "onyomi": [
             "し"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "と.まる",
             "-ど.まり",
             "と.める",
@@ -1259,59 +1127,51 @@
         ]
     },
     "死": {
-        "strokes": 6,
-        "grade": 3,
-        "freq": 229,
+        "kanji": "死",
         "jlpt": 3,
         "meanings": [
             "Mort",
             "Mourir"
         ],
-        "readings_on": [
+        "onyomi": [
             "し"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "し.ぬ",
             "し.に-"
         ]
     },
     "私": {
-        "strokes": 7,
-        "grade": 6,
-        "freq": 242,
+        "kanji": "私",
         "jlpt": 3,
         "meanings": [
             "Privé",
             "Je",
             "Moi"
         ],
-        "readings_on": [
+        "onyomi": [
             "し"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "わたくし",
             "わたし"
         ]
     },
     "紙": {
-        "strokes": 10,
-        "grade": 2,
-        "freq": 559,
+        "kanji": "紙",
         "jlpt": 3,
         "meanings": [
             "Papier"
         ],
-        "readings_on": [
+        "onyomi": [
             "し"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "かみ"
         ]
     },
     "試": {
-        "strokes": 13,
-        "grade": 4,
-        "freq": 392,
+        "kanji": "試",
         "jlpt": 3,
         "meanings": [
             "Test",
@@ -1320,18 +1180,16 @@
             "Expérience",
             "Épreuve"
         ],
-        "readings_on": [
+        "onyomi": [
             "し"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "こころ.みる",
             "ため.す"
         ]
     },
     "事": {
-        "strokes": 8,
-        "grade": 3,
-        "freq": 18,
+        "kanji": "事",
         "jlpt": 3,
         "meanings": [
             "Fait",
@@ -1341,20 +1199,18 @@
             "Raison",
             "Peut-être"
         ],
-        "readings_on": [
+        "onyomi": [
             "じ",
             "ず"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "こと",
             "つか.う",
             "つか.える"
         ]
     },
     "字": {
-        "strokes": 6,
-        "grade": 1,
-        "freq": 485,
+        "kanji": "字",
         "jlpt": 3,
         "meanings": [
             "Caractère",
@@ -1362,55 +1218,49 @@
             "Mot",
             "Hameau"
         ],
-        "readings_on": [
+        "onyomi": [
             "じ"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "あざ",
             "あざな",
             "-な"
         ]
     },
     "持": {
-        "strokes": 9,
-        "grade": 3,
-        "freq": 119,
+        "kanji": "持",
         "jlpt": 3,
         "meanings": [
             "Avoir",
             "Tenir"
         ],
-        "readings_on": [
+        "onyomi": [
             "じ"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "も.つ",
             "-も.ち",
             "も.てる"
         ]
     },
     "自": {
-        "strokes": 6,
-        "grade": 2,
-        "freq": 19,
+        "kanji": "自",
         "jlpt": 3,
         "meanings": [
             "Soi-même"
         ],
-        "readings_on": [
+        "onyomi": [
             "じ",
             "し"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "みずか.ら",
             "おの.ずから",
             "おの.ずと"
         ]
     },
     "室": {
-        "strokes": 9,
-        "grade": 2,
-        "freq": 550,
+        "kanji": "室",
         "jlpt": 3,
         "meanings": [
             "Pièce",
@@ -1419,17 +1269,15 @@
             "Serre",
             "Cave"
         ],
-        "readings_on": [
+        "onyomi": [
             "しつ"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "むろ"
         ]
     },
     "質": {
-        "strokes": 15,
-        "grade": 5,
-        "freq": 389,
+        "kanji": "質",
         "jlpt": 3,
         "meanings": [
             "Substance",
@@ -1437,12 +1285,12 @@
             "Qualité",
             "Tempérament"
         ],
-        "readings_on": [
+        "onyomi": [
             "しつ",
             "しち",
             "ち"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "たち",
             "ただ.す",
             "もと",
@@ -1450,20 +1298,18 @@
         ]
     },
     "写": {
-        "strokes": 5,
-        "grade": 3,
-        "freq": 453,
+        "kanji": "写",
         "jlpt": 3,
         "meanings": [
             "Copie",
             "Être Photographié",
             "Décrire"
         ],
-        "readings_on": [
+        "onyomi": [
             "しゃ",
             "じゃ"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "うつ.す",
             "うつ.る",
             "うつ-",
@@ -1471,50 +1317,44 @@
         ]
     },
     "者": {
-        "strokes": 8,
-        "grade": 3,
-        "freq": 38,
+        "kanji": "者",
         "jlpt": 3,
         "meanings": [
             "Personne",
             "Quelqu'un"
         ],
-        "readings_on": [
+        "onyomi": [
             "しゃ"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "もの"
         ]
     },
     "借": {
-        "strokes": 10,
-        "grade": 4,
-        "freq": 932,
+        "kanji": "借",
         "jlpt": 3,
         "meanings": [
             "Emprunter",
             "Louer"
         ],
-        "readings_on": [
+        "onyomi": [
             "しゃく"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "か.りる"
         ]
     },
     "弱": {
-        "strokes": 10,
-        "grade": 2,
-        "freq": 958,
+        "kanji": "弱",
         "jlpt": 3,
         "meanings": [
             "Faible",
             "Fragile"
         ],
-        "readings_on": [
+        "onyomi": [
             "じゃく"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "よわ.い",
             "よわ.る",
             "よわ.まる",
@@ -1522,9 +1362,7 @@
         ]
     },
     "主": {
-        "strokes": 5,
-        "grade": 3,
-        "freq": 95,
+        "kanji": "主",
         "jlpt": 3,
         "meanings": [
             "Maître",
@@ -1534,62 +1372,56 @@
             "Propriétaire",
             "Mari"
         ],
-        "readings_on": [
+        "onyomi": [
             "しゅ",
             "す",
             "しゅう"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "ぬし",
             "おも",
             "あるじ"
         ]
     },
     "首": {
-        "strokes": 9,
-        "grade": 2,
-        "freq": 98,
+        "kanji": "首",
         "jlpt": 3,
         "meanings": [
             "Cou",
             "Compteur De Chansons Ou Poèmes"
         ],
-        "readings_on": [
+        "onyomi": [
             "しゅ"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "くび"
         ]
     },
     "秋": {
-        "strokes": 9,
-        "grade": 2,
-        "freq": 635,
+        "kanji": "秋",
         "jlpt": 3,
         "meanings": [
             "Automne"
         ],
-        "readings_on": [
+        "onyomi": [
             "しゅう"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "あき",
             "とき"
         ]
     },
     "終": {
-        "strokes": 11,
-        "grade": 3,
-        "freq": 256,
+        "kanji": "終",
         "jlpt": 3,
         "meanings": [
             "Finir",
             "Fin"
         ],
-        "readings_on": [
+        "onyomi": [
             "しゅう"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "お.わる",
             "-お.わる",
             "おわ.る",
@@ -1599,26 +1431,22 @@
         ]
     },
     "習": {
-        "strokes": 11,
-        "grade": 3,
-        "freq": 706,
+        "kanji": "習",
         "jlpt": 3,
         "meanings": [
             "Apprendre"
         ],
-        "readings_on": [
+        "onyomi": [
             "しゅう",
             "じゅ"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "なら.う",
             "なら.い"
         ]
     },
     "集": {
-        "strokes": 12,
-        "grade": 3,
-        "freq": 210,
+        "kanji": "集",
         "jlpt": 3,
         "meanings": [
             "Rassembler",
@@ -1627,40 +1455,36 @@
             "Grouiller",
             "Attroupement"
         ],
-        "readings_on": [
+        "onyomi": [
             "しゅう"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "あつ.まる",
             "あつ.める",
             "つど.う"
         ]
     },
     "住": {
-        "strokes": 7,
-        "grade": 3,
-        "freq": 270,
+        "kanji": "住",
         "jlpt": 3,
         "meanings": [
             "Résider",
             "Vivre",
             "Habiter"
         ],
-        "readings_on": [
+        "onyomi": [
             "じゅう",
             "ぢゅう",
             "ちゅう"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "す.む",
             "す.まう",
             "-ず.まい"
         ]
     },
     "重": {
-        "strokes": 9,
-        "grade": 3,
-        "freq": 193,
+        "kanji": "重",
         "jlpt": 3,
         "meanings": [
             "Lourd",
@@ -1669,11 +1493,11 @@
             "S'emboîter",
             "- Couches"
         ],
-        "readings_on": [
+        "onyomi": [
             "じゅう",
             "ちょう"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "え",
             "おも.い",
             "おも.り",
@@ -1684,32 +1508,28 @@
         ]
     },
     "春": {
-        "strokes": 9,
-        "grade": 2,
-        "freq": 579,
+        "kanji": "春",
         "jlpt": 3,
         "meanings": [
             "Printemps"
         ],
-        "readings_on": [
+        "onyomi": [
             "しゅん"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "はる"
         ]
     },
     "所": {
-        "strokes": 8,
-        "grade": 3,
-        "freq": 221,
+        "kanji": "所",
         "jlpt": 3,
         "meanings": [
             "Lieu"
         ],
-        "readings_on": [
+        "onyomi": [
             "しょ"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "ところ",
             "-ところ",
             "どころ",
@@ -1717,9 +1537,7 @@
         ]
     },
     "暑": {
-        "strokes": 12,
-        "grade": 3,
-        "freq": 1442,
+        "kanji": "暑",
         "jlpt": 3,
         "meanings": [
             "Chaud",
@@ -1727,17 +1545,15 @@
             "Temps Lourd",
             "Chaleur D'été"
         ],
-        "readings_on": [
+        "onyomi": [
             "しょ"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "あつ.い"
         ]
     },
     "乗": {
-        "strokes": 9,
-        "grade": 3,
-        "freq": 377,
+        "kanji": "乗",
         "jlpt": 3,
         "meanings": [
             "Monter",
@@ -1750,20 +1566,18 @@
             "Compteur De Véhicules",
             "Se Joindre À"
         ],
-        "readings_on": [
+        "onyomi": [
             "じょう",
             "しょう"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "の.る",
             "-の.り",
             "の.せる"
         ]
     },
     "場": {
-        "strokes": 12,
-        "grade": 2,
-        "freq": 52,
+        "kanji": "場",
         "jlpt": 3,
         "meanings": [
             "Lieu",
@@ -1771,68 +1585,60 @@
             "Aire",
             "Champ (magnétique)"
         ],
-        "readings_on": [
+        "onyomi": [
             "じょう",
             "ちょう"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "ば"
         ]
     },
     "色": {
-        "strokes": 6,
-        "grade": 2,
-        "freq": 621,
+        "kanji": "色",
         "jlpt": 3,
         "meanings": [
             "Couleur"
         ],
-        "readings_on": [
+        "onyomi": [
             "しょく",
             "しき"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "いろ"
         ]
     },
     "心": {
-        "strokes": 4,
-        "grade": 2,
-        "freq": 157,
+        "kanji": "心",
         "jlpt": 3,
         "meanings": [
             "Coeur",
             "Esprit",
             "Radical Coeur (no. 61)"
         ],
-        "readings_on": [
+        "onyomi": [
             "しん"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "こころ",
             "-ごころ"
         ]
     },
     "森": {
-        "strokes": 12,
-        "grade": 1,
-        "freq": 609,
+        "kanji": "森",
         "jlpt": 3,
         "meanings": [
             "Forêt",
             "Bois"
         ],
-        "readings_on": [
+        "onyomi": [
             "しん"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "もり"
         ]
     },
     "真": {
-        "strokes": 10,
-        "grade": 3,
-        "freq": 279,
+        "kanji": "真",
         "jlpt": 3,
         "meanings": [
             "Exact",
@@ -1840,19 +1646,17 @@
             "Réalité",
             "Secte Bouddhiste"
         ],
-        "readings_on": [
+        "onyomi": [
             "しん"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "ま",
             "ま-",
             "まこと"
         ]
     },
     "親": {
-        "strokes": 16,
-        "grade": 2,
-        "freq": 406,
+        "kanji": "親",
         "jlpt": 3,
         "meanings": [
             "Parent",
@@ -1861,10 +1665,10 @@
             "Familiarité",
             "Donneur (cartes)"
         ],
-        "readings_on": [
+        "onyomi": [
             "しん"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "おや",
             "おや-",
             "した.しい",
@@ -1872,27 +1676,23 @@
         ]
     },
     "進": {
-        "strokes": 11,
-        "grade": 3,
-        "freq": 142,
+        "kanji": "進",
         "jlpt": 3,
         "meanings": [
             "Progresser",
             "Avancer",
             "Promouvoir"
         ],
-        "readings_on": [
+        "onyomi": [
             "しん"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "すす.む",
             "すす.める"
         ]
     },
     "図": {
-        "strokes": 7,
-        "grade": 2,
-        "freq": 539,
+        "kanji": "図",
         "jlpt": 3,
         "meanings": [
             "Carte",
@@ -1901,19 +1701,17 @@
             "Inattendu",
             "Accidentellement"
         ],
-        "readings_on": [
+        "onyomi": [
             "ず",
             "と"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "え",
             "はか.る"
         ]
     },
     "世": {
-        "strokes": 5,
-        "grade": 3,
-        "freq": 135,
+        "kanji": "世",
         "jlpt": 3,
         "meanings": [
             "Génération",
@@ -1921,19 +1719,17 @@
             "Société",
             "Public"
         ],
-        "readings_on": [
+        "onyomi": [
             "せい",
             "せ",
             "そう"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "よ"
         ]
     },
     "正": {
-        "strokes": 5,
-        "grade": 1,
-        "freq": 143,
+        "kanji": "正",
         "jlpt": 3,
         "meanings": [
             "Correct",
@@ -1942,11 +1738,11 @@
             "Droit",
             "10**40"
         ],
-        "readings_on": [
+        "onyomi": [
             "せい",
             "しょう"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "ただ.しい",
             "ただ.す",
             "まさ",
@@ -1954,54 +1750,48 @@
         ]
     },
     "声": {
-        "strokes": 7,
-        "grade": 2,
-        "freq": 388,
+        "kanji": "声",
         "jlpt": 3,
         "meanings": [
             "Voix"
         ],
-        "readings_on": [
+        "onyomi": [
             "せい",
             "しょう"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "こえ",
             "こわ-"
         ]
     },
     "青": {
-        "strokes": 8,
-        "grade": 1,
-        "freq": 589,
+        "kanji": "青",
         "jlpt": 3,
         "meanings": [
             "Bleu",
             "Vert"
         ],
-        "readings_on": [
+        "onyomi": [
             "せい",
             "しょう"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "あお",
             "あお-",
             "あお.い"
         ]
     },
     "赤": {
-        "strokes": 7,
-        "grade": 1,
-        "freq": 584,
+        "kanji": "赤",
         "jlpt": 3,
         "meanings": [
             "Rouge"
         ],
-        "readings_on": [
+        "onyomi": [
             "せき",
             "しゃく"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "あか",
             "あか-",
             "あか.い",
@@ -2010,9 +1800,7 @@
         ]
     },
     "切": {
-        "strokes": 4,
-        "grade": 2,
-        "freq": 324,
+        "kanji": "切",
         "jlpt": 3,
         "meanings": [
             "Couper",
@@ -2021,11 +1809,11 @@
             "Passionné",
             "Sérieux"
         ],
-        "readings_on": [
+        "onyomi": [
             "せつ",
             "さい"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "き.る",
             "-き.る",
             "き.り",
@@ -2039,9 +1827,7 @@
         ]
     },
     "説": {
-        "strokes": 14,
-        "grade": 4,
-        "freq": 326,
+        "kanji": "説",
         "jlpt": 3,
         "meanings": [
             "Théorie",
@@ -2049,45 +1835,41 @@
             "Opinion",
             "Thèse"
         ],
-        "readings_on": [
+        "onyomi": [
             "せつ",
             "ぜい"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "と.く"
         ]
     },
     "洗": {
-        "strokes": 9,
-        "grade": 6,
-        "freq": 1168,
+        "kanji": "洗",
         "jlpt": 3,
         "meanings": [
             "Laver",
             "Fouiller",
             "Examiner"
         ],
-        "readings_on": [
+        "onyomi": [
             "せん"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "あら.う"
         ]
     },
     "早": {
-        "strokes": 6,
-        "grade": 1,
-        "freq": 402,
+        "kanji": "早",
         "jlpt": 3,
         "meanings": [
             "Tôt",
             "Rapide"
         ],
-        "readings_on": [
+        "onyomi": [
             "そう",
             "さっ"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "はや.い",
             "はや",
             "はや-",
@@ -2097,89 +1879,77 @@
         ]
     },
     "走": {
-        "strokes": 7,
-        "grade": 2,
-        "freq": 626,
+        "kanji": "走",
         "jlpt": 3,
         "meanings": [
             "Courir"
         ],
-        "readings_on": [
+        "onyomi": [
             "そう"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "はし.る"
         ]
     },
     "送": {
-        "strokes": 9,
-        "grade": 3,
-        "freq": 311,
+        "kanji": "送",
         "jlpt": 3,
         "meanings": [
             "Escorter",
             "Envoyer"
         ],
-        "readings_on": [
+        "onyomi": [
             "そう"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "おく.る"
         ]
     },
     "族": {
-        "strokes": 11,
-        "grade": 3,
-        "freq": 393,
+        "kanji": "族",
         "jlpt": 3,
         "meanings": [
             "Tribu",
             "Famille"
         ],
-        "readings_on": [
+        "onyomi": [
             "ぞく"
         ],
-        "readings_kun": []
+        "kunyomi": []
     },
     "村": {
-        "strokes": 7,
-        "grade": 1,
-        "freq": 253,
+        "kanji": "村",
         "jlpt": 3,
         "meanings": [
             "Village",
             "Ville"
         ],
-        "readings_on": [
+        "onyomi": [
             "そん"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "むら"
         ]
     },
     "太": {
-        "strokes": 4,
-        "grade": 2,
-        "freq": 552,
+        "kanji": "太",
         "jlpt": 3,
         "meanings": [
             "Gras",
             "Dodu",
             "Gros"
         ],
-        "readings_on": [
+        "onyomi": [
             "たい",
             "た"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "ふと.い",
             "ふと.る"
         ]
     },
     "体": {
-        "strokes": 7,
-        "grade": 2,
-        "freq": 88,
+        "kanji": "体",
         "jlpt": 3,
         "meanings": [
             "Corps",
@@ -2188,54 +1958,48 @@
             "Réalité",
             "Compteur D'images"
         ],
-        "readings_on": [
+        "onyomi": [
             "たい",
             "てい"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "からだ",
             "かたち"
         ]
     },
     "待": {
-        "strokes": 9,
-        "grade": 3,
-        "freq": 391,
+        "kanji": "待",
         "jlpt": 3,
         "meanings": [
             "Attendre",
             "Compter Sur"
         ],
-        "readings_on": [
+        "onyomi": [
             "たい"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "ま.つ",
             "-ま.ち"
         ]
     },
     "貸": {
-        "strokes": 12,
-        "grade": 5,
-        "freq": 995,
+        "kanji": "貸",
         "jlpt": 3,
         "meanings": [
             "Prêter",
             "Louer"
         ],
-        "readings_on": [
+        "onyomi": [
             "たい"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "か.す",
             "か.し-",
             "かし-"
         ]
     },
     "代": {
-        "strokes": 5,
-        "grade": 3,
-        "freq": 66,
+        "kanji": "代",
         "jlpt": 3,
         "meanings": [
             "Substituer",
@@ -2251,11 +2015,11 @@
             "Prix",
             "Redevance"
         ],
-        "readings_on": [
+        "onyomi": [
             "だい",
             "たい"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "か.わる",
             "かわ.る",
             "かわ.り",
@@ -2268,42 +2032,36 @@
         ]
     },
     "台": {
-        "strokes": 5,
-        "grade": 2,
-        "freq": 262,
+        "kanji": "台",
         "jlpt": 3,
         "meanings": [
             "Piédestal",
             "Socle",
             "Compteur De Voitures Ou Machines"
         ],
-        "readings_on": [
+        "onyomi": [
             "だい",
             "たい"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "うてな",
             "われ",
             "つかさ"
         ]
     },
     "題": {
-        "strokes": 18,
-        "grade": 3,
-        "freq": 96,
+        "kanji": "題",
         "jlpt": 3,
         "meanings": [
             "Sujet"
         ],
-        "readings_on": [
+        "onyomi": [
             "だい"
         ],
-        "readings_kun": []
+        "kunyomi": []
     },
     "短": {
-        "strokes": 12,
-        "grade": 3,
-        "freq": 689,
+        "kanji": "短",
         "jlpt": 3,
         "meanings": [
             "Court",
@@ -2312,80 +2070,70 @@
             "Défaut",
             "Point Faible"
         ],
-        "readings_on": [
+        "onyomi": [
             "たん"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "みじか.い"
         ]
     },
     "知": {
-        "strokes": 8,
-        "grade": 2,
-        "freq": 205,
+        "kanji": "知",
         "jlpt": 3,
         "meanings": [
             "Savoir",
             "Sagesse"
         ],
-        "readings_on": [
+        "onyomi": [
             "ち"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "し.る",
             "し.らせる"
         ]
     },
     "地": {
-        "strokes": 6,
-        "grade": 2,
-        "freq": 40,
+        "kanji": "地",
         "jlpt": 3,
         "meanings": [
             "Sol",
             "Terre"
         ],
-        "readings_on": [
+        "onyomi": [
             "ち",
             "じ"
         ],
-        "readings_kun": []
+        "kunyomi": []
     },
     "池": {
-        "strokes": 6,
-        "grade": 2,
-        "freq": 827,
+        "kanji": "池",
         "jlpt": 3,
         "meanings": [
             "Étang",
             "Mare",
             "Réservoir (eau)"
         ],
-        "readings_on": [
+        "onyomi": [
             "ち"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "いけ"
         ]
     },
     "茶": {
-        "strokes": 9,
-        "grade": 2,
-        "freq": 1116,
+        "kanji": "茶",
         "jlpt": 3,
         "meanings": [
             "Thé"
         ],
-        "readings_on": [
+        "onyomi": [
             "ちゃ",
             "さ"
         ],
-        "readings_kun": []
+        "kunyomi": []
     },
     "着": {
-        "strokes": 12,
-        "grade": 3,
-        "freq": 376,
+        "kanji": "着",
         "jlpt": 3,
         "meanings": [
             "Enfiler",
@@ -2393,11 +2141,11 @@
             "Arriver",
             "Compteur De Vêtements"
         ],
-        "readings_on": [
+        "onyomi": [
             "ちゃく",
             "じゃく"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "き.る",
             "き.せる",
             "つ.く",
@@ -2405,25 +2153,21 @@
         ]
     },
     "昼": {
-        "strokes": 9,
-        "grade": 2,
-        "freq": 1115,
+        "kanji": "昼",
         "jlpt": 3,
         "meanings": [
             "Journée",
             "Midi"
         ],
-        "readings_on": [
+        "onyomi": [
             "ちゅう"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "ひる"
         ]
     },
     "注": {
-        "strokes": 8,
-        "grade": 3,
-        "freq": 497,
+        "kanji": "注",
         "jlpt": 3,
         "meanings": [
             "Verser",
@@ -2435,19 +2179,17 @@
             "Annotation",
             "Commentaire"
         ],
-        "readings_on": [
+        "onyomi": [
             "ちゅう"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "そそ.ぐ",
             "さ.す",
             "つ.ぐ"
         ]
     },
     "朝": {
-        "strokes": 12,
-        "grade": 2,
-        "freq": 248,
+        "kanji": "朝",
         "jlpt": 3,
         "meanings": [
             "Matin",
@@ -2457,17 +2199,15 @@
             "Époque",
             "Corée (nord)"
         ],
-        "readings_on": [
+        "onyomi": [
             "ちょう"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "あさ"
         ]
     },
     "町": {
-        "strokes": 7,
-        "grade": 1,
-        "freq": 292,
+        "kanji": "町",
         "jlpt": 3,
         "meanings": [
             "Quartier",
@@ -2475,33 +2215,29 @@
             "Village",
             "Rue"
         ],
-        "readings_on": [
+        "onyomi": [
             "ちょう"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "まち"
         ]
     },
     "鳥": {
-        "strokes": 11,
-        "grade": 2,
-        "freq": 1043,
+        "kanji": "鳥",
         "jlpt": 3,
         "meanings": [
             "Oiseau",
             "Poulet"
         ],
-        "readings_on": [
+        "onyomi": [
             "ちょう"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "とり"
         ]
     },
     "通": {
-        "strokes": 10,
-        "grade": 2,
-        "freq": 80,
+        "kanji": "通",
         "jlpt": 3,
         "meanings": [
             "Circulation",
@@ -2510,11 +2246,11 @@
             "Trajet (travail)",
             "Compteur De Lettres, Notes, ..."
         ],
-        "readings_on": [
+        "onyomi": [
             "つう",
             "つ"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "とお.る",
             "とお.り",
             "-とお.り",
@@ -2526,28 +2262,24 @@
         ]
     },
     "低": {
-        "strokes": 7,
-        "grade": 4,
-        "freq": 435,
+        "kanji": "低",
         "jlpt": 3,
         "meanings": [
             "Bas",
             "Petit (taille)",
             "Humble"
         ],
-        "readings_on": [
+        "onyomi": [
             "てい"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "ひく.い",
             "ひく.める",
             "ひく.まる"
         ]
     },
     "弟": {
-        "strokes": 7,
-        "grade": 2,
-        "freq": 1161,
+        "kanji": "弟",
         "jlpt": 3,
         "meanings": [
             "Frère Cadet",
@@ -2555,29 +2287,27 @@
             "Disciple",
             "Service Déférent Aux Ainés"
         ],
-        "readings_on": [
+        "onyomi": [
             "てい",
             "だい",
             "で"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "おとうと"
         ]
     },
     "転": {
-        "strokes": 11,
-        "grade": 3,
-        "freq": 327,
+        "kanji": "転",
         "jlpt": 3,
         "meanings": [
             "Rouler",
             "Tourner",
             "Changer"
         ],
-        "readings_on": [
+        "onyomi": [
             "てん"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "ころ.がる",
             "ころ.げる",
             "ころ.がす",
@@ -2589,41 +2319,35 @@
         ]
     },
     "田": {
-        "strokes": 5,
-        "grade": 1,
-        "freq": 90,
+        "kanji": "田",
         "jlpt": 3,
         "meanings": [
             "Rizière"
         ],
-        "readings_on": [
+        "onyomi": [
             "でん"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "た"
         ]
     },
     "都": {
-        "strokes": 11,
-        "grade": 3,
-        "freq": 123,
+        "kanji": "都",
         "jlpt": 3,
         "meanings": [
             "Métropole",
             "Capitale"
         ],
-        "readings_on": [
+        "onyomi": [
             "と",
             "つ"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "みやこ"
         ]
     },
     "度": {
-        "strokes": 9,
-        "grade": 3,
-        "freq": 110,
+        "kanji": "度",
         "jlpt": 3,
         "meanings": [
             "Degré",
@@ -2631,63 +2355,57 @@
             "Fois",
             "Compteur D'occurrences"
         ],
-        "readings_on": [
+        "onyomi": [
             "ど",
             "と",
             "たく"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "たび",
             "-た.い"
         ]
     },
     "冬": {
-        "strokes": 5,
-        "grade": 2,
-        "freq": 1090,
+        "kanji": "冬",
         "jlpt": 3,
         "meanings": [
             "Hiver"
         ],
-        "readings_on": [
+        "onyomi": [
             "とう"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "ふゆ"
         ]
     },
     "答": {
-        "strokes": 12,
-        "grade": 2,
-        "freq": 486,
+        "kanji": "答",
         "jlpt": 3,
         "meanings": [
             "Solution",
             "Réponse"
         ],
-        "readings_on": [
+        "onyomi": [
             "とう"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "こた.える",
             "こた.え"
         ]
     },
     "頭": {
-        "strokes": 16,
-        "grade": 2,
-        "freq": 433,
+        "kanji": "頭",
         "jlpt": 3,
         "meanings": [
             "Tête",
             "Compteur De Gros Animaux"
         ],
-        "readings_on": [
+        "onyomi": [
             "とう",
             "ず",
             "と"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "あたま",
             "かしら",
             "-がしら",
@@ -2695,25 +2413,21 @@
         ]
     },
     "働": {
-        "strokes": 13,
-        "grade": 4,
-        "freq": 417,
+        "kanji": "働",
         "jlpt": 3,
         "meanings": [
             "Travailler",
             "(kokuji)"
         ],
-        "readings_on": [
+        "onyomi": [
             "どう"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "はたら.く"
         ]
     },
     "動": {
-        "strokes": 11,
-        "grade": 3,
-        "freq": 73,
+        "kanji": "動",
         "jlpt": 3,
         "meanings": [
             "Bouger",
@@ -2722,35 +2436,31 @@
             "Confusion",
             "Secouer"
         ],
-        "readings_on": [
+        "onyomi": [
             "どう"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "うご.く",
             "うご.かす"
         ]
     },
     "同": {
-        "strokes": 6,
-        "grade": 2,
-        "freq": 15,
+        "kanji": "同",
         "jlpt": 3,
         "meanings": [
             "Identique",
             "Similaire",
             "Égal"
         ],
-        "readings_on": [
+        "onyomi": [
             "どう"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "おな.じ"
         ]
     },
     "堂": {
-        "strokes": 11,
-        "grade": 5,
-        "freq": 1010,
+        "kanji": "堂",
         "jlpt": 3,
         "meanings": [
             "Édifice Public",
@@ -2759,60 +2469,52 @@
             "Hall",
             "Grandiose (bâtiment)"
         ],
-        "readings_on": [
+        "onyomi": [
             "どう"
         ],
-        "readings_kun": []
+        "kunyomi": []
     },
     "特": {
-        "strokes": 10,
-        "grade": 4,
-        "freq": 234,
+        "kanji": "特",
         "jlpt": 3,
         "meanings": [
             "Spécial"
         ],
-        "readings_on": [
+        "onyomi": [
             "とく"
         ],
-        "readings_kun": []
+        "kunyomi": []
     },
     "肉": {
-        "strokes": 6,
-        "grade": 2,
-        "freq": 986,
+        "kanji": "肉",
         "jlpt": 3,
         "meanings": [
             "Chair",
             "Viande"
         ],
-        "readings_on": [
+        "onyomi": [
             "にく"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "しし"
         ]
     },
     "売": {
-        "strokes": 7,
-        "grade": 2,
-        "freq": 202,
+        "kanji": "売",
         "jlpt": 3,
         "meanings": [
             "Vendre"
         ],
-        "readings_on": [
+        "onyomi": [
             "ばい"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "う.る",
             "う.れる"
         ]
     },
     "発": {
-        "strokes": 9,
-        "grade": 3,
-        "freq": 32,
+        "kanji": "発",
         "jlpt": 3,
         "meanings": [
             "Départ",
@@ -2824,11 +2526,11 @@
             "Divulguer",
             "Compteur De Coups De Feu"
         ],
-        "readings_on": [
+        "onyomi": [
             "はつ",
             "ほつ"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "た.つ",
             "あば.く",
             "おこ.る",
@@ -2837,43 +2539,37 @@
         ]
     },
     "飯": {
-        "strokes": 12,
-        "grade": 4,
-        "freq": 1046,
+        "kanji": "飯",
         "jlpt": 3,
         "meanings": [
             "Repas",
             "Riz Bouilli"
         ],
-        "readings_on": [
+        "onyomi": [
             "はん"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "めし"
         ]
     },
     "病": {
-        "strokes": 10,
-        "grade": 3,
-        "freq": 384,
+        "kanji": "病",
         "jlpt": 3,
         "meanings": [
             "Malade"
         ],
-        "readings_on": [
+        "onyomi": [
             "びょう",
             "へい"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "や.む",
             "-や.み",
             "やまい"
         ]
     },
     "品": {
-        "strokes": 9,
-        "grade": 3,
-        "freq": 225,
+        "kanji": "品",
         "jlpt": 3,
         "meanings": [
             "Marchandise",
@@ -2882,18 +2578,16 @@
             "Article",
             "Compteur De Plats"
         ],
-        "readings_on": [
+        "onyomi": [
             "ひん",
             "ほん"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "しな"
         ]
     },
     "不": {
-        "strokes": 4,
-        "grade": 4,
-        "freq": 101,
+        "kanji": "不",
         "jlpt": 3,
         "meanings": [
             "Négation",
@@ -2902,16 +2596,14 @@
             "Laid",
             "Maladroit"
         ],
-        "readings_on": [
+        "onyomi": [
             "ふ",
             "ぶ"
         ],
-        "readings_kun": []
+        "kunyomi": []
     },
     "風": {
-        "strokes": 9,
-        "grade": 2,
-        "freq": 558,
+        "kanji": "風",
         "jlpt": 3,
         "meanings": [
             "Vent",
@@ -2919,19 +2611,17 @@
             "Style",
             "Manière"
         ],
-        "readings_on": [
+        "onyomi": [
             "ふう",
             "ふ"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "かぜ",
             "かざ-"
         ]
     },
     "服": {
-        "strokes": 8,
-        "grade": 3,
-        "freq": 873,
+        "kanji": "服",
         "jlpt": 3,
         "meanings": [
             "Habillement",
@@ -2940,34 +2630,30 @@
             "Libérer (renvoi)",
             "Avaler (médicament)"
         ],
-        "readings_on": [
+        "onyomi": [
             "ふく"
         ],
-        "readings_kun": []
+        "kunyomi": []
     },
     "物": {
-        "strokes": 8,
-        "grade": 3,
-        "freq": 215,
+        "kanji": "物",
         "jlpt": 3,
         "meanings": [
             "Objet",
             "Chose",
             "Matière"
         ],
-        "readings_on": [
+        "onyomi": [
             "ぶつ",
             "もつ"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "もの",
             "もの-"
         ]
     },
     "文": {
-        "strokes": 4,
-        "grade": 1,
-        "freq": 190,
+        "kanji": "文",
         "jlpt": 3,
         "meanings": [
             "Phrase",
@@ -2979,19 +2665,17 @@
             "Plan",
             "Radical Littéraire (no. 67)"
         ],
-        "readings_on": [
+        "onyomi": [
             "ぶん",
             "もん"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "ふみ",
             "あや"
         ]
     },
     "別": {
-        "strokes": 7,
-        "grade": 4,
-        "freq": 214,
+        "kanji": "別",
         "jlpt": 3,
         "meanings": [
             "Séparer",
@@ -3000,18 +2684,16 @@
             "Extra",
             "Un Autre"
         ],
-        "readings_on": [
+        "onyomi": [
             "べつ"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "わか.れる",
             "わ.ける"
         ]
     },
     "便": {
-        "strokes": 9,
-        "grade": 4,
-        "freq": 729,
+        "kanji": "便",
         "jlpt": 3,
         "meanings": [
             "Commodité",
@@ -3019,131 +2701,117 @@
             "Vol (avion)",
             "Nouvelles"
         ],
-        "readings_on": [
+        "onyomi": [
             "べん",
             "びん"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "たよ.り"
         ]
     },
     "勉": {
-        "strokes": 10,
-        "grade": 3,
-        "freq": 1066,
+        "kanji": "勉",
         "jlpt": 3,
         "meanings": [
             "Exercice"
         ],
-        "readings_on": [
+        "onyomi": [
             "べん"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "つと.める"
         ]
     },
     "歩": {
-        "strokes": 8,
-        "grade": 2,
-        "freq": 554,
+        "kanji": "歩",
         "jlpt": 3,
         "meanings": [
             "Marcher",
             "Compteur De Pas"
         ],
-        "readings_on": [
+        "onyomi": [
             "ほ",
             "ぶ",
             "ふ"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "ある.く",
             "あゆ.む"
         ]
     },
     "方": {
-        "strokes": 4,
-        "grade": 2,
-        "freq": 46,
+        "kanji": "方",
         "jlpt": 3,
         "meanings": [
             "Direction",
             "Personne",
             "Alternative"
         ],
-        "readings_on": [
+        "onyomi": [
             "ほう"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "かた",
             "-かた",
             "-がた"
         ]
     },
     "妹": {
-        "strokes": 8,
-        "grade": 2,
-        "freq": 1446,
+        "kanji": "妹",
         "jlpt": 3,
         "meanings": [
             "Soeur Cadette"
         ],
-        "readings_on": [
+        "onyomi": [
             "まい"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "いもうと"
         ]
     },
     "味": {
-        "strokes": 8,
-        "grade": 3,
-        "freq": 442,
+        "kanji": "味",
         "jlpt": 3,
         "meanings": [
             "Goût",
             "Saveur"
         ],
-        "readings_on": [
+        "onyomi": [
             "み"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "あじ",
             "あじ.わう"
         ]
     },
     "民": {
-        "strokes": 5,
-        "grade": 4,
-        "freq": 28,
+        "kanji": "民",
         "jlpt": 3,
         "meanings": [
             "Peuple",
             "Nation",
             "Citoyen"
         ],
-        "readings_on": [
+        "onyomi": [
             "みん"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "たみ"
         ]
     },
     "明": {
-        "strokes": 8,
-        "grade": 2,
-        "freq": 67,
+        "kanji": "明",
         "jlpt": 3,
         "meanings": [
             "Clair",
             "Lumière"
         ],
-        "readings_on": [
+        "onyomi": [
             "めい",
             "みょう",
             "みん"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "あ.かり",
             "あか.るい",
             "あか.るむ",
@@ -3157,62 +2825,54 @@
         ]
     },
     "問": {
-        "strokes": 11,
-        "grade": 3,
-        "freq": 64,
+        "kanji": "問",
         "jlpt": 3,
         "meanings": [
             "Question",
             "Demander",
             "Problème"
         ],
-        "readings_on": [
+        "onyomi": [
             "もん"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "と.う",
             "と.い",
             "とん"
         ]
     },
     "門": {
-        "strokes": 8,
-        "grade": 2,
-        "freq": 452,
+        "kanji": "門",
         "jlpt": 3,
         "meanings": [
             "Portail",
             "Compteur De Canons"
         ],
-        "readings_on": [
+        "onyomi": [
             "もん"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "かど",
             "と"
         ]
     },
     "夜": {
-        "strokes": 8,
-        "grade": 2,
-        "freq": 487,
+        "kanji": "夜",
         "jlpt": 3,
         "meanings": [
             "Nuit",
             "Soirée"
         ],
-        "readings_on": [
+        "onyomi": [
             "や"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "よ",
             "よる"
         ]
     },
     "野": {
-        "strokes": 11,
-        "grade": 2,
-        "freq": 120,
+        "kanji": "野",
         "jlpt": 3,
         "meanings": [
             "Sauvage",
@@ -3220,19 +2880,17 @@
             "Rustique",
             "Vie Civile"
         ],
-        "readings_on": [
+        "onyomi": [
             "や",
             "しょ"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "の",
             "の-"
         ]
     },
     "薬": {
-        "strokes": 16,
-        "grade": 3,
-        "freq": 702,
+        "kanji": "薬",
         "jlpt": 3,
         "meanings": [
             "Médicament",
@@ -3241,17 +2899,15 @@
             "Poudre À Canon",
             "Bénéfice"
         ],
-        "readings_on": [
+        "onyomi": [
             "やく"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "くすり"
         ]
     },
     "有": {
-        "strokes": 6,
-        "grade": 3,
-        "freq": 282,
+        "kanji": "有",
         "jlpt": 3,
         "meanings": [
             "Posséder",
@@ -3259,60 +2915,52 @@
             "Être",
             "Arriver (se Passer)"
         ],
-        "readings_on": [
+        "onyomi": [
             "ゆう",
             "う"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "あ.る"
         ]
     },
     "夕": {
-        "strokes": 3,
-        "grade": 1,
-        "freq": 924,
+        "kanji": "夕",
         "jlpt": 3,
         "meanings": [
             "Soirée"
         ],
-        "readings_on": [
+        "onyomi": [
             "せき"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "ゆう"
         ]
     },
     "曜": {
-        "strokes": 18,
-        "grade": 2,
-        "freq": 940,
+        "kanji": "曜",
         "jlpt": 3,
         "meanings": [
             "Jour De La Semaine"
         ],
-        "readings_on": [
+        "onyomi": [
             "よう"
         ],
-        "readings_kun": []
+        "kunyomi": []
     },
     "洋": {
-        "strokes": 9,
-        "grade": 3,
-        "freq": 763,
+        "kanji": "洋",
         "jlpt": 3,
         "meanings": [
             "Océan",
             "Style Occidental"
         ],
-        "readings_on": [
+        "onyomi": [
             "よう"
         ],
-        "readings_kun": []
+        "kunyomi": []
     },
     "用": {
-        "strokes": 5,
-        "grade": 2,
-        "freq": 107,
+        "kanji": "用",
         "jlpt": 3,
         "meanings": [
             "Se Servir De",
@@ -3321,17 +2969,15 @@
             "Utiliser",
             "Employer"
         ],
-        "readings_on": [
+        "onyomi": [
             "よう"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "もち.いる"
         ]
     },
     "理": {
-        "strokes": 11,
-        "grade": 2,
-        "freq": 86,
+        "kanji": "理",
         "jlpt": 3,
         "meanings": [
             "Logique",
@@ -3340,32 +2986,28 @@
             "Justice",
             "Vérité"
         ],
-        "readings_on": [
+        "onyomi": [
             "り"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "ことわり"
         ]
     },
     "旅": {
-        "strokes": 10,
-        "grade": 3,
-        "freq": 783,
+        "kanji": "旅",
         "jlpt": 3,
         "meanings": [
             "Voyage"
         ],
-        "readings_on": [
+        "onyomi": [
             "りょ"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "たび"
         ]
     },
     "料": {
-        "strokes": 10,
-        "grade": 4,
-        "freq": 295,
+        "kanji": "料",
         "jlpt": 3,
         "meanings": [
             "Redevance",
@@ -3374,15 +3016,13 @@
             "Prix",
             "Matériau"
         ],
-        "readings_on": [
+        "onyomi": [
             "りょう"
         ],
-        "readings_kun": []
+        "kunyomi": []
     },
     "力": {
-        "strokes": 2,
-        "grade": 1,
-        "freq": 62,
+        "kanji": "力",
         "jlpt": 3,
         "meanings": [
             "Force",
@@ -3393,28 +3033,26 @@
             "S'efforcer",
             "Employer (force)"
         ],
-        "readings_on": [
+        "onyomi": [
             "りょく",
             "りき",
             "りい"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "ちから"
         ]
     },
     "林": {
-        "strokes": 8,
-        "grade": 1,
-        "freq": 656,
+        "kanji": "林",
         "jlpt": 3,
         "meanings": [
             "Bois (petite Forêt)",
             "Bois"
         ],
-        "readings_on": [
+        "onyomi": [
             "りん"
         ],
-        "readings_kun": [
+        "kunyomi": [
             "はやし"
         ]
     }

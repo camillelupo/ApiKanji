@@ -9,13 +9,13 @@ def get_random_kanji(jplt, nombre):
     with open("json/jplt_" + str(jplt) + ".json", "r", encoding="utf-8") as file:
         data = json.load(file)
 
-        # Get the list of keys
-        keys_list = list(data.keys())
+        # Get the keys of the JSON data (assuming it's a dictionary)
+    keys = list(data.keys())
 
-        # Randomize the order of the keys
-        randomized_keys = random.sample(keys_list, nombre)
+    # Get a list of random items from the keys
+    random_keys = random.sample(keys, nombre)
 
-        # Create a new dictionary with randomized order
-        randomized_data = {key: data[key] for key in randomized_keys}
+    # Retrieve the corresponding values for the random keys
+    random_items = [data[key] for key in random_keys]
 
-        return randomized_data
+    return random_items

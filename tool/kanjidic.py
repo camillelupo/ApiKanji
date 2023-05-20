@@ -21,32 +21,22 @@ def get_kanjidic2_data():
 
     for character in tree.iter("character"):
         entry = {
-            "strokes": None,
-            "grade": None,
-            "freq": None,
+            "kanji": None,
             "jlpt": None,
             "meanings": [],
-            "readings_on": [],
-            "readings_kun": []
+            "onyomi": [],
+            "kunyomi": []
         }
 
         literal = character.find("literal").text
         kanjidic2_json[literal] = entry
 
         misc = character.find("misc")
+        entry["kanji"] = literal
         if misc is not None:
-            grade = misc.find("grade")
-            if grade is not None:
-                entry["grade"] = int(grade.text)
-            freq = misc.find("freq")
-            if freq is not None:
-                entry["freq"] = int(freq.text)
             jlpt = misc.find("jlpt")
             if jlpt is not None:
                 entry["jlpt"] = int(jlpt.text)
-            stroke_count = misc.find("stroke_count")
-            if stroke_count is not None:
-                entry["strokes"] = int(stroke_count.text)
 
         reading_meaning = character.find("reading_meaning")
         if reading_meaning is not None:
@@ -63,9 +53,9 @@ def get_kanjidic2_data():
                 for reading in readings:
                     r_type = reading.get("r_type")
                     if r_type == "ja_on":
-                        entry["readings_on"].append(reading.text.translate(kat2hir))
+                        entry["onyomi"].append(reading.text.translate(kat2hir))
                     elif r_type == "ja_kun":
-                        entry["readings_kun"].append(reading.text)
+                        entry["kunyomi"].append(reading.text)
 
     return kanjidic2_json
 
@@ -74,19 +64,19 @@ def save_json_files():
     json_kanji = get_kanjidic2_data()
 
     # Create a new dictionary with only the kanji for each JLPT level
-    for character, entry in json_kanji.items():
+    for key, entry in json_kanji.items():
 
         if entry.get("jlpt") == 1:
-            jplt_1_kanjidic2[character] = entry
+            jplt_1_kanjidic2[key] = entry
 
         elif entry.get("jlpt") == 2:
-            jplt_2_kanjidic2[character] = entry
+            jplt_2_kanjidic2[key] = entry
 
         elif entry.get("jlpt") == 3:
-            jplt_3_kanjidic2[character] = entry
+            jplt_3_kanjidic2[key] = entry
 
         elif entry.get("jlpt") == 4:
-            jplt_4_kanjidic2[character] = entry
+            jplt_4_kanjidic2[key] = entry
 
         # Save the kanjidic2_json object as a new JSON file
     with open("json/kanjidic.json", "wt", encoding="utf-8") as fp:
