@@ -2,12 +2,20 @@
     "悪": {
         "kanji": "悪",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Mauvais",
             "Vice",
             "Vaurien",
             "Faux",
             "Mal"
+        ],
+        "eng": [
+            "Bad",
+            "Vice",
+            "Rascal",
+            "False",
+            "Evil",
+            "Wrong"
         ],
         "onyomi": [
             "あく",
@@ -28,13 +36,21 @@
     "暗": {
         "kanji": "暗",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Obscurité",
             "Disparaître",
             "Ombre",
             "Informel",
             "S'assombrir",
             "Être Aveuglé"
+        ],
+        "eng": [
+            "Darkness",
+            "Disappear",
+            "Shade",
+            "Informal",
+            "Grow Dark",
+            "Be Blinded"
         ],
         "onyomi": [
             "あん"
@@ -48,11 +64,17 @@
     "以": {
         "kanji": "以",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Au Moyen De",
             "Parce Que",
             "En Vue De",
             "Comparé À"
+        ],
+        "eng": [
+            "By Means Of",
+            "Because",
+            "In View Of",
+            "Compared With"
         ],
         "onyomi": [
             "い"
@@ -64,7 +86,7 @@
     "意": {
         "kanji": "意",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Idée",
             "Esprit",
             "Coeur",
@@ -72,6 +94,16 @@
             "Attention",
             "Goût",
             "Désir"
+        ],
+        "eng": [
+            "Idea",
+            "Mind",
+            "Heart",
+            "Taste",
+            "Thought",
+            "Desire",
+            "Care",
+            "Liking"
         ],
         "onyomi": [
             "い"
@@ -81,9 +113,13 @@
     "医": {
         "kanji": "医",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Médecin",
             "Docteur"
+        ],
+        "eng": [
+            "Doctor",
+            "Medicine"
         ],
         "onyomi": [
             "い"
@@ -97,11 +133,17 @@
     "員": {
         "kanji": "員",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Employé",
             "Membre",
             "Nombre (de Personnes)",
             "Personne En Charge"
+        ],
+        "eng": [
+            "Employee",
+            "Member",
+            "Number",
+            "The One In Charge"
         ],
         "onyomi": [
             "いん"
@@ -111,7 +153,7 @@
     "引": {
         "kanji": "引",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Tirer",
             "Admettre",
             "Installer",
@@ -119,6 +161,15 @@
             "Référence",
             "Jouer (musique)",
             "Attraper (froid)"
+        ],
+        "eng": [
+            "Pull",
+            "Tug",
+            "Jerk",
+            "Admit",
+            "Install",
+            "Quote",
+            "Refer To"
         ],
         "onyomi": [
             "いん"
@@ -131,12 +182,19 @@
     "院": {
         "kanji": "院",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Temple",
             "Institution",
             "Résidence",
             "École",
             "Hôpital"
+        ],
+        "eng": [
+            "Inst.",
+            "Institution",
+            "Temple",
+            "Mansion",
+            "School"
         ],
         "onyomi": [
             "いん"
@@ -146,13 +204,23 @@
     "運": {
         "kanji": "運",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Porter",
             "Chance",
             "Destin",
             "Destinée",
             "Sort",
             "Progrès"
+        ],
+        "eng": [
+            "Carry",
+            "Luck",
+            "Destiny",
+            "Fate",
+            "Lot",
+            "Transport",
+            "Progress",
+            "Advance"
         ],
         "onyomi": [
             "うん"
@@ -164,10 +232,15 @@
     "映": {
         "kanji": "映",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Projection",
             "Refléter",
             "Réflexion"
+        ],
+        "eng": [
+            "Reflect",
+            "Reflection",
+            "Projection"
         ],
         "onyomi": [
             "えい"
@@ -182,11 +255,18 @@
     "英": {
         "kanji": "英",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Angleterre",
             "Anglais",
             "Fleur Éclose",
             "Brillant"
+        ],
+        "eng": [
+            "England",
+            "English",
+            "Hero",
+            "Outstanding",
+            "Calyx"
         ],
         "onyomi": [
             "えい"
@@ -198,9 +278,13 @@
     "遠": {
         "kanji": "遠",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Loin",
             "Distant"
+        ],
+        "eng": [
+            "Distant",
+            "Far"
         ],
         "onyomi": [
             "えん",
@@ -213,12 +297,19 @@
     "屋": {
         "kanji": "屋",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Toit",
             "Maison",
             "Échoppe",
             "Négociant",
             "Vendeur"
+        ],
+        "eng": [
+            "Roof",
+            "House",
+            "Shop",
+            "Dealer",
+            "Seller"
         ],
         "onyomi": [
             "おく"
@@ -230,9 +321,13 @@
     "音": {
         "kanji": "音",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Son",
             "Bruit"
+        ],
+        "eng": [
+            "Sound",
+            "Noise"
         ],
         "onyomi": [
             "おん",
@@ -247,8 +342,11 @@
     "夏": {
         "kanji": "夏",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Été"
+        ],
+        "eng": [
+            "Summer"
         ],
         "onyomi": [
             "か",
@@ -262,8 +360,16 @@
     "家": {
         "kanji": "家",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Maison"
+        ],
+        "eng": [
+            "House",
+            "Home",
+            "Family",
+            "Professional",
+            "Expert",
+            "Performer"
         ],
         "onyomi": [
             "か",
@@ -278,9 +384,13 @@
     "歌": {
         "kanji": "歌",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Chanson",
             "Chanter"
+        ],
+        "eng": [
+            "Song",
+            "Sing"
         ],
         "onyomi": [
             "か"
@@ -293,11 +403,15 @@
     "画": {
         "kanji": "画",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Trait De Plume",
             "Dessin",
             "Écran",
             "Compteur De Traits De Kanji"
+        ],
+        "eng": [
+            "Brush-stroke",
+            "Picture"
         ],
         "onyomi": [
             "が",
@@ -316,7 +430,7 @@
     "回": {
         "kanji": "回",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Tourner",
             "Fois",
             "Rond",
@@ -325,6 +439,13 @@
             "Révolution",
             "Récurrence",
             "Compteur De Fois"
+        ],
+        "eng": [
+            "-times",
+            "Round",
+            "Game",
+            "Revolve",
+            "Counter For Occurrences"
         ],
         "onyomi": [
             "かい",
@@ -345,9 +466,13 @@
     "海": {
         "kanji": "海",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Mer",
             "Océan"
+        ],
+        "eng": [
+            "Sea",
+            "Ocean"
         ],
         "onyomi": [
             "かい"
@@ -359,8 +484,12 @@
     "界": {
         "kanji": "界",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Monde"
+        ],
+        "eng": [
+            "World",
+            "Boundary"
         ],
         "onyomi": [
             "かい"
@@ -370,10 +499,15 @@
     "開": {
         "kanji": "開",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Ouvrir",
             "S'ouvrir",
             "Briser Le Sceau"
+        ],
+        "eng": [
+            "Open",
+            "Unfold",
+            "Unseal"
         ],
         "onyomi": [
             "かい"
@@ -390,10 +524,15 @@
     "楽": {
         "kanji": "楽",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Musique",
             "Agréable",
             "Confort"
+        ],
+        "eng": [
+            "Music",
+            "Comfort",
+            "Ease"
         ],
         "onyomi": [
             "がく",
@@ -409,8 +548,11 @@
     "寒": {
         "kanji": "寒",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Froid (temps)"
+        ],
+        "eng": [
+            "Cold"
         ],
         "onyomi": [
             "かん"
@@ -422,9 +564,13 @@
     "漢": {
         "kanji": "漢",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Sino-",
             "Chine"
+        ],
+        "eng": [
+            "Sino-",
+            "China"
         ],
         "onyomi": [
             "かん"
@@ -434,11 +580,17 @@
     "館": {
         "kanji": "館",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Bâtiment",
             "Grand Bâtiment",
             "Résidence",
             "Palais"
+        ],
+        "eng": [
+            "Building",
+            "Mansion",
+            "Large Building",
+            "Palace"
         ],
         "onyomi": [
             "かん"
@@ -451,8 +603,12 @@
     "顔": {
         "kanji": "顔",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Visage",
+            "Expression"
+        ],
+        "eng": [
+            "Face",
             "Expression"
         ],
         "onyomi": [
@@ -465,12 +621,18 @@
     "帰": {
         "kanji": "帰",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Retour À La Maison",
             "Arriver À",
             "Mener À",
             "Aboutir À",
             "Renvoyer"
+        ],
+        "eng": [
+            "Homecoming",
+            "Arrive At",
+            "Lead To",
+            "Result In"
         ],
         "onyomi": [
             "き"
@@ -485,12 +647,17 @@
     "起": {
         "kanji": "起",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Se Lever",
             "Se Réveiller",
             "Début",
             "Se Produire",
             "Provoquer"
+        ],
+        "eng": [
+            "Rouse",
+            "Wake Up",
+            "Get Up"
         ],
         "onyomi": [
             "き"
@@ -506,13 +673,19 @@
     "急": {
         "kanji": "急",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Urgence",
             "Se Dépêcher",
             "Soudain",
             "Raide",
             "Abrupt",
             "Aigu"
+        ],
+        "eng": [
+            "Hurry",
+            "Emergency",
+            "Sudden",
+            "Steep"
         ],
         "onyomi": [
             "きゅう"
@@ -526,9 +699,13 @@
     "究": {
         "kanji": "究",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Recherche",
             "Étudier"
+        ],
+        "eng": [
+            "Research",
+            "Study"
         ],
         "onyomi": [
             "きゅう",
@@ -541,8 +718,11 @@
     "牛": {
         "kanji": "牛",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Vache"
+        ],
+        "eng": [
+            "Cow"
         ],
         "onyomi": [
             "ぎゅう"
@@ -554,12 +734,21 @@
     "去": {
         "kanji": "去",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Parti",
             "Passé",
             "Quitter",
             "S'écouler",
             "Éliminer",
+            "Divorce"
+        ],
+        "eng": [
+            "Gone",
+            "Past",
+            "Quit",
+            "Leave",
+            "Elapse",
+            "Eliminate",
             "Divorce"
         ],
         "onyomi": [
@@ -574,8 +763,12 @@
     "京": {
         "kanji": "京",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Capitale",
+            "10**16"
+        ],
+        "eng": [
+            "Capital",
             "10**16"
         ],
         "onyomi": [
@@ -590,8 +783,11 @@
     "強": {
         "kanji": "強",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Fort"
+        ],
+        "eng": [
+            "Strong"
         ],
         "onyomi": [
             "きょう",
@@ -608,9 +804,14 @@
     "教": {
         "kanji": "教",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Enseigner",
             "Foi",
+            "Doctrine"
+        ],
+        "eng": [
+            "Teach",
+            "Faith",
             "Doctrine"
         ],
         "onyomi": [
@@ -624,12 +825,18 @@
     "業": {
         "kanji": "業",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Activité",
             "Vocation",
             "Arts",
             "Représentation",
             "Karma"
+        ],
+        "eng": [
+            "Business",
+            "Vocation",
+            "Arts",
+            "Performance"
         ],
         "onyomi": [
             "ぎょう",
@@ -642,11 +849,17 @@
     "近": {
         "kanji": "近",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Près",
             "Tôt",
             "Proche",
             "Équivalent À"
+        ],
+        "eng": [
+            "Near",
+            "Early",
+            "Akin",
+            "Tantamount"
         ],
         "onyomi": [
             "きん",
@@ -659,8 +872,11 @@
     "銀": {
         "kanji": "銀",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Argent"
+        ],
+        "eng": [
+            "Silver"
         ],
         "onyomi": [
             "ぎん"
@@ -672,9 +888,13 @@
     "区": {
         "kanji": "区",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Circonscription",
             "Arrondissement"
+        ],
+        "eng": [
+            "Ward",
+            "District"
         ],
         "onyomi": [
             "く",
@@ -686,9 +906,13 @@
     "兄": {
         "kanji": "兄",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Frère Aîné",
             "Grand Frère"
+        ],
+        "eng": [
+            "Elder Brother",
+            "Big Brother"
         ],
         "onyomi": [
             "けい",
@@ -701,11 +925,17 @@
     "計": {
         "kanji": "計",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Planifier",
             "Projeter",
             "Calcul",
             "Mesure"
+        ],
+        "eng": [
+            "Plot",
+            "Plan",
+            "Scheme",
+            "Measure"
         ],
         "onyomi": [
             "けい"
@@ -718,10 +948,15 @@
     "軽": {
         "kanji": "軽",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Léger",
             "Insignifiant",
             "Sans Importance"
+        ],
+        "eng": [
+            "Lightly",
+            "Trifling",
+            "Unimportant"
         ],
         "onyomi": [
             "けい",
@@ -737,8 +972,11 @@
     "建": {
         "kanji": "建",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Construire"
+        ],
+        "eng": [
+            "Build"
         ],
         "onyomi": [
             "けん",
@@ -754,8 +992,11 @@
     "犬": {
         "kanji": "犬",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Chien"
+        ],
+        "eng": [
+            "Dog"
         ],
         "onyomi": [
             "けん"
@@ -768,10 +1009,15 @@
     "研": {
         "kanji": "研",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Polir",
             "Étudier",
             "Aiguiser"
+        ],
+        "eng": [
+            "Polish",
+            "Study Of",
+            "Sharpen"
         ],
         "onyomi": [
             "けん"
@@ -783,9 +1029,12 @@
     "県": {
         "kanji": "県",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Préfecture",
             "Département"
+        ],
+        "eng": [
+            "Prefecture"
         ],
         "onyomi": [
             "けん"
@@ -797,10 +1046,15 @@
     "験": {
         "kanji": "験",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Vérification",
             "Examen",
             "Effet"
+        ],
+        "eng": [
+            "Verification",
+            "Effect",
+            "Testing"
         ],
         "onyomi": [
             "けん",
@@ -816,10 +1070,15 @@
     "元": {
         "kanji": "元",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Commencement",
             "Origine",
             "Ancien Temps"
+        ],
+        "eng": [
+            "Beginning",
+            "Former Time",
+            "Origin"
         ],
         "onyomi": [
             "げん",
@@ -832,9 +1091,13 @@
     "光": {
         "kanji": "光",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Rayon",
             "Lumière"
+        ],
+        "eng": [
+            "Ray",
+            "Light"
         ],
         "onyomi": [
             "こう"
@@ -847,10 +1110,15 @@
     "好": {
         "kanji": "好",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Aimer Bien",
             "Apprécié",
             "Agréable"
+        ],
+        "eng": [
+            "Fond",
+            "Pleasing",
+            "Like Something"
         ],
         "onyomi": [
             "こう"
@@ -865,11 +1133,16 @@
     "工": {
         "kanji": "工",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Ingénierie",
             "Industrie",
             "Construction",
             "Radical Katakana E (no. 48)"
+        ],
+        "eng": [
+            "Craft",
+            "Construction",
+            "Katakana E Radical (no. 48)"
         ],
         "onyomi": [
             "こう",
@@ -881,10 +1154,15 @@
     "広": {
         "kanji": "広",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Vaste",
             "Large",
             "Spacieux"
+        ],
+        "eng": [
+            "Wide",
+            "Broad",
+            "Spacious"
         ],
         "onyomi": [
             "こう"
@@ -900,9 +1178,13 @@
     "考": {
         "kanji": "考",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Réfléchir",
             "Considérer"
+        ],
+        "eng": [
+            "Consider",
+            "Think Over"
         ],
         "onyomi": [
             "こう"
@@ -915,11 +1197,17 @@
     "合": {
         "kanji": "合",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Correspondre",
             "Convenir",
             "Joindre",
             "Go (0,18 L Ou 0,33 M)"
+        ],
+        "eng": [
+            "Fit",
+            "Suit",
+            "Join",
+            "0.1"
         ],
         "onyomi": [
             "ごう",
@@ -941,8 +1229,11 @@
     "黒": {
         "kanji": "黒",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Noir"
+        ],
+        "eng": [
+            "Black"
         ],
         "onyomi": [
             "こく"
@@ -956,9 +1247,14 @@
     "菜": {
         "kanji": "菜",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Légume",
             "Accompagnement (du Riz)"
+        ],
+        "eng": [
+            "Vegetable",
+            "Side Dish",
+            "Greens"
         ],
         "onyomi": [
             "さい"
@@ -970,11 +1266,17 @@
     "作": {
         "kanji": "作",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Fabriquer",
             "Produire",
             "Construire",
             "Préparer"
+        ],
+        "eng": [
+            "Make",
+            "Production",
+            "Prepare",
+            "Build"
         ],
         "onyomi": [
             "さく",
@@ -989,13 +1291,22 @@
     "産": {
         "kanji": "産",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Production",
             "Porter (fruits)",
             "Donner Naissance",
             "Produire",
             "Natal",
             "Propriété"
+        ],
+        "eng": [
+            "Products",
+            "Bear",
+            "Give Birth",
+            "Yield",
+            "Childbirth",
+            "Native",
+            "Property"
         ],
         "onyomi": [
             "さん"
@@ -1010,10 +1321,16 @@
     "仕": {
         "kanji": "仕",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Servir",
             "Faire",
             "Officiel"
+        ],
+        "eng": [
+            "Attend",
+            "Doing",
+            "Official",
+            "Serve"
         ],
         "onyomi": [
             "し",
@@ -1026,8 +1343,17 @@
     "使": {
         "kanji": "使",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Utiliser"
+        ],
+        "eng": [
+            "Use",
+            "Send On A Mission",
+            "Order",
+            "Messenger",
+            "Envoy",
+            "Ambassador",
+            "Cause"
         ],
         "onyomi": [
             "し"
@@ -1042,9 +1368,13 @@
     "始": {
         "kanji": "始",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Commencer",
             "Débuter"
+        ],
+        "eng": [
+            "Commence",
+            "Begin"
         ],
         "onyomi": [
             "し"
@@ -1058,8 +1388,11 @@
     "姉": {
         "kanji": "姉",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Soeur Aînée"
+        ],
+        "eng": [
+            "Elder Sister"
         ],
         "onyomi": [
             "し"
@@ -1072,10 +1405,15 @@
     "市": {
         "kanji": "市",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Marché",
             "Ville",
             "Cité"
+        ],
+        "eng": [
+            "Market",
+            "City",
+            "Town"
         ],
         "onyomi": [
             "し"
@@ -1087,8 +1425,11 @@
     "思": {
         "kanji": "思",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Penser"
+        ],
+        "eng": [
+            "Think"
         ],
         "onyomi": [
             "し"
@@ -1102,9 +1443,13 @@
     "止": {
         "kanji": "止",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Arrêter",
             "Cesser"
+        ],
+        "eng": [
+            "Stop",
+            "Halt"
         ],
         "onyomi": [
             "し"
@@ -1129,9 +1474,13 @@
     "死": {
         "kanji": "死",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Mort",
             "Mourir"
+        ],
+        "eng": [
+            "Death",
+            "Die"
         ],
         "onyomi": [
             "し"
@@ -1144,10 +1493,15 @@
     "私": {
         "kanji": "私",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Privé",
             "Je",
             "Moi"
+        ],
+        "eng": [
+            "Private",
+            "I",
+            "Me"
         ],
         "onyomi": [
             "し"
@@ -1160,8 +1514,11 @@
     "紙": {
         "kanji": "紙",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Papier"
+        ],
+        "eng": [
+            "Paper"
         ],
         "onyomi": [
             "し"
@@ -1173,12 +1530,19 @@
     "試": {
         "kanji": "試",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Test",
             "Essai",
             "Tentative",
             "Expérience",
             "Épreuve"
+        ],
+        "eng": [
+            "Test",
+            "Try",
+            "Attempt",
+            "Experiment",
+            "Ordeal"
         ],
         "onyomi": [
             "し"
@@ -1191,13 +1555,21 @@
     "事": {
         "kanji": "事",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Fait",
             "Chose",
             "Matière",
             "Affaire",
             "Raison",
             "Peut-être"
+        ],
+        "eng": [
+            "Matter",
+            "Thing",
+            "Fact",
+            "Business",
+            "Reason",
+            "Possibly"
         ],
         "onyomi": [
             "じ",
@@ -1212,11 +1584,17 @@
     "字": {
         "kanji": "字",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Caractère",
             "Lettre",
             "Mot",
             "Hameau"
+        ],
+        "eng": [
+            "Character",
+            "Letter",
+            "Word",
+            "Section Of Village"
         ],
         "onyomi": [
             "じ"
@@ -1230,9 +1608,13 @@
     "持": {
         "kanji": "持",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Avoir",
             "Tenir"
+        ],
+        "eng": [
+            "Hold",
+            "Have"
         ],
         "onyomi": [
             "じ"
@@ -1246,8 +1628,11 @@
     "自": {
         "kanji": "自",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Soi-même"
+        ],
+        "eng": [
+            "Oneself"
         ],
         "onyomi": [
             "じ",
@@ -1262,12 +1647,19 @@
     "室": {
         "kanji": "室",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Pièce",
             "Appartement",
             "Chambre",
             "Serre",
             "Cave"
+        ],
+        "eng": [
+            "Room",
+            "Apartment",
+            "Chamber",
+            "Greenhouse",
+            "Cellar"
         ],
         "onyomi": [
             "しつ"
@@ -1279,11 +1671,17 @@
     "質": {
         "kanji": "質",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Substance",
             "Matière",
             "Qualité",
             "Tempérament"
+        ],
+        "eng": [
+            "Substance",
+            "Quality",
+            "Matter",
+            "Temperament"
         ],
         "onyomi": [
             "しつ",
@@ -1300,10 +1698,15 @@
     "写": {
         "kanji": "写",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Copie",
             "Être Photographié",
             "Décrire"
+        ],
+        "eng": [
+            "Copy",
+            "Be Photographed",
+            "Describe"
         ],
         "onyomi": [
             "しゃ",
@@ -1319,9 +1722,13 @@
     "者": {
         "kanji": "者",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Personne",
             "Quelqu'un"
+        ],
+        "eng": [
+            "Someone",
+            "Person"
         ],
         "onyomi": [
             "しゃ"
@@ -1333,9 +1740,13 @@
     "借": {
         "kanji": "借",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Emprunter",
             "Louer"
+        ],
+        "eng": [
+            "Borrow",
+            "Rent"
         ],
         "onyomi": [
             "しゃく"
@@ -1347,9 +1758,13 @@
     "弱": {
         "kanji": "弱",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Faible",
             "Fragile"
+        ],
+        "eng": [
+            "Weak",
+            "Frail"
         ],
         "onyomi": [
             "じゃく"
@@ -1364,13 +1779,20 @@
     "主": {
         "kanji": "主",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Maître",
             "Seigneur",
             "Chef",
             "Principal",
             "Propriétaire",
             "Mari"
+        ],
+        "eng": [
+            "Lord",
+            "Chief",
+            "Master",
+            "Main Thing",
+            "Principal"
         ],
         "onyomi": [
             "しゅ",
@@ -1386,9 +1808,13 @@
     "首": {
         "kanji": "首",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Cou",
             "Compteur De Chansons Ou Poèmes"
+        ],
+        "eng": [
+            "Neck",
+            "Counter For Songs And Poems"
         ],
         "onyomi": [
             "しゅ"
@@ -1400,8 +1826,11 @@
     "秋": {
         "kanji": "秋",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Automne"
+        ],
+        "eng": [
+            "Autumn"
         ],
         "onyomi": [
             "しゅう"
@@ -1414,9 +1843,13 @@
     "終": {
         "kanji": "終",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Finir",
             "Fin"
+        ],
+        "eng": [
+            "End",
+            "Finish"
         ],
         "onyomi": [
             "しゅう"
@@ -1433,8 +1866,11 @@
     "習": {
         "kanji": "習",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Apprendre"
+        ],
+        "eng": [
+            "Learn"
         ],
         "onyomi": [
             "しゅう",
@@ -1448,12 +1884,19 @@
     "集": {
         "kanji": "集",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Rassembler",
             "Réunir",
             "Collection",
             "Grouiller",
             "Attroupement"
+        ],
+        "eng": [
+            "Gather",
+            "Meet",
+            "Congregate",
+            "Swarm",
+            "Flock"
         ],
         "onyomi": [
             "しゅう"
@@ -1467,10 +1910,16 @@
     "住": {
         "kanji": "住",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Résider",
             "Vivre",
             "Habiter"
+        ],
+        "eng": [
+            "Dwell",
+            "Reside",
+            "Live",
+            "Inhabit"
         ],
         "onyomi": [
             "じゅう",
@@ -1486,12 +1935,22 @@
     "重": {
         "kanji": "重",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Lourd",
             "Empiler",
             "Entasser",
             "S'emboîter",
             "- Couches"
+        ],
+        "eng": [
+            "Heavy",
+            "Important",
+            "Esteem",
+            "Respect",
+            "Heap Up",
+            "Pile Up",
+            "Nest Of Boxes",
+            "-fold"
         ],
         "onyomi": [
             "じゅう",
@@ -1510,8 +1969,12 @@
     "春": {
         "kanji": "春",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Printemps"
+        ],
+        "eng": [
+            "Springtime",
+            "Spring (season)"
         ],
         "onyomi": [
             "しゅん"
@@ -1523,8 +1986,12 @@
     "所": {
         "kanji": "所",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Lieu"
+        ],
+        "eng": [
+            "Place",
+            "Extent"
         ],
         "onyomi": [
             "しょ"
@@ -1539,11 +2006,16 @@
     "暑": {
         "kanji": "暑",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Chaud",
             "Torride",
             "Temps Lourd",
             "Chaleur D'été"
+        ],
+        "eng": [
+            "Sultry",
+            "Hot",
+            "Summer Heat"
         ],
         "onyomi": [
             "しょ"
@@ -1555,7 +2027,7 @@
     "乗": {
         "kanji": "乗",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Monter",
             "Prendre (train, ...)",
             "Embarquer",
@@ -1565,6 +2037,16 @@
             "Mentionner",
             "Compteur De Véhicules",
             "Se Joindre À"
+        ],
+        "eng": [
+            "Ride",
+            "Power",
+            "Multiplication",
+            "Record",
+            "Counter For Vehicles",
+            "Board",
+            "Mount",
+            "Join"
         ],
         "onyomi": [
             "じょう",
@@ -1579,11 +2061,15 @@
     "場": {
         "kanji": "場",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Lieu",
             "Place",
             "Aire",
             "Champ (magnétique)"
+        ],
+        "eng": [
+            "Location",
+            "Place"
         ],
         "onyomi": [
             "じょう",
@@ -1596,8 +2082,11 @@
     "色": {
         "kanji": "色",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Couleur"
+        ],
+        "eng": [
+            "Color"
         ],
         "onyomi": [
             "しょく",
@@ -1610,10 +2099,16 @@
     "心": {
         "kanji": "心",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Coeur",
             "Esprit",
             "Radical Coeur (no. 61)"
+        ],
+        "eng": [
+            "Heart",
+            "Mind",
+            "Spirit",
+            "Heart Radical (no. 61)"
         ],
         "onyomi": [
             "しん"
@@ -1626,9 +2121,13 @@
     "森": {
         "kanji": "森",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Forêt",
             "Bois"
+        ],
+        "eng": [
+            "Forest",
+            "Woods"
         ],
         "onyomi": [
             "しん"
@@ -1640,11 +2139,16 @@
     "真": {
         "kanji": "真",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Exact",
             "Vrai",
             "Réalité",
             "Secte Bouddhiste"
+        ],
+        "eng": [
+            "True",
+            "Reality",
+            "Buddhist Sect"
         ],
         "onyomi": [
             "しん"
@@ -1658,12 +2162,19 @@
     "親": {
         "kanji": "親",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Parent",
             "Parenté",
             "Intimité",
             "Familiarité",
             "Donneur (cartes)"
+        ],
+        "eng": [
+            "Parent",
+            "Intimacy",
+            "Relative",
+            "Familiarity",
+            "Dealer (cards)"
         ],
         "onyomi": [
             "しん"
@@ -1678,10 +2189,16 @@
     "進": {
         "kanji": "進",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Progresser",
             "Avancer",
             "Promouvoir"
+        ],
+        "eng": [
+            "Advance",
+            "Proceed",
+            "Progress",
+            "Promote"
         ],
         "onyomi": [
             "しん"
@@ -1694,12 +2211,19 @@
     "図": {
         "kanji": "図",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Carte",
             "Dessin",
             "Plan",
             "Inattendu",
             "Accidentellement"
+        ],
+        "eng": [
+            "Map",
+            "Drawing",
+            "Plan",
+            "Extraordinary",
+            "Audacious"
         ],
         "onyomi": [
             "ず",
@@ -1713,10 +2237,16 @@
     "世": {
         "kanji": "世",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Génération",
             "Monde",
             "Société",
+            "Public"
+        ],
+        "eng": [
+            "Generation",
+            "World",
+            "Society",
             "Public"
         ],
         "onyomi": [
@@ -1731,11 +2261,17 @@
     "正": {
         "kanji": "正",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Correct",
             "Positif",
             "Juste",
             "Droit",
+            "10**40"
+        ],
+        "eng": [
+            "Correct",
+            "Justice",
+            "Righteous",
             "10**40"
         ],
         "onyomi": [
@@ -1752,8 +2288,11 @@
     "声": {
         "kanji": "声",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Voix"
+        ],
+        "eng": [
+            "Voice"
         ],
         "onyomi": [
             "せい",
@@ -1767,9 +2306,13 @@
     "青": {
         "kanji": "青",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Bleu",
             "Vert"
+        ],
+        "eng": [
+            "Blue",
+            "Green"
         ],
         "onyomi": [
             "せい",
@@ -1784,8 +2327,11 @@
     "赤": {
         "kanji": "赤",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Rouge"
+        ],
+        "eng": [
+            "Red"
         ],
         "onyomi": [
             "せき",
@@ -1802,12 +2348,17 @@
     "切": {
         "kanji": "切",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Couper",
             "Trancher",
             "Tranchant",
             "Passionné",
             "Sérieux"
+        ],
+        "eng": [
+            "Cut",
+            "Cutoff",
+            "Be Sharp"
         ],
         "onyomi": [
             "せつ",
@@ -1829,11 +2380,17 @@
     "説": {
         "kanji": "説",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Théorie",
             "Rumeur",
             "Opinion",
             "Thèse"
+        ],
+        "eng": [
+            "Opinion",
+            "Theory",
+            "Explanation",
+            "Rumor"
         ],
         "onyomi": [
             "せつ",
@@ -1846,10 +2403,15 @@
     "洗": {
         "kanji": "洗",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Laver",
             "Fouiller",
             "Examiner"
+        ],
+        "eng": [
+            "Wash",
+            "Inquire Into",
+            "Probe"
         ],
         "onyomi": [
             "せん"
@@ -1861,9 +2423,13 @@
     "早": {
         "kanji": "早",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Tôt",
             "Rapide"
+        ],
+        "eng": [
+            "Early",
+            "Fast"
         ],
         "onyomi": [
             "そう",
@@ -1881,8 +2447,11 @@
     "走": {
         "kanji": "走",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Courir"
+        ],
+        "eng": [
+            "Run"
         ],
         "onyomi": [
             "そう"
@@ -1894,9 +2463,13 @@
     "送": {
         "kanji": "送",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Escorter",
             "Envoyer"
+        ],
+        "eng": [
+            "Escort",
+            "Send"
         ],
         "onyomi": [
             "そう"
@@ -1908,9 +2481,13 @@
     "族": {
         "kanji": "族",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Tribu",
             "Famille"
+        ],
+        "eng": [
+            "Tribe",
+            "Family"
         ],
         "onyomi": [
             "ぞく"
@@ -1920,9 +2497,13 @@
     "村": {
         "kanji": "村",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Village",
             "Ville"
+        ],
+        "eng": [
+            "Village",
+            "Town"
         ],
         "onyomi": [
             "そん"
@@ -1934,10 +2515,15 @@
     "太": {
         "kanji": "太",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Gras",
             "Dodu",
             "Gros"
+        ],
+        "eng": [
+            "Plump",
+            "Thick",
+            "Big Around"
         ],
         "onyomi": [
             "たい",
@@ -1951,12 +2537,19 @@
     "体": {
         "kanji": "体",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Corps",
             "Substance",
             "Objet",
             "Réalité",
             "Compteur D'images"
+        ],
+        "eng": [
+            "Body",
+            "Substance",
+            "Object",
+            "Reality",
+            "Counter For Images"
         ],
         "onyomi": [
             "たい",
@@ -1970,9 +2563,13 @@
     "待": {
         "kanji": "待",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Attendre",
             "Compter Sur"
+        ],
+        "eng": [
+            "Wait",
+            "Depend On"
         ],
         "onyomi": [
             "たい"
@@ -1985,9 +2582,12 @@
     "貸": {
         "kanji": "貸",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Prêter",
             "Louer"
+        ],
+        "eng": [
+            "Lend"
         ],
         "onyomi": [
             "たい"
@@ -2001,7 +2601,7 @@
     "代": {
         "kanji": "代",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Substituer",
             "Changer",
             "Convertir",
@@ -2014,6 +2614,19 @@
             "Taux",
             "Prix",
             "Redevance"
+        ],
+        "eng": [
+            "Substitute",
+            "Change",
+            "Convert",
+            "Replace",
+            "Period",
+            "Age",
+            "Counter For Decades Of Ages, Eras, Etc.",
+            "Generation",
+            "Charge",
+            "Rate",
+            "Fee"
         ],
         "onyomi": [
             "だい",
@@ -2034,10 +2647,15 @@
     "台": {
         "kanji": "台",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Piédestal",
             "Socle",
             "Compteur De Voitures Ou Machines"
+        ],
+        "eng": [
+            "Pedestal",
+            "A Stand",
+            "Counter For Machines And Vehicles"
         ],
         "onyomi": [
             "だい",
@@ -2052,8 +2670,12 @@
     "題": {
         "kanji": "題",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Sujet"
+        ],
+        "eng": [
+            "Topic",
+            "Subject"
         ],
         "onyomi": [
             "だい"
@@ -2063,12 +2685,19 @@
     "短": {
         "kanji": "短",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Court",
             "Bref",
             "Faute",
             "Défaut",
             "Point Faible"
+        ],
+        "eng": [
+            "Short",
+            "Brevity",
+            "Fault",
+            "Defect",
+            "Weak Point"
         ],
         "onyomi": [
             "たん"
@@ -2080,9 +2709,13 @@
     "知": {
         "kanji": "知",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Savoir",
             "Sagesse"
+        ],
+        "eng": [
+            "Know",
+            "Wisdom"
         ],
         "onyomi": [
             "ち"
@@ -2095,9 +2728,13 @@
     "地": {
         "kanji": "地",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Sol",
             "Terre"
+        ],
+        "eng": [
+            "Ground",
+            "Earth"
         ],
         "onyomi": [
             "ち",
@@ -2108,10 +2745,16 @@
     "池": {
         "kanji": "池",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Étang",
             "Mare",
             "Réservoir (eau)"
+        ],
+        "eng": [
+            "Pond",
+            "Cistern",
+            "Pool",
+            "Reservoir"
         ],
         "onyomi": [
             "ち"
@@ -2123,8 +2766,11 @@
     "茶": {
         "kanji": "茶",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Thé"
+        ],
+        "eng": [
+            "Tea"
         ],
         "onyomi": [
             "ちゃ",
@@ -2135,11 +2781,17 @@
     "着": {
         "kanji": "着",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Enfiler",
             "Porter (vêtement)",
             "Arriver",
             "Compteur De Vêtements"
+        ],
+        "eng": [
+            "Don",
+            "Arrive",
+            "Wear",
+            "Counter For Suits Of Clothing"
         ],
         "onyomi": [
             "ちゃく",
@@ -2155,9 +2807,13 @@
     "昼": {
         "kanji": "昼",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Journée",
             "Midi"
+        ],
+        "eng": [
+            "Daytime",
+            "Noon"
         ],
         "onyomi": [
             "ちゅう"
@@ -2169,7 +2825,7 @@
     "注": {
         "kanji": "注",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Verser",
             "Se Jeter Dans",
             "Arroser",
@@ -2178,6 +2834,16 @@
             "Remarque",
             "Annotation",
             "Commentaire"
+        ],
+        "eng": [
+            "Pour",
+            "Irrigate",
+            "Shed (tears)",
+            "Flow Into",
+            "Concentrate On",
+            "Notes",
+            "Comment",
+            "Annotate"
         ],
         "onyomi": [
             "ちゅう"
@@ -2191,13 +2857,21 @@
     "朝": {
         "kanji": "朝",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Matin",
             "Dynastie",
             "Régime",
             "Période",
             "Époque",
             "Corée (nord)"
+        ],
+        "eng": [
+            "Morning",
+            "Dynasty",
+            "Regime",
+            "Epoch",
+            "Period",
+            "(north) Korea"
         ],
         "onyomi": [
             "ちょう"
@@ -2209,11 +2883,17 @@
     "町": {
         "kanji": "町",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Quartier",
             "Ville",
             "Village",
             "Rue"
+        ],
+        "eng": [
+            "Town",
+            "Village",
+            "Block",
+            "Street"
         ],
         "onyomi": [
             "ちょう"
@@ -2225,9 +2905,13 @@
     "鳥": {
         "kanji": "鳥",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Oiseau",
             "Poulet"
+        ],
+        "eng": [
+            "Bird",
+            "Chicken"
         ],
         "onyomi": [
             "ちょう"
@@ -2239,12 +2923,19 @@
     "通": {
         "kanji": "通",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Circulation",
             "Passer Par",
             "Avenue",
             "Trajet (travail)",
             "Compteur De Lettres, Notes, ..."
+        ],
+        "eng": [
+            "Traffic",
+            "Pass Through",
+            "Avenue",
+            "Commute",
+            "Counter For Letters, Notes, Documents, Etc."
         ],
         "onyomi": [
             "つう",
@@ -2264,9 +2955,14 @@
     "低": {
         "kanji": "低",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Bas",
             "Petit (taille)",
+            "Humble"
+        ],
+        "eng": [
+            "Lower",
+            "Short",
             "Humble"
         ],
         "onyomi": [
@@ -2281,11 +2977,15 @@
     "弟": {
         "kanji": "弟",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Frère Cadet",
             "Apprenti",
             "Disciple",
             "Service Déférent Aux Ainés"
+        ],
+        "eng": [
+            "Younger Brother",
+            "Faithful Service To Elders"
         ],
         "onyomi": [
             "てい",
@@ -2299,10 +2999,15 @@
     "転": {
         "kanji": "転",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Rouler",
             "Tourner",
             "Changer"
+        ],
+        "eng": [
+            "Revolve",
+            "Turn Around",
+            "Change"
         ],
         "onyomi": [
             "てん"
@@ -2321,8 +3026,12 @@
     "田": {
         "kanji": "田",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Rizière"
+        ],
+        "eng": [
+            "Rice Field",
+            "Rice Paddy"
         ],
         "onyomi": [
             "でん"
@@ -2334,9 +3043,15 @@
     "都": {
         "kanji": "都",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Métropole",
             "Capitale"
+        ],
+        "eng": [
+            "Metropolis",
+            "Capital",
+            "All",
+            "Everything"
         ],
         "onyomi": [
             "と",
@@ -2349,11 +3064,19 @@
     "度": {
         "kanji": "度",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Degré",
             "Occurrence",
             "Fois",
             "Compteur D'occurrences"
+        ],
+        "eng": [
+            "Degrees",
+            "Occurrence",
+            "Time",
+            "Counter For Occurrences",
+            "Consider",
+            "Attitude"
         ],
         "onyomi": [
             "ど",
@@ -2368,8 +3091,11 @@
     "冬": {
         "kanji": "冬",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Hiver"
+        ],
+        "eng": [
+            "Winter"
         ],
         "onyomi": [
             "とう"
@@ -2381,9 +3107,13 @@
     "答": {
         "kanji": "答",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Solution",
             "Réponse"
+        ],
+        "eng": [
+            "Solution",
+            "Answer"
         ],
         "onyomi": [
             "とう"
@@ -2396,9 +3126,13 @@
     "頭": {
         "kanji": "頭",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Tête",
             "Compteur De Gros Animaux"
+        ],
+        "eng": [
+            "Head",
+            "Counter For Large Animals"
         ],
         "onyomi": [
             "とう",
@@ -2415,8 +3149,12 @@
     "働": {
         "kanji": "働",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Travailler",
+            "(kokuji)"
+        ],
+        "eng": [
+            "Work",
             "(kokuji)"
         ],
         "onyomi": [
@@ -2429,12 +3167,20 @@
     "動": {
         "kanji": "動",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Bouger",
             "Mouvement",
             "Changement",
             "Confusion",
             "Secouer"
+        ],
+        "eng": [
+            "Move",
+            "Motion",
+            "Change",
+            "Confusion",
+            "Shift",
+            "Shake"
         ],
         "onyomi": [
             "どう"
@@ -2447,10 +3193,15 @@
     "同": {
         "kanji": "同",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Identique",
             "Similaire",
             "Égal"
+        ],
+        "eng": [
+            "Same",
+            "Agree",
+            "Equal"
         ],
         "onyomi": [
             "どう"
@@ -2462,12 +3213,16 @@
     "堂": {
         "kanji": "堂",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Édifice Public",
             "Temple",
             "Salle",
             "Hall",
             "Grandiose (bâtiment)"
+        ],
+        "eng": [
+            "Public Chamber",
+            "Hall"
         ],
         "onyomi": [
             "どう"
@@ -2477,8 +3232,11 @@
     "特": {
         "kanji": "特",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Spécial"
+        ],
+        "eng": [
+            "Special"
         ],
         "onyomi": [
             "とく"
@@ -2488,9 +3246,12 @@
     "肉": {
         "kanji": "肉",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Chair",
             "Viande"
+        ],
+        "eng": [
+            "Meat"
         ],
         "onyomi": [
             "にく"
@@ -2502,8 +3263,11 @@
     "売": {
         "kanji": "売",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Vendre"
+        ],
+        "eng": [
+            "Sell"
         ],
         "onyomi": [
             "ばい"
@@ -2516,7 +3280,7 @@
     "発": {
         "kanji": "発",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Départ",
             "Décharge",
             "Dégagement",
@@ -2525,6 +3289,15 @@
             "Partir De",
             "Divulguer",
             "Compteur De Coups De Feu"
+        ],
+        "eng": [
+            "Departure",
+            "Discharge",
+            "Publish",
+            "Emit",
+            "Start From",
+            "Disclose",
+            "Counter For Gunshots"
         ],
         "onyomi": [
             "はつ",
@@ -2541,9 +3314,13 @@
     "飯": {
         "kanji": "飯",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Repas",
             "Riz Bouilli"
+        ],
+        "eng": [
+            "Meal",
+            "Boiled Rice"
         ],
         "onyomi": [
             "はん"
@@ -2555,8 +3332,12 @@
     "病": {
         "kanji": "病",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Malade"
+        ],
+        "eng": [
+            "Ill",
+            "Sick"
         ],
         "onyomi": [
             "びょう",
@@ -2571,12 +3352,19 @@
     "品": {
         "kanji": "品",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Marchandise",
             "Dignité",
             "Raffinement",
             "Article",
             "Compteur De Plats"
+        ],
+        "eng": [
+            "Goods",
+            "Refinement",
+            "Dignity",
+            "Article",
+            "Counter For Meal Courses"
         ],
         "onyomi": [
             "ひん",
@@ -2589,12 +3377,19 @@
     "不": {
         "kanji": "不",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Négation",
             "Non",
             "Mauvais",
             "Laid",
             "Maladroit"
+        ],
+        "eng": [
+            "Negative",
+            "Non-",
+            "Bad",
+            "Ugly",
+            "Clumsy"
         ],
         "onyomi": [
             "ふ",
@@ -2605,11 +3400,17 @@
     "風": {
         "kanji": "風",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Vent",
             "Air",
             "Style",
             "Manière"
+        ],
+        "eng": [
+            "Wind",
+            "Air",
+            "Style",
+            "Manner"
         ],
         "onyomi": [
             "ふう",
@@ -2623,12 +3424,18 @@
     "服": {
         "kanji": "服",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Habillement",
             "Admettre",
             "Obéir",
             "Libérer (renvoi)",
             "Avaler (médicament)"
+        ],
+        "eng": [
+            "Clothing",
+            "Admit",
+            "Obey",
+            "Discharge"
         ],
         "onyomi": [
             "ふく"
@@ -2638,10 +3445,15 @@
     "物": {
         "kanji": "物",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Objet",
             "Chose",
             "Matière"
+        ],
+        "eng": [
+            "Thing",
+            "Object",
+            "Matter"
         ],
         "onyomi": [
             "ぶつ",
@@ -2655,7 +3467,7 @@
     "文": {
         "kanji": "文",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Phrase",
             "Littérature",
             "Style",
@@ -2664,6 +3476,16 @@
             "Figure (de Style)",
             "Plan",
             "Radical Littéraire (no. 67)"
+        ],
+        "eng": [
+            "Sentence",
+            "Literature",
+            "Style",
+            "Art",
+            "Decoration",
+            "Figures",
+            "Plan",
+            "Literary Radical (no. 67)"
         ],
         "onyomi": [
             "ぶん",
@@ -2677,12 +3499,21 @@
     "別": {
         "kanji": "別",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Séparer",
             "Spécialement",
             "Diverger",
             "Extra",
             "Un Autre"
+        ],
+        "eng": [
+            "Separate",
+            "Branch Off",
+            "Diverge",
+            "Fork",
+            "Another",
+            "Extra",
+            "Specially"
         ],
         "onyomi": [
             "べつ"
@@ -2695,11 +3526,19 @@
     "便": {
         "kanji": "便",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Commodité",
             "Courrier",
             "Vol (avion)",
             "Nouvelles"
+        ],
+        "eng": [
+            "Convenience",
+            "Facility",
+            "Excrement",
+            "Feces",
+            "Letter",
+            "Chance"
         ],
         "onyomi": [
             "べん",
@@ -2712,8 +3551,16 @@
     "勉": {
         "kanji": "勉",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Exercice"
+        ],
+        "eng": [
+            "Exertion",
+            "Endeavour",
+            "Encourage",
+            "Strive",
+            "Make Effort",
+            "Diligent"
         ],
         "onyomi": [
             "べん"
@@ -2725,9 +3572,13 @@
     "歩": {
         "kanji": "歩",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Marcher",
             "Compteur De Pas"
+        ],
+        "eng": [
+            "Walk",
+            "Counter For Steps"
         ],
         "onyomi": [
             "ほ",
@@ -2742,9 +3593,14 @@
     "方": {
         "kanji": "方",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Direction",
             "Personne",
+            "Alternative"
+        ],
+        "eng": [
+            "Direction",
+            "Person",
             "Alternative"
         ],
         "onyomi": [
@@ -2759,8 +3615,11 @@
     "妹": {
         "kanji": "妹",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Soeur Cadette"
+        ],
+        "eng": [
+            "Younger Sister"
         ],
         "onyomi": [
             "まい"
@@ -2772,9 +3631,13 @@
     "味": {
         "kanji": "味",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Goût",
             "Saveur"
+        ],
+        "eng": [
+            "Flavor",
+            "Taste"
         ],
         "onyomi": [
             "み"
@@ -2787,10 +3650,15 @@
     "民": {
         "kanji": "民",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Peuple",
             "Nation",
             "Citoyen"
+        ],
+        "eng": [
+            "People",
+            "Nation",
+            "Subjects"
         ],
         "onyomi": [
             "みん"
@@ -2802,9 +3670,13 @@
     "明": {
         "kanji": "明",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Clair",
             "Lumière"
+        ],
+        "eng": [
+            "Bright",
+            "Light"
         ],
         "onyomi": [
             "めい",
@@ -2827,10 +3699,15 @@
     "問": {
         "kanji": "問",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Question",
             "Demander",
             "Problème"
+        ],
+        "eng": [
+            "Question",
+            "Ask",
+            "Problem"
         ],
         "onyomi": [
             "もん"
@@ -2844,9 +3721,13 @@
     "門": {
         "kanji": "門",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Portail",
             "Compteur De Canons"
+        ],
+        "eng": [
+            "Gate",
+            "Counter For Cannons"
         ],
         "onyomi": [
             "もん"
@@ -2859,9 +3740,13 @@
     "夜": {
         "kanji": "夜",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Nuit",
             "Soirée"
+        ],
+        "eng": [
+            "Night",
+            "Evening"
         ],
         "onyomi": [
             "や"
@@ -2874,11 +3759,17 @@
     "野": {
         "kanji": "野",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Sauvage",
             "Champ",
             "Rustique",
             "Vie Civile"
+        ],
+        "eng": [
+            "Plains",
+            "Field",
+            "Rustic",
+            "Civilian Life"
         ],
         "onyomi": [
             "や",
@@ -2892,12 +3783,19 @@
     "薬": {
         "kanji": "薬",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Médicament",
             "Produit Chimique",
             "Émail",
             "Poudre À Canon",
             "Bénéfice"
+        ],
+        "eng": [
+            "Medicine",
+            "Chemical",
+            "Enamel",
+            "Gunpowder",
+            "Benefit"
         ],
         "onyomi": [
             "やく"
@@ -2909,11 +3807,19 @@
     "有": {
         "kanji": "有",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Posséder",
             "Avoir",
             "Être",
             "Arriver (se Passer)"
+        ],
+        "eng": [
+            "Possess",
+            "Have",
+            "Exist",
+            "Happen",
+            "Occur",
+            "Approx"
         ],
         "onyomi": [
             "ゆう",
@@ -2926,8 +3832,11 @@
     "夕": {
         "kanji": "夕",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Soirée"
+        ],
+        "eng": [
+            "Evening"
         ],
         "onyomi": [
             "せき"
@@ -2939,8 +3848,11 @@
     "曜": {
         "kanji": "曜",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Jour De La Semaine"
+        ],
+        "eng": [
+            "Weekday"
         ],
         "onyomi": [
             "よう"
@@ -2950,9 +3862,15 @@
     "洋": {
         "kanji": "洋",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Océan",
             "Style Occidental"
+        ],
+        "eng": [
+            "Ocean",
+            "Sea",
+            "Foreign",
+            "Western Style"
         ],
         "onyomi": [
             "よう"
@@ -2962,12 +3880,19 @@
     "用": {
         "kanji": "用",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Se Servir De",
             "Affaires",
             "Service",
             "Utiliser",
             "Employer"
+        ],
+        "eng": [
+            "Utilize",
+            "Business",
+            "Service",
+            "Use",
+            "Employ"
         ],
         "onyomi": [
             "よう"
@@ -2979,12 +3904,19 @@
     "理": {
         "kanji": "理",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Logique",
             "Principe",
             "Raison",
             "Justice",
             "Vérité"
+        ],
+        "eng": [
+            "Logic",
+            "Arrangement",
+            "Reason",
+            "Justice",
+            "Truth"
         ],
         "onyomi": [
             "り"
@@ -2996,8 +3928,12 @@
     "旅": {
         "kanji": "旅",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Voyage"
+        ],
+        "eng": [
+            "Trip",
+            "Travel"
         ],
         "onyomi": [
             "りょ"
@@ -3009,12 +3945,16 @@
     "料": {
         "kanji": "料",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Redevance",
             "Recette",
             "Frais",
             "Prix",
             "Matériau"
+        ],
+        "eng": [
+            "Fee",
+            "Materials"
         ],
         "onyomi": [
             "りょう"
@@ -3024,7 +3964,7 @@
     "力": {
         "kanji": "力",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Force",
             "Fort",
             "Puissance",
@@ -3032,6 +3972,14 @@
             "Tenir Le Coup",
             "S'efforcer",
             "Employer (force)"
+        ],
+        "eng": [
+            "Power",
+            "Strength",
+            "Strong",
+            "Strain",
+            "Bear Up",
+            "Exert"
         ],
         "onyomi": [
             "りょく",
@@ -3045,9 +3993,13 @@
     "林": {
         "kanji": "林",
         "jlpt": 3,
-        "meanings": [
+        "fr": [
             "Bois (petite Forêt)",
             "Bois"
+        ],
+        "eng": [
+            "Grove",
+            "Forest"
         ],
         "onyomi": [
             "りん"

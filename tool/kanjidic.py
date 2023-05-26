@@ -1,7 +1,5 @@
-import os
 import string
 import json
-from xml.dom.minidom import parse, parseString
 import xml.etree.ElementTree as ET
 
 jplt_4_kanjidic2 = {}
@@ -23,7 +21,8 @@ def get_kanjidic2_data():
         entry = {
             "kanji": None,
             "jlpt": None,
-            "meanings": [],
+            "fr": [],
+            "eng": [],
             "onyomi": [],
             "kunyomi": []
         }
@@ -47,7 +46,9 @@ def get_kanjidic2_data():
                 for meaning in meanings:
                     m_lang = meaning.get("m_lang")
                     if m_lang == "fr":
-                        entry["meanings"].append(string.capwords(meaning.text))
+                        entry["fr"].append(string.capwords(meaning.text))
+                    if m_lang is None or m_lang == "en":
+                        entry["eng"].append(string.capwords(meaning.text))
 
                 readings = rmgroup.findall("reading")
                 for reading in readings:
